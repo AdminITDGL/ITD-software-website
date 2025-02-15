@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Start Meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Courier management software, logistics software, courier software services, ecommerce logistics ,delivery management software. ">
+    <meta name="keywords" content="Boost efficiency with ITD Services' advanced logistics and courier management software. Optimize ecommerce logistics, delivery, and operations with our cutting-edge solutions.">
+    <meta name="author" content="ITD Services Pvt Ltd">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title of Site -->
+    <title>ITD Services: Best Courier Management Software</title>
+
+    <?php include('includes/header_script.php') ?>
+
+<body>
+
+    <?php include('includes/header.php') ?>
+
+
+    <!-- Banner Area Start -->
+    <div class="page__banner">
+        <div class="page__banner-shape">
+            <img src="./assets/img/shape/page-banner-shape.webp" alt="image">
+        </div>
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-xl-6 col-lg-7">
+                    <div class="page__banner-content">
+                        <h2>Contact Us</h2>
+                        <span><a href="index.php">Home</a>
+                            <span>|</span>
+                            Contact Us
+                        </span>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="page__banner-img">
+                        <img src="./assets/img/banner/page-banner-img.webp" alt="image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Banner Area End -->
+
+    <!-- Contact Two Start -->
+
+	<div class="contact__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="contact__two-content">
+						<div class="contact__two-title">
+							<span class="subtitle-one">Contact us</span>
+							<h2>Do you have any question? </h2>
+							<p>We’re here to assist you! Whether you need more information about our services our team is ready to help. Reach out to us through the form below.
+                            </p>
+						</div>
+						<div class="contact__two-form">
+							<form action="#">
+								<div class="row gy-4 mb-4">
+									<div class="col-xl-6">
+										<input type="text" placeholder="Your Name">
+									</div>
+
+									<div class="col-xl-6">
+										<input type="email" placeholder="Your E-mail">
+									</div>	
+
+									<div class="col-xl-6">
+										<input type="tel" placeholder="Phone Number">
+									</div>
+
+									<div class="col-xl-6">
+										<input type="text" placeholder="Subject">
+									</div>
+								</div>
+								<textarea placeholder="Your Message"></textarea>
+								<button type="submit" class="btn-two">
+									Submit Now
+									<i class="fas fa-chevron-right"></i>
+								</button>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="contact__two-contact-info">
+						<div class="contact__two-single-info">
+							<div class="contact__two-single-info-icon">
+								<img src="assets/img/icon/service-1.png" alt="image">
+							</div>
+							<div class="contact__two-single-info-content">
+								<h4>Email</h4>
+								<span>ashish@itdservices.in</span>
+								<span>virag@itdservices.in</span>
+								<span>keshav@itdservices.in</span>
+							</div>
+						</div>
+						<div class="contact__two-single-info">
+							<div class="contact__two-single-info-icon">
+								<img src="assets/img/icon/service-2.png" alt="image">
+							</div>
+							<div class="contact__two-single-info-content">
+								<h4>Contacts</h4>
+								<span>+91 9769591364
+                                </span>
+								<span>+91 7900131009</span>
+								<span>+91 9769353573</span>
+							</div>
+						</div>
+						<div class="contact__two-single-info">
+							<div class="contact__two-single-info-icon">
+								<img src="assets/img/icon/service-3.png" alt="image">
+							</div>
+							<div class="contact__two-single-info-content">
+								<h4>Date</h4>
+								<span>Mon-Fri 10.Am To 9.Pm</span>
+								<span>Saturday 12.Pm To 9.Pm</span>
+							</div>
+						</div>
+						<div class="contact__two-single-info">
+							<div class="contact__two-single-info-icon">
+								<img src="assets/img/icon/service-4.png" alt="image">
+							</div>
+							<div class="contact__two-single-info-content">
+								<h4>Location</h4>
+								<span>2A7, 2nd floor Gundecha Onclave, Kherani road,Oppo. Sakinaka Post Office, Near Sakinaka Metro Station,Sakinaka, ANDHERI (East), Mumbai 400069</span>
+							</div>    
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Contact Two End -->
+
+	<!-- Contact Location Start -->
+
+	<div class="location-map">
+    <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.027175820053!2d72.88642252395192!3d19.1064637010179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c872f6f8a54d%3A0xb238830da921cbc7!2sGundecha%20Onclave%2C%20Ansa%20Industrial%20Estate%2C%20Chandivali%2C%20Andheri%20East%2C%20Mumbai%2C%20Maharashtra%20400072!5e0!3m2!1sen!2sin!4v1739369019074!5m2!1sen!2sin" 
+        
+loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+
+	<!-- Contact Location Start -->
+
+    <?php include('includes/footer.php') ?>
+    <?php include('includes/footer_script.php') ?>
