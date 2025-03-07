@@ -52,7 +52,7 @@
                                             <div class="col-md-3"><a href="courier-pickup.php">Courier pickup management</a></div>
 
                                             <div class="col-md-3"><a href="real-time-shipping.php">Real-time shipment tracking</a></div>
-                                            <div class="col-md-3"><a href="proof-delivering.php">Proof of delivery (POD)</a></div>
+                                            <div class="col-md-3"><a href="proof-delivery.php">Proof of delivery (POD)</a></div>
                                             <div class="col-md-3"><a href="custom-relation.php">Customer relationship management</a></div>
 
                                             <div class="col-md-3"><a href="customized-billing.php">Customized billing & invoicing services</a></div>
