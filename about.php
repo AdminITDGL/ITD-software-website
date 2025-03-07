@@ -187,8 +187,7 @@
                                 <div class="single-slider swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 1" style="width: 522px; margin-right: 30px;">
                                     <div class="single-slider-user">
                                         <div class="single-slider-user-name">
-                                            <h4>Nasir Al Shakib </h4>
-                                            <span>Content Creator</span>
+                                            <h4>Mustafa Khan</h4>
                                         </div>
                                         <div class="single-slider-user-rating">
                                             <i class="fas fa-star"></i>
@@ -198,13 +197,13 @@
                                             <i class="fas fa-star not-rated"></i>
                                         </div>
                                     </div>
-                                    <p>Their product exceeded his my ro expectations. The the quality and attention to moutstandin an and it has become an essential most a education the a man who can do tant clearly</p>
+                                    <p>ITD Services exceeded all my expectations with their professional, efficient, and reliable service. Thier customer service team was always available and incredibly helpful. Plus, their competitive pricing makes them a top choice. Highly recommended!
+                                    </p>
                                 </div>
                                 <div class="single-slider swiper-slide swiper-slide-active swiper-slide-duplicate-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" role="group" aria-label="1 / 1" style="width: 522px; margin-right: 30px;">
                                     <div class="single-slider-user">
                                         <div class="single-slider-user-name">
-                                            <h4>Nasir Al Shakib </h4>
-                                            <span>Content Creator</span>
+                                            <h4>Rubina Rajput</h4>
                                         </div>
                                         <div class="single-slider-user-rating">
                                             <i class="fas fa-star"></i>
@@ -214,13 +213,12 @@
                                             <i class="fas fa-star not-rated"></i>
                                         </div>
                                     </div>
-                                    <p>Their product exceeded his my ro expectations. The the quality and attention to moutstandin an and it has become an essential most a education the a man who can do tant clearly</p>
+                                    <p>Their service was incredibly quick and reliable, surpassing my previous experiences with other logistics providers.</p>
                                 </div>
                                 <div class="single-slider swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-next" data-swiper-slide-index="0" role="group" aria-label="1 / 1" style="width: 522px; margin-right: 30px;">
                                     <div class="single-slider-user">
                                         <div class="single-slider-user-name">
-                                            <h4>Nasir Al Shakib </h4>
-                                            <span>Content Creator</span>
+                                            <h4>Pramod Jadhav</h4>
                                         </div>
                                         <div class="single-slider-user-rating">
                                             <i class="fas fa-star"></i>
@@ -230,7 +228,8 @@
                                             <i class="fas fa-star not-rated"></i>
                                         </div>
                                     </div>
-                                    <p>Their product exceeded his my ro expectations. The the quality and attention to moutstandin an and it has become an essential most a education the a man who can do tant clearly</p>
+                                    <p>Very good experience while dealing with Mr.Ashish Aghera
+                                    </p>
                                 </div>
                             </div>
                             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
