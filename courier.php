@@ -229,7 +229,7 @@
 								<i class="fas fa-award"></i>
 							</div>
 							<div class="award-count">
-								<h3 class="counter">20</h3>
+								<h3 >20</h3>
 								<h3>+</h3>
 							</div>
 							<span>Winning award</span>

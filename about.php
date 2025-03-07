@@ -55,7 +55,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 class="counter">25</h4>
+                                    <h4 >25</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -102,64 +102,7 @@
     <!-- About Area End -->
 
     <!-- Brand Area Start -->
-    <div class="brand__area section-padding pt-0">
-        <div class="container">
-            <div class="row brand__area-border">
-                <div class="col-xl-12">
-                    <div class="swiper brand__slider swiper-initialized swiper-horizontal swiper-pointer-events">
-                        <div class="swiper-wrapper" id="swiper-wrapper-3d612329a89a37da" aria-live="off" style="transform: translate3d(-2386.8px, 0px, 0px); transition-duration: 1500ms;">
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-1.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-2.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="3 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-3.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-4.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-5.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-1.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-2.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide" data-swiper-slide-index="2" role="group" aria-label="3 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-3.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-prev" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-4.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-active" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-5.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="0" role="group" aria-label="1 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-1.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="2 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-2.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" role="group" aria-label="3 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-3.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="3" role="group" aria-label="4 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-4.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="4" role="group" aria-label="5 / 5" style="width: 235.2px; margin-right: 30px;">
-                                <img src="assets/img/brand/brand-5.png" alt="image">
-                            </div>
-                        </div>
-                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
     <!-- Brand Area End -->
 
     <!-- Work process Area Start -->

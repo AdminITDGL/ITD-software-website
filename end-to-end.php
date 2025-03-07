@@ -198,7 +198,7 @@
 									<h4>Orders Processed Successfully</h4>
 								</div>
 								<div class="why-choose-us__three-bottom-card-counter">
-									<h4 class="counter">250</h4>
+									<h4 >250</h4>
 									<h4>k+</h4>
 								</div>
 							</div>
@@ -208,7 +208,7 @@
 									<h4>Global Clients Served</h4>
 								</div>
 								<div class="why-choose-us__three-bottom-card-counter">
-									<h4 class="counter">300</h4>
+									<h4 >300</h4>
 									<h4>+</h4>
 								</div>
 							</div>

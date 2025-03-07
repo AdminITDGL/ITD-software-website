@@ -39,7 +39,7 @@
                     <div class="header__area-menubar-center-menu menu-responsive">
                         <ul id="mobilemenu">
                             <li class="menu-item-has-children">
-                                <a href="#">Home<i class="fas fa-angle-down"></i></a>
+                                <a href="index.php">Home<i class="fas fa-angle-down"></i></a>
                             </li>
                             <li class="menu-item-has-children"><a href="about.php">About Us <i class="fas fa-angle-down"></i></a>
                             </li>
@@ -71,10 +71,37 @@
 
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children"><a href="#">Resources <i class="fas fa-angle-down"></i></a>
+                            <li class="menu-item-has-children"><a href="#">Platform Features <i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="contact.php">Contact Style 1</a></li>
-                                    <li><a href="contact-two.php">Contact Style 2</a></li>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-3"><a href="pickup-scheduling.php">Pickup Scheduling</a></div>
+                                            <div class="col-md-3"><a href="inbound-hub.php">Inbound Hub Scanning</a></div>
+                                            <div class="col-md-3"><a href="outgoing-manifest.php">Outgoing Manifest Creation</a></div>
+
+                                            <div class="col-md-3"><a href="branch-to-hub.php">Branch-to-Hub Transfer Management</a></div>
+                                            <div class="col-md-3"><a href="run-sheet.php">Delivery Run Sheet Management</a></div>
+                                            <div class="col-md-3"><a href="delivery-status.php">Delivery Status Updates</a></div>
+
+                                            <div class="col-md-3"><a href="effortless-courier.php">Mobile App for Operations</a></div>
+                                            <div class="col-md-3"><a href="custom-report.php">Custom Report Creation</a></div>
+                                            <div class="col-md-3"><a href="ticket-management.php">Ticket Management</a></div>
+
+                                            <div class="col-md-3"><a href="customized-billing.php">Customized Billing & Invoicing</a></div>
+                                            <div class="col-md-3"><a href="credi-debit.php">Credit and Debit NOte Generation</a></div>
+                                            <div class="col-md-3"><a href="automatic-ledger.php">Automatic Ledger Posting</a></div>
+
+                                            <div class="col-md-3"><a href="customer-portal.php">Customer Portal Access</a></div>
+                                            <div class="col-md-3"><a href="kyc.php">KYC Upload Feature</a></div>
+                                            <div class="col-md-3"><a href="user-role.php">User Role Management</a></div>
+
+                                            <div class="col-md-3"><a href="label-creation.php">Barcode Generation</a></div>
+                                            <div class="col-md-3"><a href="notification.php">Real-time Notifications</a></div>
+
+                                            <div class="col-md-3"><a href="track-trace.php">Track and Trace Services</a></div>
+                                        </div>
+                                    </div>
+
                                 </ul>
                             </li>
                             <li class="menu-item-has-children"><a href="#">Blog <i class="fas fa-angle-down"></i></a>

@@ -173,7 +173,7 @@
 						<p>Simplify tasks to enhance customer experiences & Businesses to embrace cutting-edge technology for courier solutions</p>
 						<div class="satisfied-customer-counter">
 							<div class="counter-wrapper">
-								<h3 class="counter">400</h3>
+								<h3 >400</h3>
 								<h3>+</h3>
 							</div>
 							<span>Satisfied Customers</span>

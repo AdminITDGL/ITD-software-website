@@ -61,33 +61,7 @@
     <!-- Banner Area End -->
 
     <!-- Brand Area Start -->
-    <div class="brand__area pt-115">
-        <div class="container">
-            <div class="row brand__area-border">
-                <div class="col-xl-12">
-                    <div class="swiper brand__slider">
-                        <div class="swiper-wrapper">
-                            <div class="brand__area-item swiper-slide">
-                                <img src="assets/img/brand/brand-1.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide">
-                                <img src="assets/img/brand/brand-2.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide">
-                                <img src="assets/img/brand/brand-3.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide">
-                                <img src="assets/img/brand/brand-4.png" alt="image">
-                            </div>
-                            <div class="brand__area-item swiper-slide">
-                                <img src="assets/img/brand/brand-5.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
     <!-- Brand Area End -->
 
     <!-- About Area Start -->
@@ -100,7 +74,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 class="counter">25</h4>
+                                    <h4 >25</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
