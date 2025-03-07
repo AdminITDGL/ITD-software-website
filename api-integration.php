@@ -159,7 +159,7 @@
 					<div class="about__three-right">
 						<div class="row align-items-center">
 							<div class="about__three-right-counter">
-								<h4 class="counter">25</h4>
+								<h4 >25</h4>
 								<span>Years Of experience</span>								
 							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">

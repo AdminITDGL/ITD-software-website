@@ -21,7 +21,7 @@
         <img class="footer__two-shape" src="assets/img/shape/footer-two-bg.png" alt="image">
         <div class="container">
             <div class="row gy-4 justify-content-between">
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__two-widget">
                         <div class="footer__two-widget-about">
                             <a href="#"><img src="assets/img/logo-2.png" alt="image"></a>
@@ -40,37 +40,47 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__two-widget ml-85">
                         <h4>Quick Link</h4>
                         <div class="footer__two-widget-solution">
                             <ul>
-                                <li><a href="#"><i class="far fa-chevron-double-right"></i>Service</a></li>
-                                <li><a href="faq.php"><i class="far fa-chevron-double-right"></i>FAQ</a></li>
-                                <li><a href="testimonial.php"><i class="far fa-chevron-double-right"></i>Testimonial</a></li>
-                                <li><a href="about.php"><i class="far fa-chevron-double-right"></i>About Us</a></li>
+                                <li><a href="ablut.php"><i class="far fa-chevron-double-right"></i>About</a></li>
+                                <li><a href="about#.php"><i class="far fa-chevron-double-right"></i>Services</a></li>
+                                <li><a href="ablut#.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>
+                                <li><a href="contact.php"><i class="far fa-chevron-double-right"></i>Contact</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                <div class="col-xl-6 col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__two-widget">
-                        <h4>Our Services</h4>
+                        <h4>Services</h4>
                         <div class="footer__two-widget-solution">
                             <ul>
-                                <li><a href="#"><i class="far fa-chevron-double-right"></i>Hosting Solution</a></li>
-                                <li><a href="#"><i class="far fa-chevron-double-right"></i>Cyber Security</a></li>
-                                <li><a href="#"><i class="far fa-chevron-double-right"></i>Network Analysis</a></li>
-                                <li><a href="#"><i class="far fa-chevron-double-right"></i>Data Recovery</a></li>
+                                <li><a href="end-to-end.php"><i class="far fa-chevron-double-right"></i>End-to-End Courier Operations Management</a></li>
+                                <li><a href="courier-pickup.php"><i class="far fa-chevron-double-right"></i>Courier Pickup Management</a></li>
+                                <li><a href="real-time-shipping.php"><i class="far fa-chevron-double-right"></i>Real-Time Shipment Tracking</a></li>
+                                <li><a href="proof-delivery.php"><i class="far fa-chevron-double-right"></i>Proof of Delivery (POD) Service</a></li>
+                                <li><a href="custom-relation.php"><i class="far fa-chevron-double-right"></i>Customer Relationship Management</a></li>
+                                <li><a href="customized-billing.php"><i class="far fa-chevron-double-right"></i>Customized Billing & Invoicing Services</a></li>
+                                <li><a href="api-integration.php"><i class="far fa-chevron-double-right"></i>API Integration Services</a></li>
+                                <li><a href="bulk.php"><i class="far fa-chevron-double-right"></i>Bulk Shipment Processing Services</a></li>
+                                <li><a href="international-shipping.php"><i class="far fa-chevron-double-right"></i>International Shipping Services</a></li>
+                                <li><a href="warehousing.php"><i class="far fa-chevron-double-right"></i>Warehouse and Hub Operations Services</a></li>
+                                <li><a href="notification.php"><i class="far fa-chevron-double-right"></i>Notification Services (SMS, Email, WhatsApp) </a></li>
+                                <li><a href="consultant.php"><i class="far fa-chevron-double-right"></i>Logistics Consultation Services</a></li>
+                                <li><a href="aggregation.php"><i class="far fa-chevron-double-right"></i>Courier Aggregation Services</a></li>
+                                <li><a href="#"><i class="far fa-chevron-double-right"></i>Dynamic Pricing Services</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6">
                     <div class="footer__two-widget">
                         <h4>Follow Us</h4>
                         <div class="footer__two-widget-subscribe">
-                            <p>The latest news, articles, sent to your inbox weekly.</p>
+                            <p>Follow us for the latest updates </p>
                             <div class="footer__two-widget-social">
                                 <ul>
                                     <li><a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a></li>

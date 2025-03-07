@@ -330,7 +330,7 @@
                     <div class="work-process-area__one-right-counter-img">
                         <div class="img-counter">
                             <div class="counter-only">
-                                <h2 class="counter">20</h2>
+                                <h2 >20</h2>
                                 <h2>+</h2>
                             </div>
                             <span>years of experiences</span>

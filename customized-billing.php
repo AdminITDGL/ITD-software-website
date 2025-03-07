@@ -66,7 +66,7 @@
                         <div class="experience-bar animate-y-axis-slider">
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 class="counter">25</h4>
+                                    <h4>25</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Of Experience</span>
