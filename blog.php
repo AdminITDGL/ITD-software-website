@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Start Meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Courier management software, logistics software, courier software services, ecommerce logistics ,delivery management software. ">
+    <meta name="keywords" content="Boost efficiency with ITD Services' advanced logistics and courier management software. Optimize ecommerce logistics, delivery, and operations with our cutting-edge solutions.">
+    <meta name="author" content="ITD Services Pvt Ltd">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title of Site -->
+    <title>ITD Services: Best Courier Management Software</title>
+
+    <?php include('includes/header_script.php') ?>
+
+    <style>
+        .post-card {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .post-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+        }
+
+        .post-card h3 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        .post-card a.btn {
+            margin-top: 10px;
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .post-card a.btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+
+<body>
+    <?php include('includes/header.php') ?>
+
+
+    <!-- Banner Area Start -->
+    <div class="page__banner">
+        <div class="page__banner-shape">
+            <img src="./assets/img/shape/page-banner-shape.webp" alt="image">
+        </div>
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-xl-6 col-lg-7">
+                    <div class="page__banner-content">
+                        <h2>Blog & News</h2>
+                        <span><a href="index.php">Home</a>
+                            <span>|</span>
+                            Blog & News
+                        </span>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-5">
+                    <div class="page__banner-img">
+                        <img src="./assets/img/banner/page-banner-img.webp" alt="image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Banner Area End -->
+
+    <!-- Contact Two Start -->
+
+    <div class="contact__two section-padding" style="padding-bottom: 15%;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>Top Features Every Courier Management Software Should Have</h3>
+                        <a href="Top_Features_Every_Courier_Management_Software_Should_Have.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>How Logistics Software Improves Delivery Efficiency
+                        </h3>
+                        <a href="How_Logistics_Software_Improves_Delivery_Efficiency.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>Real-Time Tracking: Why It’s Crucial for Courier Services</h3>
+                        <a href="Real_Time_Tracking_Why_It_Crucial_for_Courier_Services.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>Cloud-Based Courier Software: Benefits & Use Cases</h3>
+                        <a href="Cloud_Based_Courier_Software_Benefits_Use_Cases.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>How Route Optimization Saves Time and Money
+                        </h3>
+                        <a href="How_Route_Optimization_Saves_Time_and_Money.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <?php include('includes/footer.php') ?>
+    <?php include('includes/footer_script.php') ?>

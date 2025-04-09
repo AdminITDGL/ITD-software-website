@@ -76,7 +76,7 @@
                                     <li><a href="track-trace.php">Track and Trace Services</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children"><a href="#">Blog <i class="fas fa-angle-down"></i></a></li>
+                            <li class="menu-item-has-children"><a href="blog.php">Blog <i class="fas fa-angle-down"></i></a></li>
                             <li class="menu-item-has-children"><a href="contact.php">Contact Us<i class="fas fa-angle-down"></i></a></li>
                         </ul>
                     </div>

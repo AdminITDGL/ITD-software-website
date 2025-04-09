@@ -59,7 +59,7 @@
                           <ul>
                               <li><a href="about.php"><i class="far fa-chevron-double-right"></i>About</a></li>
                               <li><a href="courier.php"><i class="far fa-chevron-double-right"></i>Services</a></li>
-                              <li><a href="#.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>
+                              <li><a href="blog.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>
                               <li><a href="contact.php"><i class="far fa-chevron-double-right"></i>Contact</a></li>
                           </ul>
                       </div>
