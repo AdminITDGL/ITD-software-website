@@ -1,4 +1,32 @@
     <!-- Preloader Start -->
+    <style>
+        .service-menu {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .service-item {
+            flex: 1 1 13%;
+            text-align: center;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+            margin: 7px;
+        }
+
+        .service-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .service-item a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+        }
+    </style>
     <div class="loader">
         <span class="loader-container"></span>
     </div>
@@ -37,43 +65,114 @@
                             <li class="menu-item-has-children"><a href="about.php">About Us <i class="fas fa-angle-down"></i></a></li>
                             <li class="menu-item-has-children"><a href="#">Services <i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="courier.php">Courier Management</a></li>
-                                    <li><a href="end-to-end.php">End-to-End Courier Operations</a></li>
-                                    <li><a href="courier-pickup.php">Courier pickup management</a></li>
-                                    <li><a href="real-time-shipping.php">Real-time shipment tracking</a></li>
-                                    <li><a href="proof-delivery.php">Proof of delivery (POD)</a></li>
-                                    <li><a href="custom-relation.php">Customer relationship management</a></li>
-                                    <li><a href="customized-billing.php">Customized billing & invoicing services</a></li>
-                                    <li><a href="api-integration.php">API Integration services</a></li>
-                                    <li><a href="bulk.php">Bulk shipment processing services</a></li>
-                                    <li><a href="international-shipping.php">International Shipping Services</a></li>
-                                    <li><a href="warehousing.php">Warehouse and Hub Operations Services</a></li>
-                                    <li><a href="notification.php">Notification Services</a></li>
-                                    <li><a href="consultant.php">Logistics consultation services</a></li>
-                                    <li><a href="Aggregation.php">Courier Aggregation Services</a></li>
-                                    <li><a href="dynamic-pricing.php">Dynamic Pricing Services</a></li>
+                                    <div class="service-menu">
+                                        <div class="service-item">
+                                            <a href="courier.php">Courier Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="end-to-end.php">End-to-End Courier Operations</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="courier-pickup.php">Courier Pickup Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="real-time-shipping.php">Real-Time Shipment Tracking</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="proof-delivery.php">Proof of Delivery (POD)</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="custom-relation.php">Customer Relationship Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="customized-billing.php">Customized Billing & Invoicing Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="api-integration.php">API Integration Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="bulk.php">Bulk Shipment Processing Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="international-shipping.php">International Shipping Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="warehousing.php">Warehouse and Hub Operations Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="notification.php">Notification Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="consultant.php">Logistics Consultation Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="aggregation.php">Courier Aggregation Services</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="dynamic-pricing.php">Dynamic Pricing Services</a>
+                                        </div>
+                                    </div>
+
                                 </ul>
                             </li>
                             <li class="menu-item-has-children"><a href="#">Platform Features <i class="fas fa-angle-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="pickup-scheduling.php">Pickup Scheduling</a></li>
-                                    <li><a href="inbound-hub.php">Inbound Hub Scanning</a></li>
-                                    <li><a href="outgoing-manifest.php">Outgoing Manifest Creation</a></li>
-                                    <li><a href="branch-to-hub.php">Branch-to-Hub Transfer Management</a></li>
-                                    <li><a href="run-sheet.php">Delivery Run Sheet Management</a></li>
-                                    <li><a href="delivery-status.php">Delivery Status Updates</a></li>
-                                    <li><a href="effortless-courier.php">Mobile App for Operations</a></li>
-                                    <li><a href="custom-report.php">Custom Report Creation</a></li>
-                                    <li><a href="ticket-management.php">Ticket Management</a></li>
-                                    <li><a href="customized-billing.php">Customized Billing & Invoicing</a></li>
-                                    <li><a href="credi-debit.php">Credit and Debit Note Generation</a></li>
-                                    <li><a href="automatic-ledger.php">Automatic Ledger Posting</a></li>
-                                    <li><a href="customer-portal.php">Customer Portal Access</a></li>
-                                    <li><a href="kyc.php">KYC Upload Feature</a></li>
-                                    <li><a href="user-role.php">User Role Management</a></li>
-                                    <li><a href="label-creation.php">Barcode Generation</a></li>
-                                    <li><a href="notification.php">Real-time Notifications</a></li>
-                                    <li><a href="track-trace.php">Track and Trace Services</a></li>
+                                    <div class="service-menu">
+                                        <div class="service-item">
+                                            <a href="pickup-scheduling.php">Pickup Scheduling</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="inbound-hub.php">Inbound Hub Scanning</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="outgoing-manifest.php">Outgoing Manifest Creation</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="branch-to-hub.php">Branch-to-Hub Transfer Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="run-sheet.php">Delivery Run Sheet Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="delivery-status.php">Delivery Status Updates</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="effortless-courier.php">Mobile App for Operations</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="custom-report.php">Custom Report Creation</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="ticket-management.php">Ticket Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="customized-billing.php">Customized Billing & Invoicing</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="credi-debit.php">Credit and Debit Note Generation</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="automatic-ledger.php">Automatic Ledger Posting</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="customer-portal.php">Customer Portal Access</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="kyc.php">KYC Upload Feature</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="user-role.php">User Role Management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="label-creation.php">Barcode Generation</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="notification.php">Real-Time Notifications</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="track-trace.php">Track and Trace Services</a>
+                                        </div>
+                                    </div>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children"><a href="blog.php">Blog <i class="fas fa-angle-down"></i></a></li>
