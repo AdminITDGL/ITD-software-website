@@ -116,6 +116,27 @@
                         <a href="How_Route_Optimization_Saves_Time_and_Money.php" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>How Courier Software Helps Ecommerce Sellers
+                        </h3>
+                        <a href="How_Courier_Software_Helps_Ecommerce_Sellers.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>White-Label Courier Software: Is It Right for Your Business?
+                        </h3>
+                        <a href="White_Label_Courier_Software_Is_It_Right_for_Your_Business.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 blog-post">
+                    <div class="post-card">
+                        <h3>White-Label Courier Software: Is It Right for Your Business?
+                        </h3>
+                        <a href="White_Label_Courier_Software_Is_It_Right_for_Your_Business.php" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
