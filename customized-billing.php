@@ -28,9 +28,9 @@
                     <div class="banner__four-content">
                         <span class="subtitle-two">Billing Solutions
                         </span>
-                        <h2>Leading the Way in Customized Billing & Invoicing Solutions
+                        <h2>Billing Solutions Built for Logistics
                         </h2>
-                        <p>Tailor-made billing and invoicing solutions that cater to the unique needs of the courier industry.</p>
+                        <p>Auto-generate accurate invoices, apply rate cards, and manage payments—all from one smart billing platform.</p>
                         <div class="banner__four-content-bottom">
                             <a href="contact.php" class="btn-two">Book a demo
                                 <i class="fas fa-arrow-right"></i>
@@ -66,7 +66,7 @@
                         <div class="experience-bar animate-y-axis-slider">
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4>25</h4>
+                                    <h4>8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Of Experience</span>
@@ -81,23 +81,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__four-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Trusted Experts in Courier Billing& invoice Solutions</h2>
-                        <p>Discover ITD Software, a leader in delivering customized billing & invoicing solutions designed for courier service businesses.
+                        <h2>Courier Billing Made Seamless & Scalable</h2>
+                        <p> ITD Software delivers smart, tailored billing & invoicing solutions for courier businesses—enhancing speed, accuracy and growth.
                         </p>
                         <div class="about__four-content-service">
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span> Trusted Expertise
+                                <span>Industry-Ready & Customizable
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Industry-Specific Solutions
+                                <span>Automation for Error-Free Invoicing
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Efficiency and Accuracy</span>
+                                <span>Scales Easily with Business Needs</span>
                             </div>
                         </div>
                         <a href="about.php" class="btn-one">Get started
@@ -117,7 +117,7 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <span class="subtitle-one">Core features
                     </span>
-                    <h2>Powerful Billing & invoice Features</h2>
+                    <h2>Smart Features Built for Smarter Billing</h2>
                 </div>
             </div>
             <div class="row gy-4 justify-content-center">
@@ -127,9 +127,8 @@
                             <i class="flaticon-software-development"></i>
                         </div>
                         <div class="services__four-single-service-content">
-                            <h4>Custom Invoices</h4>
-                            <p> Tailor invoices for branding and client satisfaction
-                            .</p>
+                            <h4>Global Support</h4>
+                            <p>Manage multiple currencies, tax settings & languages for seamless international billing.</p>
                             <a href="#" class="btn-three">read more
                                 <i class="fas fa-chevron-right"></i>
                             </a>
@@ -142,22 +141,8 @@
                             <i class="flaticon-cyber-security"></i>
                         </div>
                         <div class="services__four-single-service-content">
-                            <h4>Global Support</h4>
-                            <p> Handle multiple currencies and languages effortlessly.</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="services__four-single-service">
-                        <div class="services__four-single-service-icon">
-                            <i class="flaticon-data-scientist"></i>
-                        </div>
-                        <div class="services__four-single-service-content">
                             <h4>Auto Reminders</h4>
-                            <p>Send automated payment reminders and overdue notices.</p>
+                            <p>Send scheduled payment reminders to reduce delays & improve cash flow.</p>
                             <a href="#" class="btn-three">read more
                                 <i class="fas fa-chevron-right"></i>
                             </a>
@@ -192,9 +177,9 @@
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Reliable, Scalable, and Accurate Billing & invoice Solutions
+                            <h2>Streamlined Workflow with Full Support
                             </h2>
-                            <p>For dependable, expandable, and error-free special billing and invoicing solutions for the courier sector, choose ITD Software.
+                            <p> Our billing solution follows a structured 4-step workflow—from planning to integration—ensuring zero disruption and maximum efficiency.
                             </p>
                         </div>
                         <div class="why-choose-us__three-bottom">
@@ -208,16 +193,7 @@
                                     <h4>k+</h4>
                                 </div>
                             </div>
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <i class="flaticon-data-scientist"></i>
-                                    <h4>Global Clients Served</h4>
-                                </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4 >300</h4>
-                                    <h4>+</h4>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -319,6 +295,81 @@
         </div>
     </div>
     <!-- Skill two Area End -->
+
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can your billing system handle complex rate structures and surcharges?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p> Yes. Our platform supports custom rate cards, zone-based pricing, fuel surcharges, weight brackets, and other courier-specific billing rules—ensuring accurate invoicing for every shipment.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Is the system compatible with existing ERP, TMS, or accounting tools?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Absolutely. We offer seamless integration with popular ERP, transportation management, and accounting systems, ensuring smooth data flow across your operations without manual input.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How secure is the billing and payment data?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Data security is a top priority. Our system follows industry-standard encryption protocols, role-based access controls, and secure data storage to protect all financial and client information.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can the platform handle billing for multiple branches or franchise models?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, our solution supports multi-location billing, letting you manage invoices separately or collectively for branches, partners, or franchises—perfect for growing logistics networks.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 
     <?php include('includes/footer.php') ?>

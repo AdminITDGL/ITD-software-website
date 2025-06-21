@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Instant Alerts
+                        <span class="subtitle-one">Notification Services
                         </span>
-                        <h2>Real-Time Notifications for 
-                        <span>Couriers</span></h2>
-                        <p>Stay updated with automated notifications for shipments, delivery status, and customer alerts.
+                        <h2>Stay Connected with Smart 
+                        <span>Notifications</span></h2>
+                        <p>Automate real-time SMS, email, or WhatsApp alerts for shipment updates, invoices, delays, and more
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -75,7 +75,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -90,9 +90,9 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Experts in Smart Notification Services
+                        <h2>Smart Notification Services
                         </h2>
-                        <p>Cutting-edge notification solutions, ensuring seamless communication with real-time alerts across SMS, email, WhatsApp, and app notifications.</p>
+                        <p>Enhance courier communication with AI-powered alerts across SMS, email, WhatsApp, and apps for real-time updates</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -132,7 +132,7 @@
             <div class="row justify-content-center text-center">
                 <div class="col-xl-7 col-lg-7 col-md-9 services__one-title">
                     <span class="subtitle-one">Core Features</span>
-                    <h2>Smart Workflow for Notification alerts.
+                    <h2>Reliable Multi-Channel Alert System
                     </h2>
                 </div>
             </div>
@@ -145,8 +145,8 @@
                                     <i class="flaticon-global-network"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Effortless System </h4>
-                                    <p>IntegrationSync ITD Software’s notification system with courier platforms for automated alerts.</p>
+                                    <h4>Effortless Integration.</h4>
+                                    <p>Easily sync with courier systems for instant, automated status notifications.</p>
                                 </div>
                             </div>
                         </div>
@@ -156,8 +156,8 @@
                                     <i class="flaticon-mobile-phone-1"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>AI-Powered Alert Triggers </h4>
-                                    <p>Enable auto-notifications for order confirmations, dispatch updates, and delivery status.</p>
+                                    <h4>Real-Time Delivery Updates</h4>
+                                    <p> Send timely alerts across SMS, WhatsApp, email, and other apps.</p>
                                 </div>
                             </div>
                         </div>
@@ -176,8 +176,8 @@
                                     <i class="flaticon-idea"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Multi-channel Delivery Execution</h4>
-                                    <p>Push notifications via SMS, WhatsApp, email, and app alerts for real-time tracking.</p>
+                                    <h4>Performance Analytics</h4>
+                                    <p> Track customer engagement and optimize alert efficiency.</p>
                                 </div>
                             </div>
                         </div>
@@ -209,9 +209,9 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Revolutionizing Courier Updates with Multi-Channel Alerts
+                            <h2>AI Alerts for Better Customer Engagement
                             </h2>
-                            <p>Automate real-time alerts, reducing delays and improving delivery transparency through SMS, WhatsApp, email, and app notifications.
+                            <p>Keep users informed and engaged, and boost delivery transparency through intelligent, cross-platform alerts.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -220,8 +220,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Custom Alert Preferences</h4>
-                                    <p>Personalize notifications based on urgency and customer needs.
+                                    <h4>Automated Engagement</h4>
+                                    <p> Trigger automatic alerts for dispatch, delivery, and confirmations, keeping the customer informed.
                                     </p>
                                 </div>
                             </div>
@@ -230,8 +230,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Omnichannel Messaging</h4>
-                                    <p>Deliver notifications via SMS, WhatsApp, email, and mobile apps.
+                                    <h4>Customizable Alerts</h4>
+                                    <p>Prioritize alerts by urgency, milestones, and customer preferences, increasing customer engagement.
                                     </p>
                                 </div>
                             </div>
@@ -254,7 +254,7 @@
     <!-- Why choose us Area End -->
 
     <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
@@ -316,8 +316,83 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Work process Area End -->
+
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I control which notifications are sent to different users or teams?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Yes, you can set custom rules and preferences for different user types—customers, vendors, or internal teams—ensuring each party gets only the most relevant alerts.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How secure is the notification system when handling sensitive delivery or billing information?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Our platform uses end-to-end encryption and follows strict data privacy protocols (like GDPR and industry standards) to ensure that all notifications and customer data remain secure.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Do you offer multilingual notifications for global users?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, we support multilingual message templates so you can send alerts in your customer’s preferred language, enhancing user experience across regions.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>What happens if a notification fails to deliver?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Failed notifications are automatically logged and retried, and you can view detailed delivery reports to track and resolve issues across any channel.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 
 <?php include('includes/footer.php')?>

@@ -7361,7 +7361,7 @@ p {
 }
 
 .why-choose-us__three-bottom-card-counter h4 {
-    font-size: 48px;
+    /* font-size: 48px; */
     line-height: 1.2;
     font-weight: 500;
     text-transform: none;

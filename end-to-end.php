@@ -26,9 +26,9 @@
 			<div class="row align-items-center gy-4 justify-content-center">
 				<div class="col-xl-6 col-lg-6">
 					<div class="banner__four-content">
-						<span class="subtitle-two">Seamless Courier Solutions</span>
-						<h2>End-to-End Courier Operations Simplified</h2>
-						<p>Simplify your courier operations with our end-to-end solution, optimizing dispatch, tracking, delivery, and customer experience.</p>
+						<span class="subtitle-two">Courier Operations</span>
+						<h2>Seamless Courier Operations</h2>
+						<p>Manage orders, dispatch, tracking, and delivery from a single platform tailored for growth and precision.</p>
 						<div class="banner__four-content-bottom">
 							<a href="contact.php" class="btn-two">Start your free trial.
 								<i class="fas fa-arrow-right"></i>
@@ -64,7 +64,7 @@
 						<div class="experience-bar animate-y-axis-slider">
 							<div class="experience-bar-right">
 								<div class="experience-bar-counter">
-									<h4>25</h4>
+									<h4>8</h4>
 									<span>+</span>
 								</div>
 								<span>Years Of Experience</span>
@@ -79,22 +79,22 @@
 				<div class="col-xl-6 col-lg-7 col-md-9">
 					<div class="about__four-content">
 						<span class="subtitle-one">About us</span>
-						<h2>We are expert  in end-to-end courier operation</h2>
-						<p>In logistics, ITD Software redefines precision. Our end-to-end courier operations empower businesses, optimize operations, and enhance delivery experiences with innovative, cutting-edge technology.
+						<h2>Control Every Step of Delivery</h2>
+						<p>Simplify courier logistics from start to finish with a powerful platform that manages orders, dispatches, drivers, and customer updates—all in real time for better performance and planning.
                         </p>
 						<div class="about__four-content-service">
 							<div class="service">
 								<i class="fas fa-check-circle"></i>
-								<span>Optimizing Complex Logistics Systems</span>
+								<span>Order Lifecycle Tracking</span>
 							</div>
 							<div class="service">
 								<i class="fas fa-check-circle"></i>
-								<span>Enabling Courier Firms with Technology
+								<span>Fleet & Driver Monitoring
                                 </span>
 							</div>
 							<div class="service">
 								<i class="fas fa-check-circle"></i>
-								<span>Timely and Precise Deliveries</span>
+								<span>Route & Cost Optimization</span>
 							</div>
 						</div>
 						<a href="about.php" class="btn-one">Discover More
@@ -113,7 +113,7 @@
 			<div class="row justify-content-center text-center mb-50">
 				<div class="col-xl-6 col-lg-7 col-md-9">
 					<span class="subtitle-one">What We Do</span>
-					<h2>Courier management operations</h2>
+					<h2>Built for Courier Workflow Mastery</h2>
 				</div>
 			</div>
 			<div class="row gy-4 justify-content-center">
@@ -123,8 +123,8 @@
                             <i class="flaticon-software-development"></i>
 						</div>
 						<div class="services__four-single-service-content">
-							<h4>Order Management</h4>
-							<p>Manage the order lifecycle with real-time updates.</p>
+							<h4>Real-Time Parcel Tracking</h4>
+							<p>Track every shipment with live GPS for full delivery transparency.</p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
@@ -137,8 +137,8 @@
                             <i class="flaticon-cyber-security"></i>
 						</div>
 						<div class="services__four-single-service-content">
-							<h4>Real-Time Parcel Tracking</h4>
-							<p>Provide live GPS tracking for accurate delivery updates.</p>
+							<h4>Smart Route Optimization</h4>
+							<p>Plan the most efficient paths and reduce delays or fuel costs.</p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
@@ -186,30 +186,28 @@
 					<div class="why-choose-us__three-left">
 						<div class="why-choose-us__three-title">
 							<span class="subtitle-one">Why Chose Us</span>
-							<h2>Evalue Your Courier Operations with ITD Software
+							<h2>Scalable Tech with Security & Flexibility
                             </h2>
-							<p>Unlock your courier business's potential with ITD Software’s end-to-end solutions, built to ease workflows and boost efficiency.
+							<p>From startups to enterprise, our courier operations system adapts to your workflow—securely and intelligently.
                             </p>
 						</div>
 						<div class="why-choose-us__three-bottom">
 							<div class="why-choose-us__three-bottom-card">
 								<div class="why-choose-us__three-bottom-card-content">
 									<i class="flaticon-web-research"></i>
-									<h4>Orders Processed Successfully</h4>
+									<h4>Custom Workflow Design</h4>
 								</div>
 								<div class="why-choose-us__three-bottom-card-counter">
-									<h4 >250</h4>
-									<h4>k+</h4>
+									<h4 >Easily mold the platform to your unique logistics process.</h4>
 								</div>
 							</div>
 							<div class="why-choose-us__three-bottom-card">
 								<div class="why-choose-us__three-bottom-card-content">
 									<i class="flaticon-data-scientist"></i>
-									<h4>Global Clients Served</h4>
+									<h4>Enterprise-Grade Security</h4>
 								</div>
 								<div class="why-choose-us__three-bottom-card-counter">
-									<h4 >300</h4>
-									<h4>+</h4>
+									<h4 >Protect data with encryption, fraud detection & 24/7 monitoring.</h4>
 								</div>
 							</div>
 						</div>
@@ -227,7 +225,7 @@
 	<!-- Why choose us Area End -->
 
 	<!-- Skill two Area Start -->
-	<div class="skill__two section-padding">
+	<!-- <div class="skill__two section-padding">
 		<div class="container">
 			<ul class="row nav mb-5 gy-4 justify-content-center">
 				<li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -431,8 +429,83 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- Skill two Area End -->
+
+	<!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I customize the system for my courier process?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Yes, the platform is built to support custom workflows, reports, and business rules tailored to your operations.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Does this manage both first-mile and last-mile?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Absolutely. From order intake to final delivery, every stage of courier movement is covered.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Is it possible to manage multiple warehouses?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, multi-warehouse support ensures centralized coordination and seamless package routing.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How secure is the platform?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> The system uses end-to-end encryption, fraud monitoring, and complies with major data privacy.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 
     <?php include('includes/footer.php') ?>

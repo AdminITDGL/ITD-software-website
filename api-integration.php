@@ -29,9 +29,9 @@
 						<div class="row justify-content-center">
 							<div class="col-xl-10">
 								<div class="banner__three-content">
-									<span class="subtitle-one">Digital Growth</span>
-									<h2>Seamless API Integration for Courier Businesses</h2>
-									<p>ITD Software specializes in robust API integrations that connect courier systems, improving operational efficiency.</p>
+									<span class="subtitle-one">API Integration</span>
+									<h2>Seamless API Integrations for Smarter Logistics</h2>
+									<p>Connect your platform to ERPs, carriers, eCommerce tools & more—sync data and automate workflows easily.</p>
 									<a href="about.php" class="btn-two">Get started 
 										<i class="fas fa-arrow-right"></i>
 									</a>
@@ -46,9 +46,9 @@
 						<div class="row justify-content-center">
 							<div class="col-xl-10">
 								<div class="banner__three-content">
-                                    <span class="subtitle-one">Digital Growth</span>
-									<h2>Seamless API Integration for Courier Businesses</h2>
-									<p>ITD Software specializes in robust API integrations that connect courier systems, improving operational efficiency.</p>
+									<span class="subtitle-one">API Integration</span>
+									<h2>Seamless API Integrations for Smarter Logistics</h2>
+									<p>Connect your platform to ERPs, carriers, eCommerce tools & more—sync data and automate workflows easily.</p>
 									<a href="about.php" class="btn-two">Get started 
 										<i class="fas fa-arrow-right"></i>
 									</a>
@@ -70,7 +70,7 @@
 				<div class="col-xl-6">
 					<div class="services__three-title text-center">
 						<span class="subtitle-one">Our service</span>
-						<h2>Transform Courier Business with 
+						<h2>Secure, Scalable & Compatible APIs
                         <span class="highlighted-two">API Solutions</span></h2>
 					</div>
 				</div>
@@ -82,8 +82,8 @@
                             <i class="flaticon-data-scientist"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Real-Time Tracking</h4>
-							<p>Enable live tracking for shipments, improving transparency and customer experience.</p>
+							<h4>Global Software Compatibility:</h4>
+							<p>Integrates easily with courier software, CRMs, ERPs, and e-commerce platforms.</p>
 							<a href="#" class="btn-three">Read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
@@ -96,8 +96,8 @@
                             <i class="flaticon-it-service"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Automated Order Processing</h4>
-							<p> Streamline order management by integrating with e-commerce and CRM platforms.
+							<h4>Advanced Security Measures</h4>
+							<p>Uses encryption, token-based authentication, and access controls.
                             </p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
@@ -111,10 +111,10 @@
                             <i class="flaticon-mobile-app"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Billing & Invoicing API
+							<h4>Fast Implementation
                             </h4>
-							<p>Sync invoicing systems for accurate, automated financial transactions.</p>
-							<a href="#" class="btn-three">read more
+							<p>Completed in a few days or weeks based on complexity, with full support from our team.</p>
+							<a href="about.php" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
 						</div>
@@ -132,23 +132,23 @@
 				<div class="col-xl-6 col-lg-6 col-md-10 col-sm-12">
 					<div class="about__three-content">
 						<span class="subtitle-one">About us</span>
-						<h2>Experts in Smart API <span class="highlighted-two">Solutions</span></h2>
-						<p>Trusted by leading courier companies, we offer tailored API solutions to enhance automation and connectivity.
+						<h2>Built for Real-Time Courier <span class="highlighted-two">Efficiency</span></h2>
+						<p>Experience error-free operations with API solutions that automate orders, sync data instantly, and simplify backend courier workflows.
                         </p>
 						<div class="about__three-content-service">
 							<div class="about__three-content-service-single">
 								<i class="flaticon-good-feedback"></i>
 								<div class="content">
-									<h4>Seamless SystemConnectivity</h4>
-									<p>Integrate courier software with e-commerce, CRM, and payment platforms for real-time data sync.</p>
+									<h4>Automated Courier Ops</h4>
+									<p>Trigger dispatch, tracking, and invoicing via integrated systems with minimal manual input.</p>
 								</div>
 							</div>
 							<div class="about__three-content-service-single">
 								<i class="flaticon-incoming-message"></i>
 								<div class="content">
-									<h4>Enhanced Automation & Efficiency
+									<h4>Custom API Development
                                     </h4>
-									<p>Automate order processing, dispatching, invoicing, and tracking to reduce errors and save time.
+									<p> Get APIs built for your unique logistics workflow, ensuring tailored connectivity.
                                     </p>
 								</div>
 							</div>
@@ -159,7 +159,7 @@
 					<div class="about__three-right">
 						<div class="row align-items-center">
 							<div class="about__three-right-counter">
-								<h4 >25</h4>
+								<h4 >8</h4>
 								<span>Years Of experience</span>								
 							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
@@ -211,12 +211,12 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>Is API integration secure? 
+									<h6>What kind of support do you offer during and after API integration?
                                     </h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Security protocols like encryption and authentication ensure safe API connections. We use advanced encryption, authentication, and access controls to protect sensitive business data.
+									<p> We offer end-to-end support, including consultation, sandbox testing, live deployment, and post-integration maintenance. Our team is available to troubleshoot issues and ensure smooth performance long-term.
                                     </p>
 								</div>
 							</div>
@@ -224,22 +224,34 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can APIs work with any software?</h6>
+									<h6>Will API integration cause any downtime or disrupt my current operations?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>APIs are designed for compatibility with various courier and logistics platforms.Our APIs integrate with courier management systems, CRMs, payment gateways, and third-party logistics tools.</p>
+									<p> No, we design integrations to be non-disruptive. Most processes are tested and deployed in parallel environments to ensure your current systems run uninterrupted.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How long does integration take? </h6>
+									<h6>Can I monitor API performance and usage in real time?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Integration time varies but typically takes from a few days to a few weeks.The timeline depends on complexity, but our team ensures a smooth, quick, and efficient setup.
+									<p> Yes. We provide API analytics dashboards to help you track usage, success rates, error logs, and data flow in real time—so you stay in control.
+                                    </p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Is your API solution flexible for future upgrades or system changes?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Absolutely. Our APIs are designed to be modular and scalable, so they can adapt to new systems, business expansions, or process upgrades without requiring a full rebuild.
                                     </p>
 								</div>
 							</div>

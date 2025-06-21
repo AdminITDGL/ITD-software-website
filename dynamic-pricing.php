@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Pricing Solutions
+                        <span class="subtitle-one">Dynamic Services
                         </span>
-                        <h2>Dynamic Pricing Services for 
-                        <span>Couriers</span></h2>
-                        <p>Dynamic Pricing Services adjust courier prices in real-time based on factors like demand and delivery specifics, helping businesses optimize costs and stay competitive.
+                        <h2>Dynamic Pricing, Smarter 
+                        <span>Profits</span></h2>
+                        <p>Update courier rates in real time using smart logic based on demand, delivery zones, and shipment specifics.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -75,7 +75,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -90,24 +90,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Transforming Dynamic Pricing in Courier Services
+                        <h2>Smarter Pricing for Every Shipment
                         </h2>
-                        <p>With years of experience and innovation, we specialize in dynamic pricing systems that help courier businesses streamline costs, enhance competitiveness, and drive growth.
-                        </p>
+                        <p>No more fixed charges. Our dynamic pricing tool calculates real-time delivery rates based on zone, urgency, volume, and demand—helping you stay profitable and competitive every day. </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Automated Pricing Adjustments
+                                <span>Automated Rate Updates
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Cost Optimization
+                                <span>Custom Rules & Logic
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Competitive Edge
+                                <span>On-the-Fly Adjustments
                                 </span>
                             </div>
                             <div class="service">
@@ -258,7 +257,7 @@
     <!-- Services Area End -->
 
     <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
@@ -321,8 +320,83 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Work process Area End -->
+
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What is dynamic pricing for courier services?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p> It’s a smart pricing system that automatically adjusts delivery rates based on variables like demand, zones, and urgency.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I set my own pricing rules?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Yes. You can define rules by weight, location, customer type, delivery speed, or time slot.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Will it affect customer experience?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Positively! Customers get transparent, real-time pricing based on shipment specifics.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Is this feature scalable for growing businesses?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Absolutely. Whether you're handling 10 or 10,000 orders, the system scales with you.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 
 <?php include('includes/footer.php')?>

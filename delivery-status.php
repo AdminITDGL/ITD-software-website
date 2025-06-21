@@ -65,7 +65,7 @@
                         <div class="experience-bar animate-y-axis-slider">
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Of Experience</span>
@@ -210,16 +210,7 @@
                                     <h4>k+</h4>
                                 </div>
                             </div>
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <i class="flaticon-data-scientist"></i>
-                                    <h4>Global Clients Served</h4>
-                                </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4 >300</h4>
-                                    <h4>+</h4>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

@@ -5,7 +5,7 @@
     <!-- Start Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Courier management software, logistics software, courier software services, ecommerce logistics ,delivery management software. ">
+    <meta name="description" content=" Streamline delivery, tracking, and operations with ITD Services’ advanced logistics and courier management software. Designed for ecommerce growth and real-time efficiency.">
     <meta name="keywords" content="Boost efficiency with ITD Services' advanced logistics and courier management software. Optimize ecommerce logistics, delivery, and operations with our cutting-edge solutions.">
     <meta name="author" content="ITD Services Pvt Ltd">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,11 +35,11 @@
                     <div class="banner__one-content">
                         <span class="subtitle-one">Courier Management Software
                         </span>
-                        <h2>Advanced Courier Software for
-                        <span> Smarter Deliveries</span></h2>
-                        <p>Our courier software services optimize route planning, automate scheduling, and provide real-time tracking for seamless delivery management. 
+                        <h2>Logistic Software
+                        <span>That Moves with You</span></h2>
+                        <p>Plan routes, manage deliveries, track performance & more with our services—automated tools built for modern courier businesses.
                         </p>
-                        <a href="#" class="btn-two">Request a free demo
+                        <a href="contact.php" class="btn-two">Contact Now
 							<i class="fas fa-arrow-right"></i>
 						</a>
                     </div>
@@ -74,7 +74,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -89,8 +89,8 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Transform Your Logistics with Cutting-Edge Software Solutions</h2>
-                        <p>We provide state-of-the-art courier management software and logistics software solutions that help businesses automate operations, improve delivery efficiency, and optimize their logistics process.</p>
+                        <h2>Transform Your Logistics with Smart Software Solutions</h2>
+                        <p>Our advanced courier and logistics software helps businesses automate workflows, improve delivery speed, and optimize every stage of the logistics cycle.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -129,8 +129,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Tailored Courier and Logistics IT Solutions</h2>
-                            <p>We provide customized IT solutions with our courier management software and logistics software, streamlining operations and driving growth.</p>
+                            <h2>Tailored IT Solutions for Courier & Logistics</h2>
+                            <p>We deliver customized IT solutions through our advanced logistics and courier management software streamlining operations and driving growth.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
                                     <h4>Advanced Courier Management</h4>
-                                    <p>Our white-label courier management software automates scheduling, real-time tracking, and route planning, improving customer satisfaction with timely updates and proof of delivery.
+                                    <p>Our smart courier management software automates every step—from scheduling to real-time tracking with timely updates, resulting in smoother operations and happier customers.
                                     </p>
                                 </div>
                             </div>
@@ -149,7 +149,8 @@
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
                                     <h4>Innovative Software for the Future</h4>
-                                    <p>We lead in delivery management software and ecommerce logistics solutions, offering user-friendly features to simplify tracking, reporting, and billing.</p>
+                                    <p>We’re at the forefront of delivery management & ecommerce logistics solutions , offering user-friendly features to simplify your end-to-end courier operations.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -176,7 +177,7 @@
             <div class="row justify-content-center text-center">
                 <div class="col-xl-7 col-lg-7 col-md-9 services__one-title">
                     <span class="subtitle-one">Core Features</span>
-                    <h2>Revolutionizing Courier and Logistics with Technology
+                    <h2>Tech-Driven Solutions for Modern Logistics
                     </h2>
                 </div>
             </div>
@@ -190,7 +191,7 @@
                                 </div>
                                 <div class="services__one-single-service-content">
                                     <h4>Courier Management Software</h4>
-                                    <p>Real-time delivery tracking, automatic updates, and efficient routing for smooth operations.</p>
+                                    <p>Optimize routes, track in real time, & automate updates for seamless courier operations.</p>
                                 </div>
                             </div>
                         </div>
@@ -201,7 +202,7 @@
                                 </div>
                                 <div class="services__one-single-service-content">
                                     <h4>End-to-End Logistics Software</h4>
-                                    <p>Manage logistics from dispatch to delivery with centralized software that enhances efficiency.</p>
+                                    <p>Manage logistics from dispatch to delivery with a centralized software that enhances efficiency.</p>
                                 </div>
                             </div>
                         </div>
@@ -220,8 +221,8 @@
                                     <i class="flaticon-idea"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Cloud Logistics Solutions</h4>
-                                    <p>A scalable, secure cloud solution to manage logistics operations anytime, anywhere.</p>
+                                    <h4>Business Intelligence & Analytics</h4>
+                                    <p>Gather actionable insights and improve customer experiences with advanced analytics.</p>
                                 </div>
                             </div>
                         </div>
@@ -231,8 +232,8 @@
                                     <i class="flaticon-it"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Business Intelligence Analytics</h4>
-                                    <p>Gather actionable insights and improve customer experiences with advanced analytics.</p>
+                                    <h4>Tailored Software Solutions</h4>
+                                    <p> Get custom-built solutions designed to meet your logistics business’ needs.</p>
                                 </div>
                             </div>
                         </div>
@@ -250,12 +251,12 @@
                 <div class="col-xl-7 col-lg-7">
                     <div class="work-process-area__one-content-left">
                         <span class="subtitle-one">Work Process</span>
-                        <h2>Tailored Courier and Logistics Software Solutions</h2>
+                        <h2>Smart Software, Built Your Way</h2>
                     </div>
                 </div>
                 <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
                     <div class="work-process-area__one-content-right">
-                        <p>Strategies to streamline courier management, optimize delivery processes, and enhance efficiency with advanced logistics software.
+                        <p>Streamline courier operations, optimize delivery, and enhance efficiency with our advanced logistics software.
                         </p>
                     </div>
                 </div>
@@ -274,7 +275,7 @@
                         <div class="work-process-area__one-single-work-content">
                             <h4>Develop Custom Software Solutions
                             </h4>
-                            <p>We develop advanced, courier management software and logistics software designed to meet the specific needs of your business. Our solutions offer effective delivery tracking with simple, user-friendly features, helping streamline operations and boost efficiency.
+                            <p>We develop advanced courier management & logistics software designed to meet the specific needs of your business. Our solutions offer a simple, user-friendly interface with tools for tracking, route optimizing & more- designed to streamline operations and boost efficiency.
                             </p>
                         </div>
                     </div>
@@ -294,7 +295,7 @@
                     <div class="work-process-area__one-right-counter-img">
                         <div class="img-counter">
                             <div class="counter-only">
-                                <h2 >20</h2>
+                                <h2 >8</h2>
                                 <h2>+</h2>
                             </div>
                             <span>years of experiences</span>
@@ -334,33 +335,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Is your courier software suitable for small businesses as well as large enterprises?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Yes, our courier management software is scalable and modular, making it ideal for businesses of all sizes—from local delivery startups to large-scale logistics enterprises.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can the software integrate with our existing tools like CRMs, ERPs, or ecommerce platforms?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Absolutely. We offer custom API integrations that ensure seamless connectivity with your current systems, including CRMs, ERPs, eCommerce platforms, and accounting tools.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>How quickly can the software be implemented in our operations?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Some essential steps to start a business include conducting market research, creating Some essential step business</p>
+									<p>Implementation timelines vary based on complexity, but most clients are up and running within a few days to a few weeks, thanks to our streamlined deployment and dedicated onboarding support.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Do you offer real-time tracking and automated customer notifications?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, our software provides live shipment tracking along with automated SMS, email, and app notifications, keeping both your team and customers updated at every step.</p>
 								</div>
 							</div>
 						</div>

@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Courier logistics 
+                        <span class="subtitle-one">Courier Aggregation
                         </span>
-                        <h2>Revolutionizing Multi-Carrier 
-                        <span>Logistics</span></h2>
-                        <p>AI-powered Courier Aggregation Service. Our platform automates carrier selection, optimizes delivery efficiency, and provides real-time tracking, helping businesses streamline operations effortlessly.
+                        <h2>Smarter Courier 
+                        <span>Aggregation</span></h2>
+                        <p>Unify multiple courier networks into one platform with automated order routing, tracking, and cost control.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -75,7 +75,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -90,24 +90,24 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Innovating Courier Aggregation Services
+                        <h2>All Couriers. One Smart System.
                         </h2>
-                        <p>specialize in courier aggregation services, offering businesses a centralized platform to integrate multiple carriers. With our expertise in logistics software development, we help courier businesses automate workflows, enhance tracking, and reduce operational costs.
+                        <p>Connect, compare, and control your deliveries with our AI-powered Courier Aggregation Service. Allocate carriers, track all parcels, and simplify operations from one powerful dashboard.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless Multi-Carrier Integration
+                                <span>Unified Carrier Management
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>AI-Driven Workflow Automation
+                                <span>Smart Order Assignment
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Scalable & Customizable Solutions</span>
+                                <span>Live Multi-Network Tracking</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -134,9 +134,9 @@
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
                             <h2>
-                            Smart Courier Aggregation for Seamless Logistics
+                                Aggregate Couriers. Accelerate Business.
                             </h2>
-                            <p>Optimize your shipping process with our Courier Aggregation Service, integrating multiple carriers, automating order allocation, and providing real-time tracking for seamless logistics.
+                            <p>We make shipping simple by unifying courier networks, boosting visibility, and eliminating manual courier selections or errors.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -145,8 +145,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>All-in-One Carrier Integration</h4>
-                                    <p>Manage multiple shipping providers through a single Courier Aggregation Service platform, ensuring efficiency and cost savings.
+                                    <h4>AI-Based Allocation</h4>
+                                    <p>Get smart courier selection every time with automated logic.
                                     </p>
                                 </div>
                             </div>
@@ -155,8 +155,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>AI-Driven Order Allocation</h4>
-                                    <p>Automatically assign shipments to the most cost-effective and reliable courier, optimizing delivery speed and reducing operational hassle.
+                                    <h4>Scalable Integration</h4>
+                                    <p> Easily expand to more carriers or geographies with zero downtime.
                                     </p>
                                 </div>
                             </div>
@@ -257,7 +257,7 @@
     <!-- Services Area End -->
 
     <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
@@ -319,9 +319,84 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Work process Area End -->
 
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What is a Courier Aggregation Service?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p> It’s a platform that connects multiple courier partners into one system for easy shipping, tracking, and cost control.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How does automated courier selection work?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Our system compares rates, delivery times, and reliability, then auto-assigns the best courier for each order.
+                                    </p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Will it work with our existing systems?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Yes, our aggregation service is API-ready and integrates easily with most ERP, CRM, and order management tools.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Does this support COD and returns?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Absolutely. COD handling and reverse logistics are both part of the aggregated workflow.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

@@ -53,10 +53,9 @@
                         <div class="row">
                             <div class="col-xl-5 col-lg-10 col-md-8">
                                 <div class="banner__two-content">
-                                    <h2>Trusted Proof of Delivery Software
-
+                                    <h2>Verified Digital Delivery Records
                                     </h2>
-                                    <p>ITD Software offers secure, efficient proof of delivery with digital signatures, real-time updates, and easy access.</p>
+                                    <p>Capture proof of delivery with digital signatures, geo-tags, and instant uploads to ensure accountability and trust.</p>
                                     <a href="contact.php" class="btn-two">Get Started
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -77,8 +76,8 @@
 				<div class="col-xl-6">
 					<div class="services__three-title text-center">
 						<span class="subtitle-one">Latest service</span>
-						<h2>Reliable Proof of Delivery
-                        <span class="highlighted-two">Services.</span></h2>
+						<h2>Smart Tools That Confirm 
+                        <span class="highlighted-two">Completion.</span></h2>
 					</div>
 				</div>
 			</div>
@@ -89,8 +88,8 @@
                             <i class="flaticon-data-scientist"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Signature Capture</h4>
-							<p> Secure and tamper-proof digital signatures upon delivery.
+							<h4>Signature on Mobile Devices</h4>
+							<p>Drivers can capture signatures directly via app, with time and location stamps for authenticity.
                             </p>
 							<a href="#" class="btn-three">Read more
 								<i class="fas fa-chevron-right"></i>
@@ -104,8 +103,8 @@
                             <i class="flaticon-it-service"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Real-Time Tracking</h4>
-							<p>Monitor and track shipments with live updates and alerts.
+							<h4>Photo-Based Delivery Logs</h4>
+							<p>Add visual proof with delivery photos when signatures aren’t applicable—ideal for contactless delivery.
                             </p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
@@ -119,9 +118,9 @@
                             <i class="flaticon-mobile-app"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Cloud Storage
+							<h4>Instant Cloud Sync
                             </h4>
-							<p>Store proof of delivery records safely, accessible anytime.
+							<p> Each proof is automatically stored and time-stamped in the cloud, available for instant retrieval.
                             </p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
@@ -141,23 +140,23 @@
 				<div class="col-xl-6 col-lg-6 col-md-10 col-sm-12">
 					<div class="about__three-content">
 						<span class="subtitle-one">Work process</span>
-						<h2>Efficient Proof of Delivery <span class="highlighted-two"> Process</span></h2>
-						<p>Track and verify deliveries with ease using ITD Software’s streamlined process:
+						<h2>Build Delivery Confidence with POD <span class="highlighted-two"> Software</span></h2>
+						<p>Confirm deliveries, reduce disputes, and increase trust with our secure proof system that integrates seamlessly into your logistics flow.
                         </p>
 						<div class="about__three-content-service">
 							<div class="about__three-content-service-single">
 								<i class="flaticon-good-feedback"></i>
 								<div class="content">
-									<h4>Digital Proof</h4>
-									<p>Capture signatures upon delivery for immediate verification.</p>
+									<h4>Dispute Prevention Logs</h4>
+									<p> Minimize failed delivery claims with verified records stored securely.</p>
 								</div>
 							</div>
 							<div class="about__three-content-service-single">
 								<i class="flaticon-incoming-message"></i>
 								<div class="content">
-									<h4>Access Anytime
+									<h4>Customer Confirmation Alerts
                                     </h4>
-									<p> Retrieve proof of delivery records from cloud storage.
+									<p>Trigger auto-notifications when delivery is verified, complete with visual proof.
                                     </p>
 								</div>
 							</div>
@@ -168,7 +167,7 @@
 					<div class="about__three-right">
 						<div class="row align-items-center">
 							<div class="about__three-right-counter">
-								<h4 >25</h4>
+								<h4 >8</h4>
 								<span>Years Of experience</span>								
 							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
@@ -220,33 +219,44 @@
                         <div class="faq-collapse-item">
                             <div class="faq-collapse-item-card active">
                                 <div class="faq-collapse-item-card-header">
-                                    <h6>What are the benefits of using proof of delivery software?</h6>
+                                    <h6>How is proof of delivery recorded?</h6>
                                     <i class="fas fa-minus-circle"></i>
                                 </div>
                                 <div class="faq-collapse-item-card-header-content active">
-                                    <p>Reduces disputes, increases efficiency, improves customer satisfaction, and saves costs.</p>
+                                    <p>Proof is recorded via digital signature, photo, timestamp, and location tagging, all saved automatically in the system.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="faq-collapse-item">
                             <div class="faq-collapse-item-card">
                                 <div class="faq-collapse-item-card-header">
-                                    <h6>How do I choose the right proof of delivery software for my business?</h6>
+                                    <h6>Can this work offline?</h6>
                                     <i class="fas fa-plus-circle"></i>
                                 </div>
                                 <div class="faq-collapse-item-card-header-content display-none">
-                                    <p>Consider features, integration, mobile compatibility, scalability, pricing, and support.</p>
+                                    <p> Yes. Proof is captured offline and automatically synced once the device regains connectivity.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="faq-collapse-item">
                             <div class="faq-collapse-item-card">
                                 <div class="faq-collapse-item-card-header">
-                                    <h6>Can proof of delivery software be integrated with other systems? </h6>
+                                    <h6>What if a customer refuses to sign?</h6>
                                     <i class="fas fa-plus-circle"></i>
                                 </div>
                                 <div class="faq-collapse-item-card-header-content display-none">
-                                    <p>Yes, with CRM, ERP, and accounting software.</p>
+                                    <p> Drivers can capture a photo or choose predefined exceptions (e.g. “left at door”) with notes for recordkeeping.</p>
+                                </div>
+                            </div>
+                        </div>
+						 <div class="faq-collapse-item">
+                            <div class="faq-collapse-item-card">
+                                <div class="faq-collapse-item-card-header">
+                                    <h6>Is the POD accessible to customers?</h6>
+                                    <i class="fas fa-plus-circle"></i>
+                                </div>
+                                <div class="faq-collapse-item-card-header-content display-none">
+                                    <p>Yes, you can choose to share links with customers via SMS/email showing delivery confirmation.</p>
                                 </div>
                             </div>
                         </div>

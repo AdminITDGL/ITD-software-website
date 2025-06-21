@@ -34,12 +34,12 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Tracking Simplified
+                        <span class="subtitle-one">Shipment Tracking
                         </span>
-                        <h2>Smarter Real-Time shipment 
-                        <span> Tracking
+                        <h2>Real-Time Shipment
+                        <span>Visibility
                         </span></h2>
-                        <p>Welcome to ITD Software, your partner in real-time shipment tracking with live updates, seamless delivery, and transparency.
+                        <p>Gain full control over your logistics with instant shipment updates, location accuracy, and proactive communication.
                         </p>
                         <a href="#" class="btn-two">Find solution
 							<i class="fas fa-arrow-right"></i>
@@ -76,7 +76,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -91,24 +91,24 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Powering Seamless Shipment Tracking
+                        <h2>Track Every Move, Minute by Minute
                         </h2>
-                        <p>ITD Software revolutionizes real-time shipment tracking with cutting-edge technology. Get live updates, improve efficiency, and streamline your logistics with ease.
+                        <p> Monitor shipment movement in real time across the supply chain. Our platform enables proactive decisions with live location data, predictive alerts, and centralized shipment insights.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Automated Notifications
+                                <span>Instant Location Updates
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless Integration        
+                                <span>Predictive Delay Alerts
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Customizable Dashboards </span>
+                                <span>Real-Time ETA Adjustments</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -181,7 +181,7 @@
             <div class="row justify-content-center text-center">
                 <div class="col-xl-7 col-lg-7 col-md-9 services__one-title">
                     <span class="subtitle-one">Core Features</span>
-                    <h2>Advanced Features for Seamless Tracking
+                    <h2>Shipment Intelligence in One View
                     </h2>
                 </div>
             </div>
@@ -194,8 +194,8 @@
                                     <i class="flaticon-global-network"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Real-Time Tracking</h4>
-                                    <p>Get live updates on shipment locations for on-time deliveries.
+                                    <h4>Smart Tracking Dashboard</h4>
+                                    <p> See the status of all shipments at a glance with color-coded indicators and delivery stage filtering.
                                     </p>
                                 </div>
                             </div>
@@ -206,8 +206,8 @@
                                     <i class="flaticon-mobile-phone-1"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Instant Updates</h4>
-                                    <p>Receive automated alerts for status updates, delays, and delivery changes.
+                                    <h4>Auto-Sync with Carriers</h4>
+                                    <p> Get live feeds from logistics partners via plug-and-play API integrations across major courier systems.
                                     </p>
                                 </div>
                             </div>
@@ -227,8 +227,8 @@
                                     <i class="flaticon-idea"></i>
                                 </div>
                                 <div class="services__one-single-service-content">
-                                    <h4>Easy Integration</h4>
-                                    <p> integrate with your current courier and logistics platforms for easy operations.
+                                    <h4>Geo-Tagged History Logs</h4>
+                                    <p> Track past routes, stops, and delivery attempts with geotags and timestamp data for full traceability.
                                     </p>
                                 </div>
                             </div>
@@ -259,12 +259,12 @@
                 <div class="col-xl-7 col-lg-7">
                     <div class="work-process-area__one-content-left">
                         <span class="subtitle-one">Work Process</span>
-                        <h2>Real-Time Shipment Tracking Process</h2>
+                        <h2>Elevate Delivery Performance with Live Data</h2>
                     </div>
                 </div>
                 <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
                     <div class="work-process-area__one-content-right">
-                        <p>ITD Software offers a seamless process for real-time shipment tracking, enhancing visibility and efficiency.
+                        <p>Our tracking engine delivers operational clarity with precise locations, helping teams manage SLAs and reduce missed deliveries.
                         </p>
                     </div>
                 </div>
@@ -282,17 +282,17 @@
                     <div class="work-process-area__one-single-work">
                         <span>02</span>
                         <div class="work-process-area__one-single-work-content">
-                            <h4>Live Tracking
+                            <h4>Live Map Tracking
                             </h4>
-                            <p>Track shipments in real-time with continuous updates on the shipment status and location, ensuring accurate delivery predictions.
+                            <p>Monitor real-time movement and optimize driver support during transit.
                             </p>
                         </div>
                     </div>
                     <div class="work-process-area__one-single-work">
                         <span>03</span>
                         <div class="work-process-area__one-single-work-content">
-                            <h4>Timely Delivery</h4>
-                            <p>Our real-time shipment tracking system ensures deliveries are made on time, optimizing route management and customer satisfaction.
+                            <h4>Customer-Facing Updates</h4>
+                            <p> Send branded tracking links and live status updates directly to recipients.
                             </p>
                         </div>
                     </div>
@@ -304,7 +304,7 @@
                     <div class="work-process-area__one-right-counter-img">
                         <div class="img-counter">
                             <div class="counter-only">
-                                <h2 >20</h2>
+                                <h2 >8</h2>
                                 <h2>+</h2>
                             </div>
                             <span>years of experiences</span>
@@ -345,33 +345,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Does real-time tracking require hardware?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p> No. Our software integrates with your logistics partner’s GPS or mobile app data—no hardware needed.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>How frequently is shipment data refreshed?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p> Tracking data updates in near real-time, with refresh intervals ranging from 30 seconds to 2 minutes.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can customers track their orders directly?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Some essential steps to start a business include conducting market research, creating Some essential step business</p>
+									<p> Yes, a custom tracking link with real-time updates can be shared with your customers.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Will I be notified if a shipment is delayed?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Yes, the system auto-sends delay alerts and suggests alternate delivery timelines based on route data</p>
 								</div>
 							</div>
 						</div>

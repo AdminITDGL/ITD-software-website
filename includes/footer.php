@@ -7,7 +7,7 @@
                   <div class="footer__two-widget">
                       <div class="footer__two-widget-about">
                           <a href="#"><img src="assets/img/logo-2.png" alt="image"></a>
-                          <p>Financial planners help people to gain knowledge aboutw</p>
+                          <p>Financial planners help people to gain knowledge about</p>
                           <div class="footer__two-widget-about-location">
                               <div class="footer__two-widget-about-location-item">
                                   <div class="footer__two-widget-about-location-item-icon">
@@ -64,7 +64,7 @@
                               <li><a href="warehousing.php"><i class="far fa-chevron-double-right"></i>Warehouse and Hub Operations Services</a></li>
                               <li><a href="notification.php"><i class="far fa-chevron-double-right"></i>Notification Services (SMS, Email, WhatsApp) </a></li>
                               <li><a href="consultant.php"><i class="far fa-chevron-double-right"></i>Logistics Consultation Services</a></li>
-                              <li><a href="aggregation.php"><i class="far fa-chevron-double-right"></i>Courier Aggregation Services</a></li>
+                              <li><a href="Aggregation.php"><i class="far fa-chevron-double-right"></i>Courier Aggregation Services</a></li>
                               <li><a href="#"><i class="far fa-chevron-double-right"></i>Dynamic Pricing Services</a></li>
                           </ul>
                       </div>

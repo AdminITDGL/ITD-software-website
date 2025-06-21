@@ -25,9 +25,9 @@
 			<div class="row align-items-center gy-4 justify-content-center">
 				<div class="col-xl-7 col-lg-6">
 					<div class="banner__five-content">
-						<span class="subtitle-one">Fast delivery</span>
-						<h2>Seamless Courier Pickup Management</h2>
-						<p>Effortlessly schedule, track, and manage courier pickups with our platform, ensuring faster, reliable deliveries every time.</p>
+						<span class="subtitle-one">Pickup Management</span>
+						<h2>Smarter Courier Pickup System</h2>
+						<p>Simplify pickup scheduling with real-time tools designed to enhance punctuality, transparency, and customer delight</p>
 						<div class="banner__five-content-bottom">
 							<a href="contact.php" class="btn-two">Book a demo
 								<i class="fas fa-arrow-right"></i>
@@ -97,7 +97,7 @@
 				<div class="col-xl-6 col-lg-7 col-md-9">
 					<div class="about__five-content">
 						<span class="subtitle-one">About us</span>
-						<h2>Innovating courier pickup solutions.</h2>
+						<h2>Real-Time Solutions for Pickups</h2>
 						<div class="about__five-content-service">
 							<div class="single-service">
 								<i class="fas fa-check-circle"></i>
@@ -130,7 +130,7 @@
 			<div class="row justify-content-center text-center mb-50">
 				<div class="col-xl-6 col-lg-7 col-md-9">
 					<span class="subtitle-one">Work Process</span>
-					<h2>How it works?</h2>
+					<h2>Built for Complex Pickup Needs</h2>
 				</div>
 			</div>
 			<div class="work-process__three-card">
@@ -140,21 +140,18 @@
 					<img src="assets/img/work-process/work-process-arrow-1.png" alt="" class="arrow-3">
 				</div>
 				<div class="work-process__three-card-single">
-					<h3>01</h3>
-					<h5>Schedule a Pickup</h5>
-					<p> Easily request a courier pickup by entering your location and preferred time.
+					<h5>Dynamic Time Window Support</h5>
+					<p>Accommodate variable pickup timings with intelligent scheduling that adjusts to shifting logistics in real time.
                     </p>
 				</div>
 				<div class="work-process__three-card-single middle">
-					<h3>02</h3>
-					<h5>Hassle-free Delivery</h5>
-					<p> Our system ensures on-time pickups and efficient handoffs to delivery partners.
+					<h5>Multi-Location Management</h5>
+					<p>Handle pickups from multiple points through a centralized dashboard that syncs instantly across your network.
                     </p>
 				</div>
 				<div class="work-process__three-card-single">
-					<h3>03</h3>
-					<h5> Real-time Tracking</h5>
-					<p>Track your courier's location and status through the entire process.
+					<h5>Driver Allocation Logic</h5>
+					<p>Assign pickups based on availability, traffic, and location accuracy using predictive algorithms.
                     </p>
 				</div>
 			</div>
@@ -169,14 +166,14 @@
 				<div class="col-xl-6 col-lg-6 col-md-9">
 					<div class="technology-solution__one-content">
 						<span class="subtitle-one">Tech Solutions</span>
-						<h2>Tech management for courier pickup </h2>
-						<p>Simplify tasks to enhance customer experiences & Businesses to embrace cutting-edge technology for courier solutions</p>
+						<h2>Precision Tools to Improve Pickup Accuracy</h2>
+						<p>From customer requests to final handoffs, our platform ensures speed, transparency, and coordination at every pickup checkpoint.</p>
 						<div class="satisfied-customer-counter">
 							<div class="counter-wrapper">
-								<h3 >400</h3>
-								<h3>+</h3>
+								<h3 >Live Driver Visibility</h3>
+								<p>View driver location & ETA in real time to manage expectations and avoid delays.</p>
 							</div>
-							<span>Satisfied Customers</span>
+							<span></span>
 						</div>
 					</div> 
 				</div>
@@ -289,6 +286,80 @@
 	</div>
 	<!-- Why choose us Area End -->
 
+	<!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can pickups be scheduled in advance?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Yes, our courier management software is scalable and modular, making it ideal for businesses of all sizes—from local delivery startups to large-scale logistics enterprises.Yes, you can book pickups days ahead with time-slot selection to match business hours or customer availability.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How are drivers assigned for pickups?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Drivers are auto-assigned based on proximity, vehicle capacity, and priority level, using our smart dispatch engine.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I manage pickups from multiple warehouses?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Absolutely. Our platform supports multi-branch coordination under one unified dashboard.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>What if a pickup fails or gets delayed?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Instant alerts notify your team of any pickup exceptions, and fallback workflows ensure timely rescheduling.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
     <?php include('includes/footer.php') ?>
     <?php include('includes/footer_script.php') ?>

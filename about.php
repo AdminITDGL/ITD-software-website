@@ -5,12 +5,12 @@
     <!-- Start Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Courier management software, logistics software, courier software services, ecommerce logistics ,delivery management software. ">
+    <meta name="description" content=" Discover ITD Software, a leader in innovative solutions for e-commerce logistics, delivery, and operations. We streamline courier management with cutting-edge technology for seamless efficiency.">
     <meta name="keywords" content="Boost efficiency with ITD Services' advanced logistics and courier management software. Optimize ecommerce logistics, delivery, and operations with our cutting-edge solutions.">
     <meta name="author" content="ITD Services Pvt Ltd">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Title of Site -->
-    <title>ITD Services: Best Courier Management Software</title>
+    <title>About ITD Software : Transforming E-commerce Logistics & Courier Operations</title>
 
     <?php include('includes/header_script.php') ?>
 
@@ -55,7 +55,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -70,8 +70,8 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Powering Smarter E-commerce Logistics & Delivery</h2>
-                        <p>Revolutionizes e-commerce logistics, delivery, and operations with cutting-edge technology. Our smart solutions enhance efficiency, optimize workflows, and drive seamless last-mile delivery, ensuring businesses stay ahead in the competitive logistics landscape.</p>
+                        <h2>Driving the Future of E-commerce Logistics</h2>
+                        <p>We empower courier and logistics businesses with intelligent, tech-driven solutions tailored for today’s fast-paced e-commerce environment. Our platform streamlines operations, boosts delivery performance, and simplifies last-mile logistics—helping you stay efficient, agile, and customer-focused.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -112,13 +112,14 @@
                 <div class="col-xl-7 col-lg-7">
                     <div class="work-process-area__one-content-left">
                         <span class="subtitle-one">Work Process</span>
-                        <h2>Smart Logistics,Seamless Deliveries Workflow
+                        <h2>Delivering Innovation Through Smart Logistics
                         </h2>
                     </div>
                 </div>
                 <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
                     <div class="work-process-area__one-content-right">
-                        <p> We automates and optimizes e-commerce logistics, ensuring smooth order processing, real-time tracking, and effortless scalability for growing businesses</p>
+                        <p>We empower e-commerce businesses with intelligent logistics solutions that automate operations, enhance visibility, and support scalable growth—ensuring every delivery is faster, smarter, and smoother.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -128,21 +129,22 @@
                         <span>01</span>
                         <div class="work-process-area__one-single-work-content">
                             <h4>Automated Order Processing</h4>
-                            <p>Accelerate fulfillment with AI-powered workflows that minimize manual tasks and boost efficiency</p>
+                            <p>Accelerate fulfillment with intelligent workflows that reduce manual effort and improve efficiency.
+                            </p>
                         </div>
                     </div>
                     <div class="work-process-area__one-single-work">
                         <span>02</span>
                         <div class="work-process-area__one-single-work-content">
                             <h4>Real-Time Tracking & Updates</h4>
-                            <p>Gain full visibility with live tracking, instant notifications, and digital proof of delivery.</p>
+                            <p>Gain complete visibility with live shipment tracking, instant notifications, and digital proof of delivery.</p>
                         </div>
                     </div>
                     <div class="work-process-area__one-single-work">
                         <span>03</span>
                         <div class="work-process-area__one-single-work-content">
                             <h4>Effortless Integration & Scalability</h4>
-                            <p>Connect seamlessly with e-commerce platforms, carriers, and payment systems while scaling effortlessly.</p>
+                            <p>Seamlessly connect with your e-commerce platforms, carriers, and payment systems—built to scale as you grow.</p>
                         </div>
                     </div>
                 </div>
@@ -153,7 +155,7 @@
                     <div class="work-process-area__one-right-counter-img">
                         <div class="img-counter">
                             <div class="counter-only">
-                                <h2>20+</h2>
+                                <h2>8+</h2>
                             </div>
                             <span>years of experiences</span>
                         </div>
@@ -166,7 +168,7 @@
     <!-- Work process Area End -->
 
     <!-- Testimonial Area Start -->
-    <div class="testimonial__one section-padding">
+    <!-- <div class="testimonial__one section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
@@ -244,7 +246,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial Area End -->
 
     <?php include('includes/footer.php') ?>

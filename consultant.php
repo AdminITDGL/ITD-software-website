@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">We excel
+                        <span class="subtitle-one">Consultation Services
                         </span>
-                        <h2>Revolutionizing Logistics with Smart 
-                        <span>Consulting</span></h2>
-                        <p>Logistics with AI-driven analytics, cost-saving strategies, seamless system integration, and scalable solutions to optimize courier operations efficiently.
+                        <h2>Logistics Strategy 
+                        <span>Reimagined</span></h2>
+                        <p>We craft intelligent, scalable logistics solutions that simplify courier operations and reduce operational costs.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -75,7 +75,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -90,24 +90,24 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Transforming Logistics Through Innovation
+                        <h2>Smarter Consulting for Couriers
                         </h2>
-                        <p>Specializes in intelligent logistics consultation services, offering data-driven insights to optimize supply chains. Our expertise in courier operations ensures seamless deliveries, reduced costs, and improved efficiency.
+                        <p>Maximize courier efficiency with AI-backed consultation that identifies cost leaks, streamlines workflows, and aligns your logistics for growth. No guesswork—only strategic execution.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Tech-Driven Optimization
+                                <span>AI-Powered Insights
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Cost-Efficient Strategies
+                                <span>Cost & Route Optimization
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless System Integration</span>
+                                <span>Custom Workflow Planning</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -134,9 +134,9 @@
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
                             <h2>
-                            Tailored logistics consultation services.
+                            Courier-Focused Consulting Services
                             </h2>
-                            <p>Integrating AI, real-time insights, and automation to optimize fleet management, warehouse operations, and delivery efficiency. 
+                            <p>We go beyond advice—implementing solutions, training teams, and continuously refining logistics performance for courier businesses.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -145,8 +145,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Automation & AI Integration</h4>
-                                    <p>Enhance logistics workflows with AI-powered automation
+                                    <h4>End-to-End Support</h4>
+                                    <p> From initial audit to full rollout and aftercare, we’re with you.
                                     </p>
                                 </div>
                             </div>
@@ -155,8 +155,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>End-to-End Support</h4>
-                                    <p> From assessment to implementation, we provide continuous guidance for optimal results.
+                                    <h4>Built for Scale</h4>
+                                    <p>All solutions are designed to grow with your volume and fleet size.
                                     </p>
                                 </div>
                             </div>
@@ -258,7 +258,7 @@
     
 
     <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
@@ -320,9 +320,83 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Work process Area End -->
 
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What kind of logistics consulting do you offer?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p> We offer courier-focused strategy for fleet, route, warehousing, tech upgrades, and cost reduction.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can your team help with implementation too?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Yes, we don’t just advise—we integrate, train, and guide execution till results are visible.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Will this help reduce our operational costs?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Absolutely. We identify gaps and apply automation, route logic, and workflow streamlining to cut expenses.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Is your consultation suitable for small courier firms?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, we tailor our advice to your scale and can support startups to large operations.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

@@ -24,14 +24,14 @@
 	<div class="banner__three"> 
 		<div class="swiper banner__three-slider swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events">
 			<div class="swiper-wrapper" id="swiper-wrapper-78deec40c237201f" aria-live="polite" style="transition-duration: 0ms;"><div class="banner__three-single-slide swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" style="background-image: url(&quot;assets/img/banner/banner-three-2.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);" data-swiper-slide-index="1" role="group" aria-label="2 / 2">
-					<div class="banner__three-bg-shape-overlay" style="background-image: url(./assets/img/banner/banner-three-shape-overlay.png);"></div>
+				<div class="banner__three-bg-shape-overlay" style="background-image: url(./assets/img/banner/banner-three-shape-overlay.png);"></div>
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-xl-10">
 								<div class="banner__three-content">
-									<span class="subtitle-one">Digital Growth</span>
-									<h2>Empowering Courier Management Services with  Tech</h2>
-									<p>Efficiently manage courier operations with real-time tracking, automated dispatch, and route optimization tailored to your needs.</p>
+									<span class="subtitle-one">Courier Management</span>
+									<h2>Smarter Courier Management Tech</h2>
+									<p>Automate dispatch, optimize routes, and track deliveries in real time—built to scale with growing courier needs.</p>
 									<a href="about.php" class="btn-two">Read More
 										<i class="fas fa-arrow-right"></i>
 									</a>
@@ -46,9 +46,9 @@
 						<div class="row justify-content-center">
 							<div class="col-xl-10">
 								<div class="banner__three-content">
-									<span class="subtitle-one">Digital Growth</span>
-									<h2>Empowering Courier Management Services with <span class="text-bordered">Tech</span>nology</h2>
-									<p>Efficiently manage courier operations with real-time tracking, automated dispatch, and route optimization tailored to your needs.</p>
+									<span class="subtitle-one">Courier Management</span>
+									<h2>Smarter Courier Management Tech</h2>
+									<p>Automate dispatch, optimize routes, and track deliveries in real time—built to scale with growing courier needs.</p>
 									<a href="about.php" class="btn-two">Read More
 										<i class="fas fa-arrow-right"></i>
 									</a>
@@ -63,9 +63,9 @@
 						<div class="row justify-content-center">
 							<div class="col-xl-10">
 								<div class="banner__three-content">
-                                <span class="subtitle-one">Digital Growth</span>
-									<h2>Empowering Courier Management Services with  Tech</h2>
-									<p>Efficiently manage courier operations with real-time tracking, automated dispatch, and route optimization tailored to your needs.</p>
+									<span class="subtitle-one">Courier Management</span>
+									<h2>Smarter Courier Management Tech</h2>
+									<p>Automate dispatch, optimize routes, and track deliveries in real time—built to scale with growing courier needs.</p>
 									<a href="about.php" class="btn-two">Read More
 										<i class="fas fa-arrow-right"></i>
 									</a>
@@ -80,9 +80,9 @@
 						<div class="row justify-content-center">
 							<div class="col-xl-10">
 								<div class="banner__three-content">
-									<span class="subtitle-one">Digital Growth</span>
-									<h2>Empowering Organizations through <span class="text-bordered">Tech</span>nology</h2>
-									<p>Lorem ipsum dolor sit amet, conse ct etur adipiscing elit. Sed sit amet rcus nunc. Duis egestas ac ante sed tincidun</p>
+									<span class="subtitle-one">Courier Management</span>
+									<h2>Smarter Courier Management Tech</h2>
+									<p>Automate dispatch, optimize routes, and track deliveries in real time—built to scale with growing courier needs.</p>
 									<a href="about.php" class="btn-two">Read More
 										<i class="fas fa-arrow-right"></i>
 									</a>
@@ -102,8 +102,8 @@
 				<div class="col-xl-6">
 					<div class="services__three-title text-center">
 						<span class="subtitle-one">Latest service</span>
-						<h2>Optimize courier management
-                        <span class="highlighted-two">  services.</span></h2>
+						<h2>Key Features for Courier 
+                        <span class="highlighted-two">Success.</span></h2>
 					</div>
 				</div>
 			</div>
@@ -114,8 +114,8 @@
                             <i class="flaticon-data-scientist"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Real-Time Tracking</h4>
-							<p>Track packages live for better visibility and customer updates</p>
+							<h4>Automated Dispatch Engine</h4>
+							<p> Assigns drivers based on location and capacity to speed up operations.</p>
 							<a href="#" class="btn-three">Read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
@@ -128,8 +128,8 @@
                             <i class="flaticon-it-service"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Route Optimization</h4>
-							<p>Plan smarter routes to cut costs and improve delivery speed.</p>
+							<h4>Digital Proof of Delivery (POD)</h4>
+							<p>Collect e-signatures or photo proof, reducing disputes and paperwork.</p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
@@ -142,9 +142,9 @@
                             <i class="flaticon-mobile-app"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Dispatch Automation
+							<h4>Returns & Reverse Logistics
                             </h4>
-							<p>Save time and reduce errors with automated dispatch solutions.</p>
+							<p>Simplifies pickups with auto-scheduling and real-time tracking.</p>
 							<a href="#" class="btn-three">read more
 								<i class="fas fa-chevron-right"></i>
 							</a>
@@ -163,23 +163,24 @@
 				<div class="col-xl-6 col-lg-6 col-md-10 col-sm-12">
 					<div class="about__three-content">
 						<span class="subtitle-one">About us</span>
-						<h2>Advanced Courier Software <span class="highlighted-two">tools</span></h2>
-						<p>Empower your services with tools for capacity planning, multi-vendor integration, and real time delivery with our advanced software tools.
+						<h2>Built to Grow With Your Courier <span class="highlighted-two">Business</span></h2>
+						<p>Designed to scale as you expand. Whether it's more orders or vendors, the system adapts with zero operational friction.
                         </p>
 						<div class="about__three-content-service">
 							<div class="about__three-content-service-single">
 								<i class="flaticon-good-feedback"></i>
 								<div class="content">
-									<h4>Automated Dispatch system</h4>
-									<p>Assign deliveries quickly with automated tools that prioritize drivers based on proximity and availability , reducing delay and errors.</p>
+									<h4>Multi-Vendor Ready</h4>
+									<p> Connect and manage different delivery partners easily.</p>
 								</div>
 							</div>
 							<div class="about__three-content-service-single">
 								<i class="flaticon-incoming-message"></i>
 								<div class="content">
-									<h4>Proof of delivery (POD)
+									<h4>Scalable Architecture
                                     </h4>
-									<p>Capture digital signatures of photos as proof of delivery, ensuring accountability and minimizing disputes for a seamless process.</p>
+									<p> Handle rising order volumes with stable performance.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -189,7 +190,7 @@
 					<div class="about__three-right">
 						<div class="row align-items-center">
 							<div class="about__three-right-counter">
-								<h4 >25</h4>
+								<h4 >8</h4>
 								<span>Years Of experience</span>								
 							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
@@ -246,7 +247,7 @@
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Our software automates dispatch, optimizes delivery routes, and provides real time tracking, ensuring faster and more accurate deliveries.
+									<p> It automates dispatch, optimizes routes, and provides live tracking for faster and smarter deliveries.
                                     </p>
 								</div>
 							</div>
@@ -254,22 +255,35 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can system handle reserve logistics?</h6>
+									<h6>Can it handle reverse logistics and returns?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Yes, our courier solution streamlines return processes with automated pickup scheduling, tracking, and real-time updates for seamless reverse logistics. </p>
+									<p>
+										Yes. Our system automates return pickups and provides real-time tracking to close the loop efficiently.
+									</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>Is Your Software Scalable for Growing Businesses?</h6>
+									<h6>Does the system support digital POD?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Absolutely! Our system is designed to adapt and scale with your business needs, handling increased deliveries and operational demands effortlessly.</p>
+									<p>Absolutely. It allows drivers to capture signatures or images, ensuring delivery proof and accountability.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Is it suitable for small courier firms too?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes. The platform is scalable and works for startups, regional couriers, and large logistics players alike.</p>
 								</div>
 							</div>
 						</div>

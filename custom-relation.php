@@ -35,11 +35,11 @@
                     <div class="banner__one-content">
                         <span class="subtitle-one">CRM solutions 
                         </span>
-                        <h2>Software for Smarter
-                        <span> Courier CRM</span></h2>
-                        <p>ITD Software optimizes CRM for couriers, ensuring easy communication, efficient processes, and customer satisfaction.
+                        <h2>Courier CRM Built for 
+                        <span>Results</span></h2>
+                        <p>Deliver personalized service, streamline interactions, and track every customer touchpoint with courier-specific CRM.
                         </p>
-                        <a href="#" class="btn-two">Get started
+                        <a href="contact.php" class="btn-two">Get started
 							<i class="fas fa-arrow-right"></i>
 						</a>
                     </div>
@@ -74,7 +74,7 @@
                             <i class="flaticon-consultant"></i>
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >25</h4>
+                                    <h4 >8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Experience</span>
@@ -89,23 +89,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Premier CRM Solutions for Courier Success</h2>
-                        <p>We develop cutting-edge CRM software for courier services, empowering companies with tools to enhance customer satisfaction, boost efficiency, and drive growth.
+                        <h2>Streamline Every Client Interaction</h2>
+                        <p>From booking queries to issue resolution, manage all customer interactions in one place. Automate responses, track history, and boost satisfaction through intuitive, courier-ready CRM features.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Customized Solutions
+                                <span>Client Communication Logs
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Actionable Insights
+                                <span>Case Resolution Tracking
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Scalable and Adaptive Systems</span>
+                                <span>Custom Follow-Up Reminders</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -130,8 +130,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Tailored CRM Tools for Courier Excellence</h2>
-                            <p>Scalable CRM solutions leveraging industry expertise and advanced technology to drive growth and elevate customer satisfaction.
+                            <h2>Grow Your Business with Smarter CRM Systems</h2>
+                            <p>Enhance loyalty, reduce churn, and resolve issues faster with a courier CRM that learns and grows with your operations.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -140,8 +140,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Seamless Integration</h4>
-                                    <p>Integrates smoothly with existing systems, minimizing disruptions to operations.
+                                    <h4>Insight-Driven Dashboards</h4>
+                                    <p>View customer data and issue trends to optimize service and follow-ups.
                                     </p>
                                 </div>
                             </div>
@@ -150,8 +150,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Scalable Solutions</h4>
-                                    <p>Flexible CRM tools that grow alongside your business, adapting to changing needs and expanding seamlessly.
+                                    <h4>Scalable Workflow Modules</h4>
+                                    <p> Add new users, services, or routes as your business expands—no disruption.
                                     </p>
                                 </div>
                             </div>
@@ -310,6 +310,81 @@
         </div>
     </div>
     <!-- Work process Area End -->
+
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Is this CRM tailored for courier services?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Yes, it's designed specifically for courier operations—handling delivery updates, client queries, and order data in one place.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I track customer communication history?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Absolutely. Each customer profile includes past conversations, delivery records, and tickets for reference.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Will this integrate with our existing systems?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, we provide API-based integrations with dispatch, tracking, billing, and external CRMs if required.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I automate follow-ups and reminders?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes. Set up follow-up alerts, order confirmations, or feedback requests automatically based on triggers.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>
