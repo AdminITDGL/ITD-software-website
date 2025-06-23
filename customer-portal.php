@@ -33,11 +33,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Courier Management Software
+                        <span class="subtitle-one">Customer Portal Access
                         </span>
-                        <h2>Seamless Customer Portal Access – Your Gateway to 
-                        <span>Smart IT Solutions</span></h2>
-                        <p>Experience a streamlined, user-friendly portal designed to enhance your IT service interactions
+                        <h2>Customer Portal Access for Smarter 
+                        <span> Logistics</span></h2>
+                        <p>Streamline customer experience with real-time access to tracking, invoicing, customer support & more- all in one portal.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -89,22 +89,22 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Empowering Businesses with Seamless Customer Portal Access</h2>
-                        <p>Our Customer Portal Access is designed to enhance security, efficiency, and user experience, ensuring a seamless digital journey for every client. </p>
+                        <h2>User- Friendly Customer Portal Access</h2>
+                        <p>Deliver secure, scalable, and intuitive digital access for your clients—designed to simplify interactions and improve customer satisfaction.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Innovative Software Solutions
+                                <span>Intuitive Dashboard
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Secure & Scalable Customer Portal Access
+                                <span>Multi-Layer Data Security
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>User-Centric & Customizable Technology</span>
+                                <span>Custom API Integrations</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -129,8 +129,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Expert in Elevating Customer Portal Access</h2>
-                            <p>we prioritize security, scalability, and user experience to deliver a seamless Customer Portal Access solution. </p>
+                            <h2>Built for Seamless User Experience</h2>
+                            <p>From strategy to support, our process ensures your portal is fast, secure, and tailored to your business and client needs.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -138,8 +138,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Secure & Scalable Solutions</h4>
-                                    <p>Our white-label courier management software automates scheduling, real-time tracking, and route planning, improving customer satisfaction with timely updates and proof of delivery.
+                                    <h4>Mobile-Optimized Access Anywhere</h4>
+                                    <p>Let customers manage operations on-the-go with a responsive, user-friendly interface.
                                     </p>
                                 </div>
                             </div>
@@ -148,8 +148,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>User-Centric & Custom Integrations</h4>
-                                    <p>We lead in delivery management software and ecommerce logistics solutions, offering user-friendly features to simplify tracking, reporting, and billing.</p>
+                                    <h4>End-to-End Security & Compliance</h4>
+                                    <p>Ensure data integrity and meet industry standards with advanced protection at every touchpoint.</p>
                                 </div>
                             </div>
                         </div>
@@ -243,69 +243,80 @@
     </div>
     <!-- Services Area End -->
 
-    <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
-        <div class="container">
-            <div class="row align-items-end work-process-area__one-title">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>Streamlined Approach to Seamless Customer Portal Access</h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
-                    <div class="work-process-area__one-content-right">
-                        <p>We follow a structured, agile-driven work process to ensure the highest quality in software development and implementation
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center gy-4">
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-single-work">
-                        <span>01</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Consultation & Requirement Analysis </h4>
-                            <p>We begin by thoroughly understanding the specific needs of your courier and logistics operations to ensure our software is customized to align perfectly with your business objectives.</p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>02</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Strategic Planning & Design
-                            </h4>
-                            <p>We develop advanced, courier management software and logistics software designed to meet the specific needs of your business. Our solutions offer effective delivery tracking with simple, user-friendly features, helping streamline operations and boost efficiency.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>03</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Development & Integration</h4>
-                            <p>Our team integrates the software smoothly into your existing infrastructure and provides continuous support for optimization, ensuring your operations remain efficient and responsive to evolving business needs.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-right-img">
-                        <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2 >20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Work process Area End -->
 
+     <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What features are included in the customer portal?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>The portal offers real-time shipment tracking, invoice access, support ticket submission, document uploads, and performance dashboards—all in one centralized platform.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Is the portal mobile-friendly and accessible on the go?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Yes. Our customer portal is fully mobile-optimized, offering a seamless experience across smartphones, tablets, and desktops—ideal for clients who manage logistics on the move.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can we customize the portal for our brand and workflows?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Absolutely. The portal can be white-labeled with your branding and configured to support your specific service workflows, data views, and user roles.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How secure is the customer portal?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Security is built-in with multi-layer data protection, role-based access, encrypted logins, and compliance with industry standards like GDPR and ISO.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

@@ -26,11 +26,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__four-content">
-                        <span class="subtitle-two">Billing Solutions
+                        <span class="subtitle-two">Smart billing
                         </span>
-                        <h2>Billing Solutions Built for Logistics
+                        <h2>Custom Billing & Invoicing solutions
                         </h2>
-                        <p>Auto-generate accurate invoices, apply rate cards, and manage payments—all from one smart billing platform.</p>
+                        <p>Our custom Billing and Invoicing solutions automate, streamline, and scale your financial workflows effortlessly.</p>
                         <div class="banner__four-content-bottom">
                             <a href="contact.php" class="btn-two">Book a demo
                                 <i class="fas fa-arrow-right"></i>
@@ -81,23 +81,24 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__four-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Courier Billing Made Seamless & Scalable</h2>
-                        <p> ITD Software delivers smart, tailored billing & invoicing solutions for courier businesses—enhancing speed, accuracy and growth.
+                        <h2>Efficient, Scalable, and Error-Free Billing</h2>
+                        <p>Our Customized Billing & Invoicing Solution simplifies every step of the courier billing process—from generating accurate invoices to tracking real-time payments.
                         </p>
                         <div class="about__four-content-service">
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Industry-Ready & Customizable
+                                <span>Automated Invoice Generation
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Automation for Error-Free Invoicing
+                                <span>Flexible Billing Models
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Scales Easily with Business Needs</span>
+                                <span>Multi Currency & Tax support
+                                </span>
                             </div>
                         </div>
                         <a href="about.php" class="btn-one">Get started
@@ -177,9 +178,9 @@
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Streamlined Workflow with Full Support
+                            <h2>Smarter Billing. Stronger Control.
                             </h2>
-                            <p> Our billing solution follows a structured 4-step workflow—from planning to integration—ensuring zero disruption and maximum efficiency.
+                            <p>Gain full visibility and control over your courier finances with centralized systems, real-time tracking, and detailed financial insights.
                             </p>
                         </div>
                         <div class="why-choose-us__three-bottom">
@@ -208,94 +209,6 @@
     </div>
     <!-- Why choose us Area End -->
 
-    <!-- Skill two Area Start -->
-    <div class="skill__two section-padding">
-        <div class="container">
-            <ul class="row nav mb-5 gy-4 justify-content-center">
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link active" id="topic-1-tab" data-bs-toggle="pill" data-bs-target="#topic-1" role="button" aria-controls="topic-1">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-content-marketing"></i>
-                        </span>
-                        <span>Initial Consultation </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-2-tab" data-bs-toggle="pill" data-bs-target="#topic-2" role="button" aria-controls="topic-2">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-it-service"></i>
-                        </span>
-                        <span>Custom Solution Design </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-3-tab" data-bs-toggle="pill" data-bs-target="#topic-3" role="button" aria-controls="topic-3">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-satellite-signal"></i>
-                        </span>
-                        <span>Seamless Integration </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-4-tab" data-bs-toggle="pill" data-bs-target="#topic-4" role="button" aria-controls="topic-4">
-                        <div class="skill__two-tab-icon">
-                            <i class="flaticon-analytics"></i>
-                        </div>
-                        <span>Ongoing Support: 
-                        </span>
-                    </div>
-                </li>
-            </ul>
-            <div class="skill__two-tab-details tab-content">
-                <div class="row align-items-center flex-wrap-reverse gy-4 tab-pane fade show active" role="tabpanel" id="topic-1" aria-labelledby="topic-1-tab">
-                    <div class="col-xl-6 col-lg-7 col-md-9">
-                        <div class="skill__two-tab-details-content">
-                            <h2>Streamlined Billing & invoice Workflow</h2>
-                            <p> Customized Billing & Invoicing Service optimizes your courier business's billing process with a seamless workflow.</p>
-                            <div class="skill__two-tab-details-content-service">
-                                <div class="skill__two-tab-details-content-service-left">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Needs Assessment
-                                        </span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>system Customization
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="skill__two-tab-details-content-service-right">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Seamless Implementation
-                                        </span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Continuous Optimization</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="request-quote.php" class="btn-one">Request A Quote
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-8">
-                        <div class="skill__two-tab-details-image">
-                            <div class="skill__two-tab-details-image-wrapper">
-                                <img src="assets/img/skill/skill-two.png" alt="" class="image-1">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-               
-            </div>
-        </div>
-    </div>
-    <!-- Skill two Area End -->
-
     <!-- FAQ Area Start -->
     <div class="faq__two section-padding">
 		<div class="container">
@@ -323,44 +236,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can your billing system handle complex rate structures and surcharges?</h6>
+									<h6>What types of billing models does your system support?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p> Yes. Our platform supports custom rate cards, zone-based pricing, fuel surcharges, weight brackets, and other courier-specific billing rules—ensuring accurate invoicing for every shipment.</p>
+									<p>Our platform supports multiple billing models including per-shipment, weight-based, distance-based, subscription, and custom rate card billing—so you can tailor invoicing to your business structure.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6> Is the system compatible with existing ERP, TMS, or accounting tools?</h6>
+									<h6>Can I generate invoices automatically?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Absolutely. We offer seamless integration with popular ERP, transportation management, and accounting systems, ensuring smooth data flow across your operations without manual input.</p>
+									<p> Yes, invoices are automatically generated based on real-time shipment data, pricing rules, and billing cycles—minimizing manual effort and reducing errors.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How secure is the billing and payment data?</h6>
+									<h6>Is multi-currency and tax support available?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Data security is a top priority. Our system follows industry-standard encryption protocols, role-based access controls, and secure data storage to protect all financial and client information.</p>
+									<p>Absolutely. Our system supports multi-currency billing and region-specific tax rules (like GST, VAT), making it ideal for domestic and international courier operations.</p>
 								</div>
 							</div>
 						</div>
                         <div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can the platform handle billing for multiple branches or franchise models?</h6>
+									<h6>How does real-time payment tracking work?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Yes, our solution supports multi-location billing, letting you manage invoices separately or collectively for branches, partners, or franchises—perfect for growing logistics networks.</p>
+									<p>Our platform syncs with payment systems to track incoming payments in real time, giving you full visibility over receivables and helping improve cash flow management.</p>
 								</div>
 							</div>
 						</div>

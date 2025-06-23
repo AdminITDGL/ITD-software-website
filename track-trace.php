@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Courier Management Software
+                        <span class="subtitle-one">Tracking Service
                         </span>
-                        <h2>Smart Track and Trace Services for Ultimate 
-                        <span>Supply Chain Visibility</span></h2>
-                        <p>cutting-edge Track and Trace Services designed to enhance real-time visibility, automate traceability, and streamline supply chain operations.
+                        <h2>Track and Trace Made Smarter
+                        <span>Smarter</span></h2>
+                        <p>Gain full supply chain visibility with real-time updates, automated alerts, and tamper-proof tracking tools.
                         </p>
                         <a href="#" class="btn-two">Book a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -90,17 +90,22 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Revolutionizing Logistics with Smart Track and Trace Services</h2>
-                        <p>Our role-based access system ensures the right people have the right permissions, reducing security risks and improving workflow efficiency. </p>
+                        <h2>Full Visibility, Zero Guesswork</h2>
+                        <p>Monitor shipments from dispatch to delivery with real-time updates. Reduce delays, meet compliance, and take control of your supply chain.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>AI-Driven Tracking & Traceability
+                                <span>End-to-End Shipment Tracking
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Automated Alerts & Notifications
+                                <span>Instant Status Notifications
+                                </span>
+                            </div>
+                            <div class="service">
+                                <i class="far fa-check-circle"></i>
+                                <span>Built-In Audit Compliance
                                 </span>
                             </div>
                         </div>
@@ -122,10 +127,32 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Transforming Supply Chain Visibility with Track and Trace Services</h2>
-                            <p>Experience industry-leading Track and Trace Services with ITD Software Services, built for precision, security, and seamless operational efficiency.</p>
+                            <h2>Smarter Data, Safer Deliveries</h2>
+                            <p>Seamlessly integrates with your systems and devices to ensure smart traceability at every step of the supply chain.</p>
                         </div>
                     </div>
+                     <div class="why-choose-us__one-quality">
+                            <div class="why-choose-us__one-quality-single">
+                                <div class="icon">
+                                    <i class="flaticon-machine-repair"></i>
+                                </div>
+                                <div class="why-choose-us__one-quality-single-content">
+                                    <h4>Blockchain Security</h4>
+                                    <p>Ensures tamper-proof trace records with full audit trails.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="why-choose-us__one-quality-single">
+                                <div class="icon">
+                                    <i class="flaticon-web-research"></i>
+                                </div>
+                                <div class="why-choose-us__one-quality-single-content">
+                                    <h4>IoT Connectivity</h4>
+                                    <p>Tracks movement in real time with connected sensors.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-10">
                     <div class="why-choose-us__one-image">
@@ -215,69 +242,80 @@
     </div>
     <!-- Services Area End -->
 
-    <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
-        <div class="container">
-            <div class="row align-items-end work-process-area__one-title">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>workflow to Implement Track and Trace Services</h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
-                    <div class="work-process-area__one-content-right">
-                        <p>With seamless integration and real-time role updates, our solution adapts to your evolving business needs, keeping your organization secure and efficient.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center gy-4">
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-single-work">
-                        <span>01</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Business Needs Analysis & Customization</h4>
-                            <p> Understanding industry-specific tracking requirements</p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>02</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>System Integration & IoT Connectivity
-                            </h4>
-                            <p>Enabling smart tracking with seamless integration.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>03</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Real-Time Data Processing & Automation</h4>
-                            <p>Implementing intelligent monitoring and traceability features.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-right-img">
-                        <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2 >20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Work process Area End -->
+   <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6> Can I track a shipment across multiple carriers?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Yes, our system can track end-to-end movement across integrated carriers or service providers using linked IDs.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How are missed scans or delays flagged?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>If a parcel misses a scan at a checkpoint, it’s auto-flagged with an alert and shown as “exception” in the dashboard.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can I integrate GPS and IoT for asset tracking?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Yes, the system supports integration with GPS trackers, RFID tags, or IoT devices for high-value or sensitive items.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Does it generate compliance-ready reports?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, audit and traceability reports can be exported to meet customs, industry, or internal compliance needs.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

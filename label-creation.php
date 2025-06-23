@@ -33,11 +33,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Courier Management Software
+                        <span class="subtitle-one">Barcode generation 
                         </span>
-                        <h2>Enhancing Business Accuracy with Intelligent 
-                        <span>Barcode Generation</span></h2>
-                        <p> Barcode Generation by providing automated, high-precision solutions tailored to modern business needs. 
+                        <h2>Automated Barcode 
+                        <span>Management</span></h2>
+                        <p>Generate barcodes instantly with automated workflows, multi-format support, and secure cloud-based storage for your business.
                         </p>
                         <a href="#" class="btn-two">Book a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -89,26 +89,22 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Innovating Business Operations with Smart Barcode Generation</h2>
-                        <p>Our system ensures seamless barcode creation, inventory tracking, and compliance with global standards, allowing businesses to enhance efficiency, reduce errors, and streamline operations with ease.</p>
+                        <h2>Create, Customize, and Store Barcodes Fast</h2>
+                        <p>Generate high-accuracy barcodes in bulk or one at a time. Customize types, formats, and encoding—all integrated into your business systems.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>AI-Driven Barcode Generation 
+                                <span>Batch barcode generation
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless Integration with Business Systems
+                                <span>Custom formats & encoding
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Multi-Format Barcode Support</span>
-                            </div>
-                            <div class="service">
-                                <i class="far fa-check-circle"></i>
-                                <span>Scalable & Customizable Barcode Solutions</span>
+                                <span>Secure cloud storage</span>
                             </div>
                         </div>
                         <a href="about.php" class="btn-one">Book A Demo
@@ -129,8 +125,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Transforming Barcode Generation for Smarter Business Management</h2>
-                            <p>Experience cutting-edge Barcode Generation with ITD Software Services, designed for accuracy, scalability, and seamless integration.</p>
+                            <h2>Integrated Barcode Tools Built for Scale</h2>
+                            <p>From logistics to retail, connect barcode generation to your existing software stack. Ensure compliance, consistency, and easy access.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -138,8 +134,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Cloud-Based Barcode Storage</h4>
-                                    <p>Access, edit, and manage barcodes anytime
+                                    <h4>Smart Format Selection</h4>
+                                    <p>Supports QR, EAN, UPC, and other standards with flexible configuration for industry use.
                                     </p>
                                 </div>
                             </div>
@@ -148,8 +144,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Automated Barcode Creation</h4>
-                                    <p> Reduce manual work and increase efficiency</p>
+                                    <h4>API Integration </h4>
+                                    <p> Ready Connects to ERPs or inventory tools, automating generation directly within your workflows.</p>
                                 </div>
                             </div>
                         </div>
@@ -243,69 +239,80 @@
     </div>
     <!-- Services Area End -->
 
-    <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
-        <div class="container">
-            <div class="row align-items-end work-process-area__one-title">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>Seamless Approach to Efficient Barcode Generation</h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
-                    <div class="work-process-area__one-content-right">
-                        <p>We follow a structured and automated process to implement Barcode Generation effectively
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center gy-4">
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-single-work">
-                        <span>01</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>.Requirement Analysis & System Design</h4>
-                            <p>Understanding industry-specific barcode needs</p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>02</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Automated Workflow Integration
-                            </h4>
-                            <p>Connecting barcode generation with existing business systems
-                            </p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>03</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Smart Barcode Design & Compliance Checks</h4>
-                            <p>Ensuring regulatory alignment and accuracy
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-right-img">
-                        <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2 >20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Work process Area End -->
+   <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can the platform generate multiple barcodes in one go?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Yes, batch barcode creation is supported for high-volume operations and export into printable formats.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>What barcode formats are available?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> You can generate common formats like QR, Code 128, EAN-13, UPC-A, and others based on your business needs.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can barcodes be customized with logos or product info?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, you can include additional text, colors, or branding elements in the barcode layout.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Is there an option to store and retrieve barcode history?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, all generated barcodes are stored in the cloud and can be searched, retrieved, and reused.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

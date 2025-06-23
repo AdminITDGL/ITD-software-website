@@ -34,13 +34,13 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Transfer Management
+                        <span class="subtitle-one">Brach-to-Hub
                         </span>
-                        <h2>Seamless Branch-to-Hub 
-                        <span>Transfers</span></h2>
-                        <p>With automated tracking, optimized routing, and real-time data synchronization, we enhance logistics efficiency and minimize transit delays.
+                        <h2>Manage Branch-to-Hub Transfers 
+                        <span>Easily</span></h2>
+                        <p>Automate routing, sync data in real time, and track every shipment moving between branches and hubs—without manual work.
                         </p>
-                        <a href="#" class="btn-two">Book a demo
+                        <a href="contact.php" class="btn-two">Book a demo
 							<i class="fas fa-arrow-right"></i>
 						</a>
                     </div>
@@ -90,23 +90,24 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Innovating Logistics with Smart Solutions</h2>
-                        <p>Specializing in Branch-to-Hub Transfer Management and other automation-driven solutions. Our expertise enhances efficiency, accuracy, and real-time coordination in courier logistics, ensuring seamless operations for businesses worldwide.
+                        <h2>Track and Transfer Without Delays</h2>
+                        <p>Our platform lets you assign, schedule, and monitor inter-branch transfers in real time. It reduces delays and errors while keeping your operations aligned.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Optimized Transfer Workflow
+                                <span>Auto-routing between locations
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Real-Time Monitoring & Accuracy
+                                <span>Live transfer status updates
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless System Integration</span>
+                                <span>Zero manual coordination
+                                </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -132,9 +133,9 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Our Branch-to-Hub Transfer Management Stands Out
+                            <h2>Logistics That Move as Fast as You Do
                             </h2>
-                            <p>With intelligent automation and real-time tracking, we ensure faster and more reliable cargo transfers.
+                            <p>From pickup to handover, your teams can view, update, and manage all branch-to-hub movement in one place—fully trackable.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -143,9 +144,9 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Streamlined Logistics & Reduced Delays
+                                    <h4>Real-Time Movement Logs
                                     </h4>
-                                    <p>Our solution automates the transfer process, cutting down delays and improving the speed of shipments between branches and hubs, ensuring on-time delivery and optimized logistics flow.
+                                    <p>Every transfer is time-stamped and tracked with full visibility across your network.
                                     </p>
                                 </div>
                             </div>
@@ -154,8 +155,9 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Real-Time Tracking & Enhanced Accuracy</h4>
-                                    <p>With real-time tracking, we offer full visibility into the status of your shipments. This reduces manual errors, enhances accuracy, and keeps all stakeholders informed, ensuring smooth and efficient operations.
+                                    <h4>Integrated Dispatch Tools
+                                    </h4>
+                                    <p>Easily schedule transfers and assign transport—no external tracking tools needed.
                                     </p>
                                 </div>
                             </div>
@@ -254,7 +256,7 @@
     <!-- Services Area End -->
 
     <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
@@ -316,11 +318,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Work process Area End -->
 
     <!-- FAQ Area Start -->
-    <!-- <div class="faq__two section-padding">
+    <div class="faq__two section-padding">
 		<div class="container">
 			<div class="row gy-4 align-items-center">
 				<div class="col-xl-6">
@@ -347,33 +349,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can transfers be auto-scheduled based on parcel volume?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Yes, the system can trigger transfers automatically when parcel count or weight reaches a predefined threshold.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>How are delays or transit issues flagged?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Any deviation in schedule or missing scan triggers a real-time alert visible to both the source branch and the hub.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can I monitor the live location of transfer vehicles?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Some essential steps to start a business include conducting market research, creating Some essential step business</p>
+									<p>If GPS is integrated, the platform displays real-time vehicle tracking during branch-to-hub movement.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6 Are transfer manifests generated automatically?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, as parcels are scanned for dispatch, a transfer manifest is auto-generated and shared with the hub.</p>
 								</div>
 							</div>
 						</div>
@@ -381,7 +394,7 @@
 				</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
     <!-- FAQ Area End -->
 
 

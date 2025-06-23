@@ -27,9 +27,9 @@
                     <div class="banner__five-content">
                         <span class="subtitle-one">Hub Scanning
                         </span>
-                        <h2>Transformative Inbound Hub Scanning
+                        <h2>Inbound Hub Scanning
                         </h2>
-                        <p>Inbound Hub Scanning solution, designed to optimize inventory management and improve processing accuracy.
+                        <p>Log every parcel that reaches your local hub. Update tracking, reduce delays, and prepare shipments for final delivery.
                         </p>
                         <div class="banner__five-content-bottom">
                             <a href="contact.php" class="btn-two">Book a demo
@@ -106,18 +106,20 @@
                             <div class="single-service">
                                 <i class="fas fa-check-circle"></i>
                                 <div class="single-service-content">
-                                    <h4>Industry-Leading Innovation
+                                    <h4>Real-time scan at hub entry
                                     </h4>
-                                    <p>ITD Software is at the forefront of logistics technology, delivering Inbound Hub Scanning solutions that streamline operations, reduce manual errors, and enhance overall efficiency for courier businesses.
-                                    </p>
                                 </div>
                             </div>
                             <div class="single-service">
                                 <i class="fas fa-check-circle"></i>
                                 <div class="single-service-content">
-                                    <h4>Seamless System Integration</h4>
-                                    <p>Our Inbound Hub Scanning software integrates effortlessly with existing logistics systems, providing real-time tracking, automated data capture, and valuable insights to optimize inbound processes.
-                                    </p>
+                                    <h4>Status auto-updated to system</h4>
+                                </div>
+                            </div>
+                            <div class="single-service">
+                                <i class="fas fa-check-circle"></i>
+                                <div class="single-service-content">
+                                    <h4>No manual tracking needed</h4>
                                 </div>
                             </div>
                         </div>
@@ -136,35 +138,27 @@
         <div class="container">
             <div class="row justify-content-center text-center mb-50">
                 <div class="col-xl-6 col-lg-7 col-md-9">
-                    <span class="subtitle-one">Work Process</span>
+                    <span class="subtitle-one">Tracking and Delivery Start from the Hub</span>
                     <h2>Workflow journey 
                     </h2>
                 </div>
             </div>
             <div class="work-process__three-card">
                 <div class="work-process__three-card-arrows">
-                    <img src="assets/img/work-process/work-process-arrow-1.png" alt="" class="arrow-1">
-                    <img src="assets/img/work-process/work-process-arrow-2.png" alt="" class="arrow-2">
+                    <img src="assets/img/work-process/work-process-arrow-1.png" alt="" class="arrow-1" style="left: 30%;">
                     <img src="assets/img/work-process/work-process-arrow-1.png" alt="" class="arrow-3">
                 </div>
                 <div class="work-process__three-card-single">
-                    <h3>01</h3>
-                    <h5>Package Arrival</h5>
-                    <p>Scanning begins as packages enter the hub.
+                    <h5>Delivery-Ready Status</h5>
+                    <p>Scanned parcels instantly reflect as “Inbound at Destination” and are marked for the next step—delivery.
                     </p>
                 </div>
                 <div class="work-process__three-card-single middle">
-                    <h3>02</h3>
-                    <h5>Data Capture</h5>
-                    <p>Automated systems capture all relevant data instantly.
+                    <h5>Full System Sync</h5>
+                    <p> Data is shared across dashboards, CRMs, and tracking tools—no delays, no double entry.
                     </p>
                 </div>
-                <div class="work-process__three-card-single">
-                    <h3>03</h3>
-                    <h5>Status Update</h5>
-                    <p>Real-time updates provide visibility and transparency throughout the process.
-                    </p>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -267,7 +261,7 @@
     <!-- Service Five Area End -->
 
     <!-- Why Choose us Area Start -->
-    <div class="why-choose-us__four section-padding">
+    <!-- <div class="why-choose-us__four section-padding">
         <div class="container">
             <div class="row gy-4 align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-10">
@@ -303,8 +297,83 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Why choose us Area End -->
+
+     <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What data does the system capture during inbound scanning?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>It records barcode, time of scan, hub location, and condition notes (if enabled), ensuring accurate intake logs.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can we integrate scanners from different vendors?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Yes, the platform supports most standard scanner hardware via API or middleware integration.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How does it prevent duplicate or missed scans?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>The system flags duplicates and highlights missed scans in real-time, prompting re-scanning before proceeding.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Is real-time scan data visible to branch offices?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, real-time sync ensures all relevant branches have immediate visibility on inbound parcel status.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 
     <?php include('includes/footer.php') ?>

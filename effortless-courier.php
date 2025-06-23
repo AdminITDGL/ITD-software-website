@@ -26,11 +26,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__four-content">
-                        <span class="subtitle-two">Seamless Control
+                        <span class="subtitle-two">Mobile App
                         </span>
-                        <h2>Transform Courier Services with Our Mobile App for Operations
+                        <h2>Courier Operations, Now in Your Pocket
                         </h2>
-                        <p>Revolutionizing courier services, our Mobile App for Operations streamlines logistics with real-time tracking, automation, and seamless communication.
+                        <p>Track deliveries, assign jobs, and verify proof—all from one mobile app that connects dispatchers, drivers, and data in real time.
                         </p>
                         <div class="banner__four-content-bottom">
                             <a href="contact.php" class="btn-two">Start your free trial.
@@ -82,24 +82,24 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__four-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Next-Gen Courier Solutions with Mobile App for Operations
+                        <h2>Run Daily Operations on the Go
                         </h2>
-                        <p>We specialize in cutting-edge courier solutions. Our Mobile App for Operations enables real-time tracking, automation, and seamless communication for faster, smarter deliveries.
+                        <p>Our mobile app automates key logistics tasks—from dispatching to delivery proof—while keeping your field teams fully connected and accountable.
                         </p>
                         <div class="about__four-content-service">
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Industry-Leading Technology
+                                <span>Real-time GPS tracking
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Seamless Integration
+                                <span>Smart auto-dispatch tools
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Scalable & Customizable
+                                <span>In-app proof of delivery
                                 </span>
                             </div>
                         </div>
@@ -198,23 +198,22 @@
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>The Most Efficient Mobile App for Operations in Courier Services
+                            <h2>More Control, Less Delay—All in One App
                             </h2>
-                            <p>Delivers scalable, expert-driven Mobile App for Operations for efficient courier management. With 24/7 support and an intuitive interface, we ensure seamless operations.
+                            <p>Drivers receive jobs, routes, and updates instantly. Dispatchers get full visibility, route insights, and digital confirmation on every delivery.
                             </p>
                         </div>
                         <div class="why-choose-us__three-bottom">
                             <div class="why-choose-us__three-bottom-card">
                                 <div class="why-choose-us__three-bottom-card-content">
                                     <i class="flaticon-web-research"></i>
-                                    <h4>Orders Processed Successfully</h4>
+                                    <h4>AI-Optimized Dispatch Assigns jobs based on location, load, and availability to reduce delays and idle time.</h4>
                                 </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4 >250</h4>
-                                    <h4>k+</h4>
+                                  <div class="why-choose-us__three-bottom-card-content">
+                                    <i class="flaticon-web-research"></i>
+                                    <h4>Digital Proof of Delivery Capture signatures, photos, and timestamps instantly—no paper, no follow-ups.</h4>
                                 </div>
                             </div>
-                            
                         </div>
                     </div>
                 </div>
@@ -229,96 +228,80 @@
     </div>
     <!-- Why choose us Area End -->
 
-    <!-- Skill two Area Start -->
-    <div class="skill__two section-padding">
-        <div class="container">
-            <ul class="row nav mb-5 gy-4 justify-content-center">
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link active" id="topic-1-tab" data-bs-toggle="pill" data-bs-target="#topic-1" role="button" aria-controls="topic-1">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-content-marketing"></i>
-                        </span>
-                        <span>Real-Time Tracking
-                        </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-2-tab" data-bs-toggle="pill" data-bs-target="#topic-2" role="button" aria-controls="topic-2">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-it-service"></i>
-                        </span>
-                        <span>AI-Powered Dispatching
-                        </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-3-tab" data-bs-toggle="pill" data-bs-target="#topic-3" role="button" aria-controls="topic-3">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-satellite-signal"></i>
-                        </span>
-                        <span>Secure Proof of Delivery
-                        </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-4-tab" data-bs-toggle="pill" data-bs-target="#topic-4" role="button" aria-controls="topic-4">
-                        <div class="skill__two-tab-icon">
-                            <i class="flaticon-analytics"></i>
-                        </div>
-                        <span>Advanced Analytics
-                        </span>
-                    </div>
-                </li>
-            </ul>
-            <div class="skill__two-tab-details tab-content">
-                <div class="row align-items-center flex-wrap-reverse gy-4 tab-pane fade show active" role="tabpanel" id="topic-1" aria-labelledby="topic-1-tab">
-                    <div class="col-xl-6 col-lg-7 col-md-9">
-                        <div class="skill__two-tab-details-content">
-                            <h2>Boost Mobile App Efficiency
-                            </h2>
-                            <p>Streamline operations and enhance customer experience with our Mobile App for Operations, designed to optimize tech-driven business management.</p>
-                            <div class="skill__two-tab-details-content-service">
-                                <div class="skill__two-tab-details-content-service-left">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Track Deliveries Instantly
-                                        </span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Automated, Smart Dispatching</span>
-                                    </div>
-                                </div>
-                                <div class="skill__two-tab-details-content-service-right">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Secure & Verified Deliveries</span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Data-Driven Performance Insights
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="request-quote.php" class="btn-one">Request A Quote
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-8">
-                        <div class="skill__two-tab-details-image">
-                            <div class="skill__two-tab-details-image-wrapper">
-                                <img src="assets/img/skill/skill-two.png" alt="" class="image-1">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Skill two Area End -->
-
+     <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6> Can delivery staff log in individually?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p> Yes, each user gets a unique login with role-based access—driver, dispatcher, or field supervisor.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Does the app work offline?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Yes, critical functions like scan and delivery confirmation work offline and sync automatically once reconnected.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How does the app handle route planning?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>The app uses location data and assigned deliveries to suggest the most optimized delivery route.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Can I send instant updates or instructions to a driver?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, dispatchers can message drivers in-app and send alerts for new pickups, reroutes, or delivery changes.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
     <?php include('includes/footer.php') ?>
     <?php include('includes/footer_script.php') ?>

@@ -36,9 +36,9 @@
                     <div class="banner__one-content">
                         <span class="subtitle-one">Notification Services
                         </span>
-                        <h2>Stay Connected with Smart 
-                        <span>Notifications</span></h2>
-                        <p>Automate real-time SMS, email, or WhatsApp alerts for shipment updates, invoices, delays, and more
+                        <h2>Instant Alerts. Smarter
+                        <span>Decisions</span></h2>
+                        <p>Deliver critical updates across platforms in real time—boost responsiveness, reduce delays, and keep every user informed.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -90,23 +90,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Smart Notification Services
+                        <h2>AI-Powered Notifications That Matter
                         </h2>
-                        <p>Enhance courier communication with AI-powered alerts across SMS, email, WhatsApp, and apps for real-time updates</p>
+                        <p>Our system filters, prioritizes, and delivers real-time alerts via email, SMS, and push. Never miss a critical update—stay in control at all times.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>AI-Powered Alerts
+                                <span>Multi-channel alert delivery
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless Platform Integration
+                                <span>AI-based message prioritization
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Multi-Channel Messaging</span>
+                                <span>Device-wide sync and coverage</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -209,9 +209,9 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>AI Alerts for Better Customer Engagement
+                            <h2>Reliable Notifications Built for Scale
                             </h2>
-                            <p>Keep users informed and engaged, and boost delivery transparency through intelligent, cross-platform alerts.
+                            <p>Trigger instant alerts based on key events, sync across all devices, and manage emergency communications with confidence.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -220,8 +220,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Automated Engagement</h4>
-                                    <p> Trigger automatic alerts for dispatch, delivery, and confirmations, keeping the customer informed.
+                                    <h4>Event-Based Alerts</h4>
+                                    <p>Send notifications triggered by system events or business conditions in real time.
                                     </p>
                                 </div>
                             </div>
@@ -230,8 +230,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Customizable Alerts</h4>
-                                    <p>Prioritize alerts by urgency, milestones, and customer preferences, increasing customer engagement.
+                                    <h4>Emergency Messaging</h4>
+                                    <p>Ensure fast delivery of high-priority alerts for urgent updates across all user touchpoints.
                                     </p>
                                 </div>
                             </div>
@@ -346,44 +346,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can I control which notifications are sent to different users or teams?</h6>
+									<h6>What triggers notifications in the system?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Yes, you can set custom rules and preferences for different user types—customers, vendors, or internal teams—ensuring each party gets only the most relevant alerts.</p>
+									<p>You can configure triggers based on events—parcel scanned, vehicle dispatched, delivery delay, or failed attempts.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How secure is the notification system when handling sensitive delivery or billing information?</h6>
+									<h6>Can I send notifications via WhatsApp or SMS?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Our platform uses end-to-end encryption and follows strict data privacy protocols (like GDPR and industry standards) to ensure that all notifications and customer data remain secure.</p>
+									<p> Yes, notifications can be sent via SMS, WhatsApp, email, app push, or a combination—based on user preference.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6> Do you offer multilingual notifications for global users?</h6>
+									<h6>Can customers and internal teams receive different alerts?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Yes, we support multilingual message templates so you can send alerts in your customer’s preferred language, enhancing user experience across regions.</p>
+									<p> Absolutely. Notification rules can be split by role—customers see updates relevant to delivery, while teams see ops alerts.</p>
 								</div>
 							</div>
 						</div>
                         <div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>What happens if a notification fails to deliver?</h6>
+									<h6>How are alerts prioritized to avoid spam?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Failed notifications are automatically logged and retried, and you can view detailed delivery reports to track and resolve issues across any channel.</p>
+									<p>AI logic filters out redundant alerts and only sends priority updates based on urgency and event type.</p>
 								</div>
 							</div>
 						</div>

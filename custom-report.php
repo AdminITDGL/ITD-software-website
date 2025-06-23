@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Smart Reporting
+                        <span class="subtitle-one">Custom Report Creation 
                         </span>
-                        <h2>Empowering Courier Businesses with Custom
-                        <span> Report Creation</span></h2>
-                        <p>Specialize in custom report creation for courier services, offering data-driven insights, automated analytics, and flexible reporting solutions. 
+                        <h2>Custom Reports For 
+                        <span>Logistics</span></h2>
+                        <p>Get tailored reports offering data-driven insights, automated analytics, and flexible reporting solutions—built for your business needs.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -90,8 +90,9 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Smart Custom Report Creation for Couriers</h2>
-                        <p>Our Custom Report Creation tool allows businesses to generate, customize, and analyze reports tailored to their operational needs.</p>
+                        <h2>Smart Custom Report Creation for Couriers
+                        </h2>
+                        <p>Our Custom Report Creation tool empowers courier businesses to take control of their data. From delivery summaries to performance metrics, create reports tailored to your operational needs with ease.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -132,8 +133,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Powerful, flexible, and efficient Custom Report Creation</h2>
-                            <p>Our Custom Report Creation delivers powerful analytics, ensuring accurate insights and optimized courier operations.</p>
+                            <h2>Create Better Reports, Backed by Insights</h2>
+                            <p>Our platform goes beyond templates. It simplifies reporting and analysis so your logistics teams can stay ahead—without the manual work.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -141,8 +142,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Real-Time Analytics</h4>
-                                    <p>Gain instant insights with live data tracking and reporting.
+                                    <h4>Visualize Trends Instantly</h4>
+                                    <p>Spot patterns faster with charts, heatmaps, and custom dashboards tailored to your logistics model.
                                     </p>
                                 </div>
                             </div>
@@ -151,8 +152,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Flexible Customization</h4>
-                                    <p>Tailor reports to fit your unique business needs.
+                                    <h4>Integrate Seamlessly Across Systems</h4>
+                                    <p>Connect with different logistic systems to generate reports with a complete 360° view of your operations.
                                     </p>
                                 </div>
                             </div>
@@ -250,73 +251,9 @@
     </div>
     <!-- Services Area End -->
 
-    <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
-        <div class="container">
-            <div class="row align-items-end work-process-area__one-title">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>Optimizing Custom Report Creation
-                        </h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
-                    <div class="work-process-area__one-content-right">
-                        <p>Our platform offers intelligent features that simplify data analysis and reporting for courier businesses.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center gy-4">
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-single-work">
-                        <span>01</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Select Data</h4>
-                            <p>Choose relevant data points from multiple sources to ensure your custom reports are focused on what matters most, like tracking, performance, and transactions.</p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>02</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Customize Layout 
-                            </h4>
-                            <p>Easily adjust columns, filters, and formats to create reports that fit your needs, whether for summaries or detailed analyses, with a user-friendly interface.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>03</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Generate and analyze</h4>
-                            <p>Generate reports instantly with real-time data and leverage powerful analytics for data-driven decisions that optimize logistics performance.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-right-img">
-                        <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2 >20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Work process Area End -->
-
+   
     <!-- FAQ Area Start -->
-    <!-- <div class="faq__two section-padding">
+    <div class="faq__two section-padding">
 		<div class="container">
 			<div class="row gy-4 align-items-center">
 				<div class="col-xl-6">
@@ -343,33 +280,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>What kind of reports can I create using your Custom Report Creation tool?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>You can build a wide range of reports, including delivery performance summaries, route efficiency metrics, order delays, billing breakdowns, customer behavior insights, and more—all tailored to your specific logistics workflow.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can I automate report generation and scheduling?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Yes, our platform allows you to schedule automated report generation and delivery. You can set reports to run daily, weekly, or monthly, and send them to specific users or teams.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6> Is technical knowledge required to build or customize reports?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Some essential steps to start a business include conducting market research, creating Some essential step business</p>
+									<p> Not at all. Our intuitive drag-and-drop interface and pre-built templates make it easy for non-technical users to create and modify reports quickly.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Can I integrate data from other systems into these reports?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Absolutely. Our platform supports seamless integration with your existing courier, CRM, WMS, or ERP systems, giving you a unified view of your operations.</p>
 								</div>
 							</div>
 						</div>
@@ -377,7 +325,7 @@
 				</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
     <!-- FAQ Area End -->
 
 

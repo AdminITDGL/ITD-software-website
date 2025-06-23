@@ -25,10 +25,10 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-7 col-lg-6">
                     <div class="banner__five-content">
-                        <span class="subtitle-one">Efficient Pickup
+                        <span class="subtitle-one">Pickup Scheduling
                         </span>
-                        <h2>Seamless Pickup Scheduling for Streamlined Deliveries</h2>
-                        <p>It simplifies the entire process, offering businesses an easy, efficient way to manage and optimize courier pickups for faster, more reliable deliveries.</p>
+                        <h2>The Pickup Tool Every Platform Needs</h2>
+                        <p>Automate how pickups are created, assigned, and tracked—reducing delays, errors, and manual follow-ups.</p>
                         <div class="banner__five-content-bottom">
                             <a href="contact.php" class="btn-two">Book a demo
                                 <i class="fas fa-arrow-right"></i>
@@ -171,15 +171,14 @@
                 <div class="col-xl-6 col-lg-6 col-md-9">
                     <div class="technology-solution__one-content">
                         <span class="subtitle-one">Tech Solutions</span>
-                        <h2>Pickup Scheduling Technology that Drives Business
+                        <h2>Track Every Pickup Without Gaps
                         </h2>
-                        <p>From streamlining operations to enhancing customer experiences, businesses across all sectors are embracing cutting-edge technologies.</p>
-                        <div class="satisfied-customer-counter">
-                            <div class="counter-wrapper">
-                                <h3 >400</h3>
-                                <h3>+</h3>
-                            </div>
-                            <span>Satisfied Customers</span>
+                        <p>Track pickups in real time, cut back on calls, and reduce fuel and labor costs through better scheduling and route planning.</p>
+                        <div class="satisfied-customer-counter" style="display:block;">
+                            <span>Real-Time Updates Every status change—assigned, delayed, completed—is reflected instantly across dashboards and mobile apps.</span>
+                        </div>
+                         <div class="satisfied-customer-counter" style="display:block;">
+                            <span>Operational Savings Minimize idle time, reduce backtracking, and lower overall costs with smarter slot-based pickup planning.</span>
                         </div>
                     </div>
                 </div>
@@ -257,7 +256,7 @@
     <!-- Service Five Area End -->
 
     <!-- Why Choose us Area Start -->
-    <div class="why-choose-us__four section-padding">
+    <!-- <div class="why-choose-us__four section-padding">
         <div class="container">
             <div class="row gy-4 align-items-center">
                 <div class="col-xl-6 col-lg-6 col-md-10">
@@ -270,32 +269,112 @@
                     <div class="why-choose-us__four-left">
                         <div class="why-choose-us__four-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>The Future of Pickup Scheduling
+                            <h2>Effortless Pickup Scheduling Workflow
                             </h2>
-                            <p>Pickup Scheduling automates scheduling with real-time updates and optimized routes, seamlessly integrating into your systems to enhance efficiency and reliability.
+                            <p>Raise pickup requests, assign staff, and monitor live status. Designed for courier, delivery, service, and logistics businesses.
                             </p>
-                            <div class="why-choose-us__four-progress-bar">
-                                <div class="why-choose-us__four-progress-bar-wrapper">
-                                    <div class="single-progress-bar">
-                                        <span>98%</span>
-                                    </div>
-                                    <h3>Successful</h3>
-                                </div>
-                                <div class="why-choose-us__four-progress-bar-wrapper">
-                                    <div class="single-progress-bar">
-                                        <span>93%</span>
-                                    </div>
-                                    <h3>Satisfaction</h3>
+                           <div class="about__five-content-service">
+                            <div class="single-service">
+                                <i class="fas fa-check-circle"></i>
+                                <div class="single-service-content">
+                                    <h4>Supports multi-location workflows</h4>
                                 </div>
                             </div>
+                            <div class="single-service">
+                                <i class="fas fa-check-circle"></i>
+                                <div class="single-service-content">
+                                    <h4>Real-time rider or agent sync</h4>
+                                </div>
+                            </div>
+                             <div class="single-service">
+                                <i class="fas fa-check-circle"></i>
+                                <div class="single-service-content">
+                                    <h4>Client notifications built in</h4>
+                                </div>
+                            </div>
+                        </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Why choose us Area End -->
 
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>Will customers get pickup reminders?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p> Absolutely. SMS/email/app alerts go out automatically once a pickup is confirmed.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can pickups be modified last minute?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Yes, admins can reschedule or cancel pickups anytime, with auto-notification to drivers and customers.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Does this work for bulk pickups?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, bulk pickup requests can be uploaded and scheduled via Excel or API in seconds.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How do I set pickup slots based on vehicle availability?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> You can configure time slots using admin settings and assign them to specific routes or branches based on vehicle schedules.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
     <?php include('includes/footer.php') ?>
     <?php include('includes/footer_script.php') ?>

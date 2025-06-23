@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Run Sheet Automation
+                        <span class="subtitle-one">Automate Delivery
                         </span>
-                        <h2>Effortless Delivery Run 
-                        <span>Sheets</span></h2>
-                        <p>ITD Software’s Delivery Run Sheet Management automates delivery run creation and tracking, optimizing routes for efficient operations and real-time updates.
+                        <h2>Automate Delivery Run Sheet 
+                        <span>Creation</span></h2>
+                        <p>Generate, assign, and monitor delivery runs using real-time data, optimized routes, and zero manual effort.
                         </p>
                         <a href="#" class="btn-two">Book a demo
 							<i class="fas fa-arrow-right"></i>
@@ -90,23 +90,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Revolutionizing Logistics with Smart Solutions</h2>
-                        <p>Pioneer in logistics technology, specializing in solutions like Delivery Run Sheet Management. Our expertise in automation and real-time data integration drives operational efficiency and enhances delivery management for courier businesses globally.
+                        <h2>Build Run Sheets That Work Smarter</h2>
+                        <p>Our platform automates delivery run generation by pulling orders, mapping routes, and assigning drivers—cutting errors and saving time.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Automation for Accuracy
+                                <span>Auto-generate from live data
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless Integration
+                                <span>Assign drivers in one click
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Optimized Routes
+                                <span>Track progress in real time
                                 </span>
                             </div>
                             <div class="service">
@@ -133,9 +133,9 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Delivery Run Sheet Management Advantages
+                            <h2>Stay In Control from Dispatch to Delivery
                             </h2>
-                            <p> With automated delivery schedules, route optimization, and easy driver assignment, we ensure smoother operations and faster deliveries across your network.
+                            <p>Manage every run from your dashboard—view ETAs, edit on the go, and keep your team aligned with live updates.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -144,9 +144,9 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Advanced Analytics
+                                    <h4>Real-Time Run Monitoring
                                     </h4>
-                                    <p>Leverage data-driven insights to improve delivery performance, optimize driver schedules, and enhance operational decision-making.
+                                    <p>See live run status, driver activity, and ETAs across all active sheets.
                                     </p>
                                 </div>
                             </div>
@@ -155,8 +155,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Customizable Workflow</h4>
-                                    <p>Tailor the delivery run sheet management system to fit your unique operational requirements, ensuring flexibility and ease of use across all levels.
+                                    <h4>Route Optimization</h4>
+                                    <p>Built-In Smart routing ensures faster deliveries and lower fuel usage with fewer detours.
                                     </p>
                                 </div>
                             </div>
@@ -256,7 +256,7 @@
     <!-- Services Area End -->
 
     <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
@@ -318,11 +318,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Work process Area End -->
 
     <!-- FAQ Area Start -->
-    <!-- <div class="faq__two section-padding">
+    <div class="faq__two section-padding">
 		<div class="container">
 			<div class="row gy-4 align-items-center">
 				<div class="col-xl-6">
@@ -349,33 +349,44 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can the system auto-create daily run sheets for drivers?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Yes, based on parcel destination, vehicle capacity, and driver availability, run sheets are generated automatically.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>How are parcels assigned to delivery runs?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Parcels are grouped using logic like route proximity, load balancing, or custom business rules.</p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can I make manual edits to a generated run sheet?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Some essential steps to start a business include conducting market research, creating Some essential step business</p>
+									<p> Absolutely. Admins can drag-drop, reassign, or remove parcels from any sheet before dispatch.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Are drivers notified once their run sheet is ready?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes, drivers get instant app or SMS notifications with the full delivery schedule and route details.</p>
 								</div>
 							</div>
 						</div>
@@ -383,7 +394,7 @@
 				</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
     <!-- FAQ Area End -->
 
 

@@ -33,11 +33,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Courier Management Software
+                        <span class="subtitle-one">User Role Management
                         </span>
-                        <h2>Redefining Secure Access with User 
-                        <span>Role Management</span></h2>
-                        <p>Role-based access system ensures the right people have the right permissions, reducing security risks and improving workflow efficiency.
+                        <h2>Control Access with Smart Role 
+                        <span>Management</span></h2>
+                        <p>Define, assign, and control user roles and permissions with ease—secure, scalable, and fully customizable.
                         </p>
                         <a href="#" class="btn-two">Book a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -89,17 +89,17 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Smart Role-Based Access for Couriers</h2>
-                        <p>Our role-based access system ensures the right people have the right permissions, reducing security risks and improving workflow efficiency. </p>
+                        <h2>Role-Based Access Control</h2>
+                        <p>Simplify access, boost security, and streamline onboarding with intelligent role-based access tailored for courier businesses.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>(RBAC) for secure permission management
+                                <span>Multi-Factor Authentication (MFA)
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Scalable & Customizable
+                                <span>Scalable & Customizable Roles
                                 </span>
                             </div>
                             <div class="service">
@@ -130,7 +130,7 @@
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
                             <h2>Smart & Secure User Role Management</h2>
-                            <p>Implementing a User Role Management system that enhances security, simplifies access control, and improves operational efficiency.</p>
+                            <p>Enhance security and streamline operations with a User Role Management system that simplifies access control and adapts to your team's changing needs.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
                                     <h4>Granular Access Control</h4>
-                                    <p>Our KYC Upload Feature leverages intelligent automation for accurate and instant document validation, reducing manual effort and processing time.
+                                    <p>Enable precise role assignments and secure access with our User Role Management system.
                                     </p>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
                                     <h4>Real-Time Role Updates</h4>
-                                    <p>With multi-layer security and real-time analysis, our solution prevents identity fraud, ensuring compliance with global KYC and AML regulations.</p>
+                                    <p>Instantly modify user roles as responsibilities or team structures change.</p>
                                 </div>
                             </div>
                         </div>
@@ -243,69 +243,80 @@
     </div>
     <!-- Services Area End -->
 
-    <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
-        <div class="container">
-            <div class="row align-items-end work-process-area__one-title">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>Streamlined Approach to User Role Management</h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
-                    <div class="work-process-area__one-content-right">
-                        <p>With seamless integration and real-time role updates, our solution adapts to your evolving business needs, keeping your organization secure and efficient.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center gy-4">
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-single-work">
-                        <span>01</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Granular Access Control</h4>
-                            <p>We begin by thoroughly understanding the specific needs of your courier and logistics operations to ensure our software is customized to align perfectly with your business objectives.</p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>02</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Multi-Tier Security Layers
-                            </h4>
-                            <p>We develop advanced, courier management software and logistics software designed to meet the specific needs of your business. Our solutions offer effective delivery tracking with simple, user-friendly features, helping streamline operations and boost efficiency.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>03</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4> Real-Time Role Updates</h4>
-                            <p>Our team integrates the software smoothly into your existing infrastructure and provides continuous support for optimization, ensuring your operations remain efficient and responsive to evolving business needs.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-right-img">
-                        <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2 >20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Work process Area End -->
+ <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What is User Role Management, and why is it important?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>User Role Management allows you to assign specific access levels and permissions to different users—ensuring that sensitive data and functions are only accessible to the right people, improving both security and efficiency.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can we customize roles to match our internal team structure?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Absolutely. You can create fully customizable roles—based on job functions, departments, or locations—to reflect your unique courier operations and workflows.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How does this system improve security?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>With features like role-based access control, multi-factor authentication, and real-time audits, you reduce the risk of unauthorized access, internal misuse, and data breaches.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can we update roles and permissions in real time?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Yes. You can instantly update user roles as responsibilities or teams evolve, with changes reflected across all integrated systems in real time.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->    
 
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

@@ -125,7 +125,7 @@
                                             <a href="inbound-hub.php">Inbound Hub Scanning</a>
                                         </div>
                                         <div class="service-item">
-                                            <a href="outgoing-manifest.php">Outgoing Manifest Creation</a>
+                                            <a href="outstanding-manifest.php">Outgoing Manifest Creation</a>
                                         </div>
                                         <div class="service-item">
                                             <a href="branch-to-hub.php">Branch-to-Hub Transfer Management</a>
@@ -172,6 +172,16 @@
                                         <div class="service-item">
                                             <a href="track-trace.php">Track and Trace Services</a>
                                         </div>
+                                        <div class="service-item">
+                                            <a href="vendor_contract.php">Vendor contract management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="customer_control.php">Customer Control management</a>
+                                        </div>
+                                        <div class="service-item">
+                                            <a href="bar_creation.php">Label creation</a>
+                                        </div>
+
                                     </div>
                                 </ul>
                             </li>

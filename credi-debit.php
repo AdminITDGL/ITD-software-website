@@ -26,11 +26,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__four-content">
-                        <span class="subtitle-two">Automated adjustments
+                        <span class="subtitle-two">Credit & Debit Note
                         </span>
-                        <h2>Automate Your Credit and Debit Note Generation with Ease
+                        <h2>Smart Note Generation for Smarter Billing
                         </h2>
-                        <p>Streamline your financial operations with our intuitive credit and debit note generation system. </p>
+                        <p>Streamline your financial operations with our intuitive credit and debit note generation system.</p>
                         <div class="banner__four-content-bottom">
                             <a href="contact.php" class="btn-two">Book a demo
                                 <i class="fas fa-arrow-right"></i>
@@ -81,23 +81,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__four-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Empowering ITD Software Services with Smart Financial Solutions</h2>
-                        <p>expertise in credit and debit note generation helps businesses maintain compliance, reduce errors, and streamline financial adjustments with ease.
+                        <h2>Smarter Credit & Debit Note Solutions</h2>
+                        <p>Streamline financial adjustments with automated, compliant, and audit-ready credit & debit note generation—faster, safer, and more accurate.
                         </p>
                         <div class="about__four-content-service">
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span> Trusted Expertise
+                                <span>Instant Note Generation
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Industry-Specific Solutions
+                                <span>Automated Tax Calculations
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Efficiency and Accuracy</span>
+                                <span>Audit-Ready Documentation</span>
                             </div>
                         </div>
                         <a href="about.php" class="btn-one">Get started
@@ -192,30 +192,22 @@
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Reliable, Scalable, and Accurate Billing & invoice Solutions
+                            <h2>Next-Gen Features for Accuracy & Speed
                             </h2>
-                            <p>For dependable, expandable, and error-free special billing and invoicing solutions for the courier sector, choose ITD Software.
+                            <p>From real-time note  generation to smart tax handling, our platform simplifies every step of credit & debit note creation for logistics businesses.
                             </p>
                         </div>
-                        <div class="why-choose-us__three-bottom">
+                        <div class="why-choose-us__three-bottom" style="display: block;">
                             <div class="why-choose-us__three-bottom-card">
                                 <div class="why-choose-us__three-bottom-card-content">
-                                    <i class="flaticon-web-research"></i>
-                                    <h4>Orders Processed Successfully</h4>
-                                </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4>250</h4>
-                                    <h4>k+</h4>
+                                    <h4>Automated Processing & Approval</h4>
+                                    <p>Minimize delays and human errors with intelligent, rule-based automation.</p>
                                 </div>
                             </div>
                             <div class="why-choose-us__three-bottom-card">
                                 <div class="why-choose-us__three-bottom-card-content">
-                                    <i class="flaticon-data-scientist"></i>
-                                    <h4>Global Clients Served</h4>
-                                </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4>300</h4>
-                                    <h4>+</h4>
+                                    <h4>Compliance-First Design</h4>
+                                    <p>Stay audit-ready with accurate, regulation-compliant financial documents.</p>
                                 </div>
                             </div>
                         </div>
@@ -232,94 +224,80 @@
     </div>
     <!-- Why choose us Area End -->
 
-    <!-- Skill two Area Start -->
-    <div class="skill__two section-padding">
-        <div class="container">
-            <ul class="row nav mb-5 gy-4 justify-content-center">
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link active" id="topic-1-tab" data-bs-toggle="pill" data-bs-target="#topic-1" role="button" aria-controls="topic-1">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-content-marketing"></i>
-                        </span>
-                        <span>Initial Consultation </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-2-tab" data-bs-toggle="pill" data-bs-target="#topic-2" role="button" aria-controls="topic-2">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-it-service"></i>
-                        </span>
-                        <span>Custom Solution Design </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-3-tab" data-bs-toggle="pill" data-bs-target="#topic-3" role="button" aria-controls="topic-3">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-satellite-signal"></i>
-                        </span>
-                        <span>Seamless Integration </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-4-tab" data-bs-toggle="pill" data-bs-target="#topic-4" role="button" aria-controls="topic-4">
-                        <div class="skill__two-tab-icon">
-                            <i class="flaticon-analytics"></i>
-                        </div>
-                        <span>Ongoing Support:
-                        </span>
-                    </div>
-                </li>
-            </ul>
-            <div class="skill__two-tab-details tab-content">
-                <div class="row align-items-center flex-wrap-reverse gy-4 tab-pane fade show active" role="tabpanel" id="topic-1" aria-labelledby="topic-1-tab">
-                    <div class="col-xl-6 col-lg-7 col-md-9">
-                        <div class="skill__two-tab-details-content">
-                            <h2>Streamlined Billing & invoice Workflow</h2>
-                            <p> Customized Billing & Invoicing Service optimizes your courier business's billing process with a seamless workflow.</p>
-                            <div class="skill__two-tab-details-content-service">
-                                <div class="skill__two-tab-details-content-service-left">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Needs Assessment
-                                        </span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>system Customization
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="skill__two-tab-details-content-service-right">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Seamless Implementation
-                                        </span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Continuous Optimization</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="request-quote.php" class="btn-one">Request A Quote
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-8">
-                        <div class="skill__two-tab-details-image">
-                            <div class="skill__two-tab-details-image-wrapper">
-                                <img src="assets/img/skill/skill-two.png" alt="" class="image-1">
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
-            </div>
-        </div>
-    </div>
-    <!-- Skill two Area End -->
-
-
+    <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What’s the difference between a credit note and a debit note in your system?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>A credit note is issued when a refund or billing correction reduces the invoice amount, while a debit note is used when the invoice amount needs to be increased—both generated in compliance with tax regulations.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can the system auto-generate credit/debit notes based on delivery issues or returns?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Yes. Our platform can automatically trigger note generation for events like damaged goods, returns, overcharges, or delivery failures based on predefined rules.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Does your system handle tax calculations for these notes?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Absolutely. Taxes are auto-calculated based on the original invoice and applicable GST or VAT structures, ensuring complete accuracy.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Are these documents compliant with local tax regulations?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes. All credit and debit notes are generated in full compliance with regional tax laws, making them audit-ready and legally valid.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
     <?php include('includes/footer.php') ?>
     <?php include('includes/footer_script.php') ?>

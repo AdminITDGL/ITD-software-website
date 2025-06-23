@@ -34,11 +34,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Manifest Creation
+                        <span class="subtitle-one">Manifest Generator
                         </span>
-                        <h2>Smart Outgoing Manifest 
-                        <span>Management</span></h2>
-                        <p>Automates shipment documentation, ensuring accuracy, compliance, and seamless dispatch management. Improve efficiency with real-time tracking and optimized workflows.
+                        <h2>Smart Manifest Creation for
+                        <span>Dispatch</span></h2>
+                        <p>Generate structured, compliant, and real-time shipment manifests from your system with zero manual effort.
                         </p>
                         <a href="#" class="btn-two">Book a demo
 							<i class="fas fa-arrow-right"></i>
@@ -90,23 +90,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Redefining Logistics with Smart Solutions</h2>
-                        <p>A technology-driven approach enhances efficiency, minimizes manual work, and ensures accurate, real-time shipment management for courier businesses worldwide.
+                        <h2>Create and Dispatch Manifests in Minutes</h2>
+                        <p>Our platform builds accurate shipment manifests by pulling data directly from your system. Assign, print, and dispatch—no spreadsheets, no delays.
                         </p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Technology-Driven Efficiency
+                                <span>Auto-generate with system data
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless System Integration
+                                <span>Assign dispatch batches
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Real-Time Shipment Management</span>
+                                <span>Print or export instantly</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -132,8 +132,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Our manifest system stands out.</h2>
-                            <p>With seamless integration and automated workflows, we enhance operational efficiency and ensure faster, more reliable deliveries.
+                            <h2>Built for Accuracy, Speed, and Scale</h2>
+                            <p>Every manifest entry is tracked, searchable, and ready for audits. Works across locations and dispatch volumes.
                             </p>
                         </div>
                         <div class="why-choose-us__one-quality">
@@ -142,9 +142,9 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Error-Free Documentation
+                                    <h4>Compliant Format
                                     </h4>
-                                    <p>Eliminates manual data entry mistakes, ensuring every outgoing shipment is accurately recorded and processed.
+                                    <p>Fields match regulatory and network standards, with options to customize as per your workflow.
                                     </p>
                                 </div>
                             </div>
@@ -153,8 +153,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Scalable for Any Business Size</h4>
-                                    <p>Whether for small courier services or large logistics networks, our solution adapts to evolving operational demands.
+                                    <h4>Scalable Output</h4>
+                                    <p>Whether 10 or 10,000 packages, the manifest module adapts to your load without slowing down.
                                     </p>
                                 </div>
                             </div>
@@ -316,7 +316,7 @@
     <!-- Work process Area End -->
 
     <!-- FAQ Area Start -->
-    <!-- <div class="faq__two section-padding">
+    <div class="faq__two section-padding">
 		<div class="container">
 			<div class="row gy-4 align-items-center">
 				<div class="col-xl-6">
@@ -343,33 +343,50 @@
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Can manifests be created in bulk from multiple branches?</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Yes, the platform supports consolidated manifest creation by pulling data from multiple locations.
+                                    </p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>Does the system auto-validate received parcels against the manifest?</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+									<p>Yes, each scanned parcel is auto-matched against the manifest and alerts are raised for any discrepancies.
+                                    </p>
 								</div>
 							</div>
 						</div>
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How do you manage consulting effectively?</h6>
+									<h6>How are short or excess entries flagged?
+                                    </h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Some essential steps to start a business include conducting market research, creating Some essential step business</p>
+									<p> Any mismatch is logged in the system as a discrepancy report, viewable in the inbound dashboard.
+                                    </p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can manifests be edited after creation?
+                                    </h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Admins can update or close manifests before final submission, with logs maintained for each revision.
+                                    </p>
 								</div>
 							</div>
 						</div>
@@ -377,7 +394,7 @@
 				</div>
 			</div>
 		</div>
-	</div> -->
+	</div>
     <!-- FAQ Area End -->
 
 

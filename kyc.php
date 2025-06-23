@@ -33,11 +33,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
-                        <span class="subtitle-one">Courier Management Software
+                        <span class="subtitle-one">KYC Upload Feature
                         </span>
-                        <h2>Innovating Compliance with a Smart KYC Upload Feature 
-                        <span>Upload Feature</span></h2>
-                        <p>We leverage AI-powered automation and advanced encryption to deliver a hassle-free and secure KYC experience.
+                        <h2>Simplify KYC with Easy Upload & Verification
+                        <span>Verification</span></h2>
+                        <p>Leverage our KYC upload service to offer a seamless, secure, and fully digital KYC experience to your users.
                         </p>
                         <a href="#" class="btn-two">Request a free demo
 							<i class="fas fa-arrow-right"></i>
@@ -89,22 +89,23 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Redefining Digital Compliance with the KYC Upload Feature</h2>
-                        <p>Specialize in building secure, efficient, and fully automated KYC Upload Features that simplify customer verification and compliance.</p>
+                        <h2>Smarter, Safer KYC Upload Feature</h2>
+                        <p>Automate and secure your customer verification process with AI-powered tools built for speed, compliance, and fraud prevention</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>AI-Powered Verification
+                                <span>AI-Based Document Verification
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Secure Cloud Storage
+                                <span>Multi-Layered Fraud Detection
                                 </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Seamless System Integration</span>
+                                <span>Secure Cloud-Based Storage
+                                </span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
@@ -129,8 +130,8 @@
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Secure & Automated KYC Upload Feature</h2>
-                            <p>Getting a KYC Upload Feature that is secure, efficient, and built for modern compliance needs.</p>
+                            <h2>Next-Gen Tools for KYC Compliance</h2>
+                            <p>Our KYC Upload system combines AI with smart workflow to deliver fast, accurate, and regulation-compliant user verification.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -138,8 +139,8 @@
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4> AI-Powered Verification</h4>
-                                    <p>Our KYC Upload Feature leverages intelligent automation for accurate and instant document validation, reducing manual effort and processing time.
+                                    <h4>One-Click Upload & Auto-Approval</h4>
+                                    <p>Instantly validate identity documents and speed up verification workflows.
                                     </p>
                                 </div>
                             </div>
@@ -148,8 +149,8 @@
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Advanced Fraud Detection</h4>
-                                    <p>With multi-layer security and real-time analysis, our solution prevents identity fraud, ensuring compliance with global KYC and AML regulations.</p>
+                                    <h4>Multi-Factor Authentication Built-In</h4>
+                                    <p>Enhance platform security and reduce identity fraud risks at every step.</p>
                                 </div>
                             </div>
                         </div>
@@ -243,69 +244,79 @@
     </div>
     <!-- Services Area End -->
 
-    <!-- Work process Area Start -->
-    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
-        <div class="container">
-            <div class="row align-items-end work-process-area__one-title">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>A Streamlined Approach to the KYC Upload Feature</h2>
-                    </div>
-                </div>
-                <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
-                    <div class="work-process-area__one-content-right">
-                        <p>We follow a structured workflow to ensure a seamless KYC Upload Feature implementation
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center gy-4">
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-single-work">
-                        <span>01</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>Requirement Analysis & Compliance Review</h4>
-                            <p>We begin by thoroughly understanding the specific needs of your courier and logistics operations to ensure our software is customized to align perfectly with your business objectives.</p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>02</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>User-Centric Design & Development
-                            </h4>
-                            <p>We develop advanced, courier management software and logistics software designed to meet the specific needs of your business. Our solutions offer effective delivery tracking with simple, user-friendly features, helping streamline operations and boost efficiency.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="work-process-area__one-single-work">
-                        <span>03</span>
-                        <div class="work-process-area__one-single-work-content">
-                            <h4>AI-Powered Automation & Integration</h4>
-                            <p>Our team integrates the software smoothly into your existing infrastructure and provides continuous support for optimization, ensuring your operations remain efficient and responsive to evolving business needs.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="work-process-area__one-right-img">
-                        <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2 >20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Work process Area End -->
-
+     <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6> What documents can users upload for KYC verification?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>Users can upload identity documents such as PAN cards, Aadhar cards, passports, driver’s licenses, or business documents—depending on your business requirements.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Is the KYC process automated or manual?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p> Our system supports AI-based document verification with optional auto-approval workflows, reducing manual checks while maintaining accuracy and compliance.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>How secure is the document upload and storage process?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> All uploaded KYC documents are stored in secure, encrypted cloud storage with restricted access and multi-layer data protection to ensure full privacy and compliance.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6>Can this KYC feature be integrated into our existing platform or portal?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p>Yes. We offer custom API integrations, so the KYC upload and verification module can be embedded into your website, app, or customer onboarding process.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 <?php include('includes/footer.php')?>
 <?php include('includes/footer_script.php')?>

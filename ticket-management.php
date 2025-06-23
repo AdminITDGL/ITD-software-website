@@ -26,11 +26,11 @@
             <div class="row align-items-center gy-4 justify-content-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__four-content">
-                        <span class="subtitle-two">Seamless Control
+                        <span class="subtitle-two">Ticket Management
                         </span>
-                        <h2>Supercharge Your Support with Next-Level Ticket Management.
+                        <h2>Efficient Ticket Management for Logistics
                         </h2>
-                        <p>Real-time tracking, automated ticket creation, and customizable workflows. Boost efficiency, reduce delays, and enhance customer satisfaction with smarter, faster ticket handling.
+                        <p>Track, assign, and resolve client & operations issues faster with our smart, centralized ticketing solution.
                         </p>
                         <div class="banner__four-content-bottom">
                             <a href="contact.php" class="btn-two">Book a demo.
@@ -67,7 +67,7 @@
                         <div class="experience-bar animate-y-axis-slider">
                             <div class="experience-bar-right">
                                 <div class="experience-bar-counter">
-                                    <h4 >8</h4>
+                                    <h4>8</h4>
                                     <span>+</span>
                                 </div>
                                 <span>Years Of Experience</span>
@@ -82,14 +82,28 @@
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__four-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>Instantly Track and Resolve Issues with Seamless Ticket Management
+                        <h2>Smart Ticketing for Couriers
                         </h2>
-                        <p>An intuitive platform designed specifically for courier services ensures higher customer satisfaction and better operational efficiency, helping your team respond to issues promptly
+                        <p>Streamline issue resolution with an intuitive platform designed for courier teams—ensuring faster response times and improved customer satisfaction.
                         </p>
                         <div class="about__four-content-service">
                             <div class="service">
                                 <i class="fas fa-check-circle"></i>
-                                <span>Streamlined operations that reduce handling time.
+                                <span>Automated Ticket Creation.
+                                </span>
+                            </div>
+                        </div>
+                        <div class="about__four-content-service">
+                            <div class="service">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Multi-Channel Support Integration
+                                </span>
+                            </div>
+                        </div>
+                        <div class="about__four-content-service">
+                            <div class="service">
+                                <i class="fas fa-check-circle"></i>
+                                <span>Real-Time Ticket Tracking
                                 </span>
                             </div>
                         </div>
@@ -109,7 +123,7 @@
             <div class="row justify-content-center text-center mb-50">
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <span class="subtitle-one">What We Do</span>
-                    <h2>Comprehensive Ticketing Solutions 
+                    <h2>Comprehensive Ticketing Solutions
                     </h2>
                 </div>
             </div>
@@ -188,23 +202,28 @@
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
                             <span class="subtitle-one">Why Chose Us</span>
-                            <h2>The Most Efficient Mobile App for Operations in Courier Services
+                            <h2>Efficient, Data-Driven Issue Handling
                             </h2>
-                            <p>Delivers scalable, expert-driven Mobile App for Operations for efficient courier management. With 24/7 support and an intuitive interface, we ensure seamless operations.
+                            <p>Optimize courier support with customizable workflows and analytics that empower your teams to resolve tickets quickly and effectively.
                             </p>
                         </div>
                         <div class="why-choose-us__three-bottom">
                             <div class="why-choose-us__three-bottom-card">
                                 <div class="why-choose-us__three-bottom-card-content">
-                                    <i class="flaticon-web-research"></i>
-                                    <h4>Orders Processed Successfully</h4>
-                                </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4 >250</h4>
-                                    <h4>k+</h4>
+                                    <h4>Customizable Ticket Workflows
+                                    </h4>
+                                    <p>Align issue-handling processes with your specific business operations for faster resolutions.</p>
                                 </div>
                             </div>
-                            
+                        </div>
+                        <div class="why-choose-us__three-bottom">
+                            <div class="why-choose-us__three-bottom-card">
+                                <div class="why-choose-us__three-bottom-card-content">
+                                    <h4>Performance Analytics Dashboard
+                                    </h4>
+                                    <p>Track metrics like response time and resolution rate to continually improve service.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -219,95 +238,80 @@
     </div>
     <!-- Why choose us Area End -->
 
-    <!-- Skill two Area Start -->
-    <div class="skill__two section-padding">
-        <div class="container">
-            <ul class="row nav mb-5 gy-4 justify-content-center">
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link active" id="topic-1-tab" data-bs-toggle="pill" data-bs-target="#topic-1" role="button" aria-controls="topic-1">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-content-marketing"></i>
-                        </span>
-                        <span>Real-Time Tracking
-                        </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-2-tab" data-bs-toggle="pill" data-bs-target="#topic-2" role="button" aria-controls="topic-2">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-it-service"></i>
-                        </span>
-                        <span>AI-Powered Dispatching
-                        </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-3-tab" data-bs-toggle="pill" data-bs-target="#topic-3" role="button" aria-controls="topic-3">
-                        <span class="skill__two-tab-icon">
-                            <i class="flaticon-satellite-signal"></i>
-                        </span>
-                        <span>Secure Proof of Delivery
-                        </span>
-                    </div>
-                </li>
-                <li class="nav-item col-xl-3 col-lg-3 col-md-4 col-sm-6">
-                    <div class="skill__two-tab nav-link" id="topic-4-tab" data-bs-toggle="pill" data-bs-target="#topic-4" role="button" aria-controls="topic-4">
-                        <div class="skill__two-tab-icon">
-                            <i class="flaticon-analytics"></i>
-                        </div>
-                        <span>Advanced Analytics
-                        </span>
-                    </div>
-                </li>
-            </ul>
-            <div class="skill__two-tab-details tab-content">
-                <div class="row align-items-center flex-wrap-reverse gy-4 tab-pane fade show active" role="tabpanel" id="topic-1" aria-labelledby="topic-1-tab">
-                    <div class="col-xl-6 col-lg-7 col-md-9">
-                        <div class="skill__two-tab-details-content">
-                            <h2>Boost Mobile App Efficiency
-                            </h2>
-                            <p>Streamline operations and enhance customer experience with our Mobile App for Operations, designed to optimize tech-driven business management.</p>
-                            <div class="skill__two-tab-details-content-service">
-                                <div class="skill__two-tab-details-content-service-left">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Track Deliveries Instantly
-                                        </span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Automated, Smart Dispatching</span>
-                                    </div>
-                                </div>
-                                <div class="skill__two-tab-details-content-service-right">
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Secure & Verified Deliveries</span>
-                                    </div>
-                                    <div class="service">
-                                        <i class="far fa-check-circle"></i>
-                                        <span>Data-Driven Performance Insights
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="request-quote.php" class="btn-one">Request A Quote
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-8">
-                        <div class="skill__two-tab-details-image">
-                            <div class="skill__two-tab-details-image-wrapper">
-                                <img src="assets/img/skill/skill-two.png" alt="" class="image-1">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Skill two Area End -->
+     <!-- FAQ Area Start -->
+    <div class="faq__two section-padding">
+		<div class="container">
+			<div class="row gy-4 align-items-center">
+				<div class="col-xl-6">
+					<div class="faq__two-title">
+						<span class="subtitle-one">Ask Question</span>
+						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+					</div>
+					<div class="award">
+						<div class="award-wrapper">
+							<div class="award-icon">
+								<i class="fas fa-award"></i>
+							</div>
+							<div class="award-count">
+								<h3>20+</h3>
+							</div>
+							<span>Winning award</span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-6">
+					<div class="faq-collapse">
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card active">
+								<div class="faq-collapse-item-card-header">
+									<h6>What types of issues can be managed through the ticketing system?</h6>
+									<i class="fas fa-minus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content active">
+									<p>You can handle delivery delays, damaged shipments, billing discrepancies, failed pickups, customer complaints, and internal operational issues—all within a single, centralized platform</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Does the system support ticket creation from multiple channels?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>Yes, our solution supports multi-channel ticketing. Tickets can be generated from emails, customer portals, mobile apps, or even through API integrations with your existing systems.</p>
+								</div>
+							</div>
+						</div>
+						<div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> Can I customize workflows based on ticket type or department?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Absolutely. You can create role-based workflows and auto-routing rules to ensure each ticket is assigned to the right team with proper priority levels and resolution deadlines.</p>
+								</div>
+							</div>
+						</div>
+                        <div class="faq-collapse-item">
+							<div class="faq-collapse-item-card">
+								<div class="faq-collapse-item-card-header">
+									<h6> How does real-time ticket tracking help my operations team?</h6>
+									<i class="fas fa-plus-circle"></i>
+								</div>
+								<div class="faq-collapse-item-card-header-content display-none">         
+									<p> Real-time tracking ensures every ticket’s status is visible and updated across departments—helping your team prioritize issues, avoid duplication, and accelerate resolution times.</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+    <!-- FAQ Area End -->
 
 
     <?php include('includes/footer.php') ?>
