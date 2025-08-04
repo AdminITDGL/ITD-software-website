@@ -75,12 +75,12 @@
       <div class="copyright__one">
           <div class="container">
               <div class="row justify-content-between copyright__one-container-area">
-                  <div class="col-xl-5 col-lg-6">
+                  <div class="col-xl-5 col-lg-7">
                       <div class="copyright__one-left">
                           <p>© ITD SOFTWARE SERVICES PRIVATE LIMITED 2025 | All Rights Reserved</p>
                       </div>
                   </div>
-                  <div class="col-xl-5 col-lg-6">
+                  <div class="col-xl-5 col-lg-5">
                       <div class="copyright__one-right">
                           <a href="about.php">Privacy Policy</a>
                           <a href="contact.php">Contact Us</a>
