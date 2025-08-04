@@ -77,7 +77,7 @@
               <div class="row justify-content-between copyright__one-container-area">
                   <div class="col-xl-5 col-lg-6">
                       <div class="copyright__one-left">
-                          <p>© ITD Services Pvt Ltd 2025 | All Rights Reserved</p>
+                          <p>© ITD Software Pvt Ltd 2025 | All Rights Reserved</p>
                       </div>
                   </div>
                   <div class="col-xl-5 col-lg-6">
