@@ -24,36 +24,18 @@
 	<div class="banner__three"> 
 		<div class="swiper banner__three-slider swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events">
 			<div class="swiper-wrapper" id="swiper-wrapper-78deec40c237201f" aria-live="polite" style="transition-duration: 0ms;"><div class="banner__three-single-slide swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" style="background-image: url(&quot;assets/img/banner/banner-three-2.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);" data-swiper-slide-index="1" role="group" aria-label="2 / 2">
-				<div class="banner__three-bg-shape-overlay" style="background-image: url(./assets/img/banner/banner-three-shape-overlay.png);"></div>
+				<div class="banner__three-bg-shape-overlay" style="background-image: url(./assets/img/banner/api-intergration.jpg);"></div>
 					<div class="container">
 						<div class="row justify-content-center">
-							<div class="col-xl-10">
-								<div class="banner__three-content">
-									<span class="subtitle-one">API Integration</span>
-									<h2>Seamless API Integrations for Smarter Logistics</h2>
-									<p>Connect your platform to ERPs, carriers, eCommerce tools & more—sync data and automate workflows easily.</p>
-									<a href="about.php" class="btn-two">Get started 
-										<i class="fas fa-arrow-right"></i>
-									</a>
-								</div>
-							</div>
+						
 						</div>
 					</div>
 				</div>
 				<div class="banner__three-single-slide swiper-slide swiper-slide-visible swiper-slide-active" style="background-image: url(&quot;assets/img/banner/banner-three.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(-2024px, 0px, 0px);" data-swiper-slide-index="0" role="group" aria-label="1 / 2">
-					<div class="banner__three-bg-shape-overlay" style="background-image: url(assets/img/banner/banner-three-shape-overlay.png);"></div>
+					<div class="banner__three-bg-shape-overlay" style="background-image: url(assets/img/banner/api-intergration.jpg);"></div>
 					<div class="container">
 						<div class="row justify-content-center">
-							<div class="col-xl-10">
-								<div class="banner__three-content">
-									<span class="subtitle-one">API Integration</span>
-									<h2>Seamless API Integrations for Smarter Logistics</h2>
-									<p>Connect your platform to ERPs, carriers, eCommerce tools & more—sync data and automate workflows easily.</p>
-									<a href="about.php" class="btn-two">Get started 
-										<i class="fas fa-arrow-right"></i>
-									</a>
-								</div>
-							</div>
+						
 						</div>
 					</div>
 				</div>

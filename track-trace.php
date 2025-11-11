@@ -20,44 +20,8 @@
     <?php include('includes/header.php')?>
 
     <!-- Banner Area Start -->
-    <div class="banner__one">
-        <div class="banner-shape">
-            <div class="shape banner-shape-1"></div>
-            <div class="shape banner-shape-2"></div>
-            <div class="shape banner-shape-3"></div>
-            <div class="shape banner-shape-4"></div>
-            <img class="shape banner-shape-5" src="assets/img/shape/banner-shape.png" alt="image">
-            <div class="shape banner-shape-7"></div>
-            <div class="shape banner-shape-6"></div>
-        </div>
-        <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="banner__one-content">
-                        <span class="subtitle-one">Tracking Service
-                        </span>
-                        <h2>Track and Trace Made Smarter
-                        <span>Smarter</span></h2>
-                        <p>Gain full supply chain visibility with real-time updates, automated alerts, and tamper-proof tracking tools.
-                        </p>
-                        <a href="#" class="btn-two">Book a free demo
-							<i class="fas fa-arrow-right"></i>
-						</a>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
-                    <div class="banner__one-image">
-                        <div class="banner__one-image-wrapper">
-                            <div class="banner__one-image-wrapper-shapes animate-rotate">
-                                <div class="shape shape-1"></div>
-                                <div class="shape shape-2"></div>
-                            </div>
-                            <img src="assets/img/banner/banner-right-img.jpg" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="banner__one" style="background-image: url(assets/img/banner/track-tract-service.jpg);">
+      
     </div>
     <!-- Banner Area End -->
 

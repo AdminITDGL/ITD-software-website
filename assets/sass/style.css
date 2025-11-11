@@ -4286,8 +4286,9 @@ p {
 * Banner Three CSS
 ==========================================================================*/
 
-.banner__three-single-slide {
-    padding: 180px 0;
+.banner__three-single-slide, .banner__four, .banner__five, .banner__one, .banner__two-single-slider, .banner__eight, .banner__nine, .banner__ten{
+    padding: 260px 0;
+    min-height: 534px;
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
@@ -4362,6 +4363,10 @@ p {
 }
 
 @media (max-width: 991px) {
+    .banner__three-single-slide {
+        padding: 200px 0;
+        min-height: 540px;
+    }
     .banner__three {
         padding: 131px 0;
     }
@@ -4374,6 +4379,10 @@ p {
 }
 
 @media (max-width: 767px) {
+    .banner__three-single-slide {
+        padding: 150px 0;
+        min-height: 460px;
+    }
     .banner__three-content h2 {
         font-size: 50px;
     }

@@ -21,40 +21,8 @@
 
 
     <!-- Banner Area Start -->
-    <div class="banner__four" style="background-image: url(assets/img/banner/banner-four-bg.png);">
-        <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="banner__four-content">
-                        <span class="subtitle-two">Mobile App
-                        </span>
-                        <h2>Courier Operations, Now in Your Pocket
-                        </h2>
-                        <p>Track deliveries, assign jobs, and verify proof—all from one mobile app that connects dispatchers, drivers, and data in real time.
-                        </p>
-                        <div class="banner__four-content-bottom">
-                            <a href="contact.php" class="btn-two">Start your free trial.
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                            <div class="banner__four-content-call">
-                                <i class="flaticon-telephone-call"></i>
-                                <div class="banner__four-content-call-right">
-                                    <span>Make a call</span>
-                                    <a href="tel:9769591364">+91 9769591364</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
-                    <div class="banner__four-image">
-                        <div class="banner__four-image-wrapper">
-                            <img src="assets/img/banner/banner-four.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="banner__four" style="background-image: url(assets/img/banner/mobile-app-operation.jpg);">
+       
     </div>
     <!-- Banner Area End -->
 

@@ -21,10 +21,10 @@
 
 	
 <!-- Banner Area Start -->
-<div class="banner__four" style="background-image: url(assets/img/banner/banner-four-bg.png);"> 
+<div class="banner__four" style="background-image: url(assets/img/banner/end-to-end.jpg);"> 
 		<div class="container">
 			<div class="row align-items-center gy-4 justify-content-center">
-				<div class="col-xl-6 col-lg-6">
+				<!-- <div class="col-xl-6 col-lg-6">
 					<div class="banner__four-content">
 						<span class="subtitle-two">Courier Operations</span>
 						<h2>Seamless Courier Operations</h2>
@@ -48,7 +48,7 @@
 						<div class="banner__four-image-wrapper">
 							<img src="assets/img/banner/banner-four.png" alt="image">
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>

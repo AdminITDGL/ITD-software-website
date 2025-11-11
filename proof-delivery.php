@@ -24,45 +24,8 @@
     <div class="banner__two">
         <div class="swiper banner__two-slider">
             <div class="swiper-wrapper">
-                <div class="banner__two-single-slider swiper-slide" style="background-image: url(assets/img/banner/banner-two.png);">
-                    <div class="banner-two-shape">
-                        <div class="banner-two-shape-1 shape">
-                            <img src="assets/img/shape/banner-two-shape.png" alt="" class="animate-rotate">
-                            <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                <g>
-                                    <path d="M107.143 0H92.8571V82.7556L34.3401 24.2385L24.2386 34.3401L82.7556 92.8571H0V107.143H82.7555L24.2386 165.66L34.3401 175.761L92.8571 117.244V200H107.143V117.244L165.66 175.761L175.761 165.66L117.244 107.143H200V92.8571H117.244L175.761 34.34L165.66 24.2385L107.143 82.7555V0Z" />
-                                </g>
-                                <defs>
-                                    <clipPath>
-                                        <rect width="200" height="200" fill="white" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </div>
-                        <div class="banner-two-shape-2 shape">
-                            <img src="assets/img/shape/banner-two-shape-2.png" alt="image">
-                        </div>
-                        <div class="banner-two-shape-3 shape">
-                            <img src="assets/img/shape/banner-two-shape-3.png" alt="image">
-                        </div>
-                        <div class="banner-two-shape-4 shape">
-                            <img src="assets/img/shape/banner-two-shape-4.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-5 col-lg-10 col-md-8">
-                                <div class="banner__two-content">
-                                    <h2>Verified Digital Delivery Records
-                                    </h2>
-                                    <p>Capture proof of delivery with digital signatures, geo-tags, and instant uploads to ensure accountability and trust.</p>
-                                    <a href="contact.php" class="btn-two">Get Started
-                                        <i class="fas fa-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="banner__two-single-slider swiper-slide" style="background-image: url(assets/img/banner/proof-of-delivery.jpg);">
+                    
                 </div>
             </div>
         </div>

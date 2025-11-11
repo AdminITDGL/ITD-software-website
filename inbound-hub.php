@@ -20,37 +20,8 @@
     <?php include('includes/header.php') ?>
 
     <!-- Banner Area Start -->
-    <div class="banner__five" style="background-image: url(assets/img/banner/banner-five-bg.png);">
-        <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
-                <div class="col-xl-7 col-lg-6">
-                    <div class="banner__five-content">
-                        <span class="subtitle-one">Hub Scanning
-                        </span>
-                        <h2>Inbound Hub Scanning
-                        </h2>
-                        <p>Log every parcel that reaches your local hub. Update tracking, reduce delays, and prepare shipments for final delivery.
-                        </p>
-                        <div class="banner__five-content-bottom">
-                            <a href="contact.php" class="btn-two">Book a demo
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                            <a href="https://www.youtube.com/watch?v=SZEflIVnhH8" class="banner__five-content-video-btn video-popup">
-                                <i class="fas fa-play"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 col-lg-6 col-md-9">
-                    <div class="banner__five-image">
-                        <div class="banner__five-image-wrapper">
-                            <img src="assets/img/banner/banner-five.png" alt="image">
-                            <img src="assets/img/banner/banner-five-2.png" class="img-2 animate-y-axis" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="banner__five" style="background-image: url(assets/img/banner/inbound-hub-scaning.jpg);">
+       
     </div>
     <!-- Banner Area End -->
 
