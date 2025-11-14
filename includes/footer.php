@@ -161,6 +161,18 @@
                                   </div>
                                   <span>Qatar</span>
                               </a>
+                              <a href="location/saudi-arabia.php" class="footer__location-link">
+                                  <div class="footer__location-icon">
+                                      <i class="flaticon-location"></i>
+                                  </div>
+                                  <span>Saudi Arabia</span>
+                              </a>
+                              <a href="location/bahrain.php" class="footer__location-link">
+                                  <div class="footer__location-icon">
+                                      <i class="flaticon-location"></i>
+                                  </div>
+                                  <span>Bahrain</span>
+                              </a>
                           </div>
                       </div>
                   </div>
