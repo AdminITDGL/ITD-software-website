@@ -662,7 +662,7 @@
                     <div class="banner__one-content">
                         <span class="subtitle-one">ITD Services in Saudi Arabia
                         </span>
-                        <h2>Deliver faster. Manage better. Track smarter.</h2>
+                        <h2>Courier Management and Logistics Software in Saudi Arabia</h2>
                         <p>ITD Services offers courier and logistics software in Saudi Arabia to simplify operations and improve delivery efficiency across Saudi Arabia.
                         </p>
                         <a href="../contact.php" class="btn-two">Contact Now
@@ -673,7 +673,7 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
                     <div class="banner__one-form">
                         <div class="banner-form-wrapper">
-                            <h3>Get a Free Social Media Strategy Call</h3>
+                            <h3>Get a Free Consultation</h3>
                             <form class="banner-contact-form" action="#" method="POST">
                                 <div class="form-group">
                                     <label for="full_name">Full Name <span class="required">*</span></label>
