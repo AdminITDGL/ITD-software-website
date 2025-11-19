@@ -133,7 +133,7 @@
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Location</h4>
-								<span>2A7, 2nd floor Gundecha Onclave, Kherani road,Oppo. Sakinaka Post Office, Near Sakinaka Metro Station,Sakinaka, ANDHERI (East), Mumbai 400069</span>
+								<span>505, 5th Floor, Town Center 1, Mittal Industrial Estate, Opposite Times Square, Marol, Andheri East</span>
 							</div>    
 						</div>
 					</div>

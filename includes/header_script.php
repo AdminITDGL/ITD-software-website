@@ -1,6 +1,6 @@
 
     <!-- Favicons -->
-    <link rel="icon" type="image/png" href="assets/img/favicon-1.png">
+    <link rel="icon" type="image/png" href="assets/img/logo-1.png">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Font Awesome CSS -->

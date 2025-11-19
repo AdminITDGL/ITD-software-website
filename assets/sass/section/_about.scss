@@ -12,8 +12,8 @@
             position: absolute;
             padding: 25px 50px 25px 25px;
             border-radius: 10px;
-            right: 110px;
-            top: 80px;
+            left: -40px;
+            top: 0px;
             i {
                 color: var(--text-white);
                 font-size: 70px;
@@ -43,13 +43,14 @@
             border-radius: 10px;
         }
         .image-1 {
-            width: 370px;
-            height: 485px;
+            width: auto;
+            height: auto;
         }
         .image-2 {
-            margin-left: 45%;
-            margin-top: -40%;
-            border: 10px solid var(--bg-white);
+            margin-left: 63%;
+            margin-top: -46%;
+            border: none;
+            width: 40%;
         }
     }
     &-content {

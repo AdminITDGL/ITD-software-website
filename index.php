@@ -13,6 +13,87 @@
     <title>ITD Services: Best Courier Management Software</title>
 
     <?php include('includes/header_script.php')?>
+    
+    <style>
+        /* Responsive Banner Height with Background Image */
+        .banner__one {
+            padding: 95px 0;
+            background-image: url('assets/img/banner/home-banner.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            position: relative;
+            min-height: 600px;
+        }
+        
+        .banner__one::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(75deg, rgba(254, 254, 254, 0.15) 52%, rgba(244, 247, 251, 0.15) 48%);
+            z-index: 1;
+        }
+        
+        /* Ensure text is readable with darker background */
+        .banner__one-content h2,
+        .banner__one-content p {
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .banner__one > * {
+            position: relative;
+            z-index: 2;
+        }
+        
+        .banner__one-content {
+            z-index: 3;
+            text-align: left;
+        }
+        
+        /* Hide banner shapes */
+        .banner__one .banner-shape {
+            display: none;
+        }
+        
+        @media (max-width: 1399px) {
+            .banner__one {
+                padding: 80px 0;
+            }
+        }
+        
+        @media (max-width: 1199px) {
+            .banner__one {
+                padding: 70px 0;
+            }
+        }
+        
+        @media (max-width: 991px) {
+            .banner__one {
+                padding: 60px 0;
+            }
+        }
+        
+        @media (max-width: 767px) {
+            .banner__one {
+                padding: 50px 0;
+            }
+        }
+        
+        @media (max-width: 575px) {
+            .banner__one {
+                padding: 40px 0;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .banner__one {
+                padding: 35px 0;
+            }
+        }
+    </style>
 
 <body>
 
@@ -20,17 +101,8 @@
 
     <!-- Banner Area Start -->
     <div class="banner__one">
-        <div class="banner-shape">
-            <div class="shape banner-shape-1"></div>
-            <div class="shape banner-shape-2"></div>
-            <div class="shape banner-shape-3"></div>
-            <div class="shape banner-shape-4"></div>
-            <img class="shape banner-shape-5" src="assets/img/shape/banner-shape.png" alt="image">
-            <div class="shape banner-shape-7"></div>
-            <div class="shape banner-shape-6"></div>
-        </div>
         <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
+            <div class="row align-items-center gy-4">
                 <div class="col-xl-6 col-lg-6">
                     <div class="banner__one-content">
                         <span class="subtitle-one">Courier Management Software
@@ -42,17 +114,6 @@
                         <a href="contact.php" class="btn-two">Contact Now
 							<i class="fas fa-arrow-right"></i>
 						</a>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
-                    <div class="banner__one-image">
-                        <div class="banner__one-image-wrapper">
-                            <div class="banner__one-image-wrapper-shapes animate-rotate">
-                                <div class="shape shape-1"></div>
-                                <div class="shape shape-2"></div>
-                            </div>
-                            <img src="assets/img/banner/banner-right-img.jpg" alt="image">
-                        </div>
                     </div>
                 </div>
             </div>
