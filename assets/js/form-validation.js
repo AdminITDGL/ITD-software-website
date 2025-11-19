@@ -485,6 +485,34 @@
                 const isLocationPage = currentPath.includes('/location/');
                 const sessionPath = isLocationPage ? '../set-form-session.php' : 'set-form-session.php';
                 
+                // Get location from form data to determine which thank you page to redirect to
+                const locationInput = form.querySelector('input[name="location"]');
+                const location = locationInput ? locationInput.value : null;
+                
+                // Map location names to thank you page filenames
+                const locationThankYouMap = {
+                    'India': 'thank-you-india.php',
+                    'Dubai': 'thank-you-dubai.php',
+                    'USA': 'thank-you-usa.php',
+                    'UK': 'thank-you-uk.php',
+                    'Qatar': 'thank-you-qatar.php',
+                    'Bahrain': 'thank-you-bahrain.php',
+                    'Saudi Arabia': 'thank-you-saudi-arabia.php'
+                };
+                
+                // Determine redirect path
+                let redirectPath;
+                if (isLocationPage && location && locationThankYouMap[location]) {
+                    // Redirect to location-specific thank you page
+                    redirectPath = locationThankYouMap[location];
+                } else if (isLocationPage) {
+                    // Fallback to generic thank you page for location pages
+                    redirectPath = '../thank-you.php';
+                } else {
+                    // Main site thank you page
+                    redirectPath = 'thank-you.php';
+                }
+                
                 // Call PHP endpoint to set session
                 fetch(sessionPath, {
                     method: 'GET',
@@ -494,14 +522,12 @@
                     return response.json();
                 })
                 .then(function(sessionData) {
-                    // Redirect to thank you page after setting session
-                    const redirectPath = isLocationPage ? '../thank-you.php' : 'thank-you.php';
+                    // Redirect to appropriate thank you page after setting session
                     window.location.href = redirectPath;
                 })
                 .catch(function(error) {
                     console.error('Session error:', error);
                     // Still redirect even if session setting fails
-                    const redirectPath = isLocationPage ? '../thank-you.php' : 'thank-you.php';
                     window.location.href = redirectPath;
                 });
             } else {
