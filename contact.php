@@ -160,10 +160,7 @@
 	<!-- Contact Location Start -->
 
 	<div class="location-map">
-    <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.027175820053!2d72.88642252395192!3d19.1064637010179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c872f6f8a54d%3A0xb238830da921cbc7!2sGundecha%20Onclave%2C%20Ansa%20Industrial%20Estate%2C%20Chandivali%2C%20Andheri%20East%2C%20Mumbai%2C%20Maharashtra%20400072!5e0!3m2!1sen!2sin!4v1739369019074!5m2!1sen!2sin" 
-        
-loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.0772434522114!2d72.88621287409666!3d19.104266994254733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c96c2cbdacdb%3A0x59153f91e427e27f!2sitd%20services%20pvt%20ltd!5e0!3m2!1sen!2sin!4v1763563060469!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	</div>
 
 	<!-- Contact Location Start -->
