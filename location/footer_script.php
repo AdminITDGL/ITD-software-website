@@ -27,6 +27,10 @@
     <script src="../assets/js/jquery.meanmenu.min.js"></script>
     <!-- Custom JS -->
     <script src="../assets/js/custom.js"></script>
+    <!-- Form Validation and W3Forms Handler JS -->
+    <script src="../assets/js/form-validation.js"></script>
+    <!-- W3Forms Handler JS (Legacy) -->
+    <script src="../assets/js/w3forms-handler.js"></script>
     
     <!-- Trusted Clients Carousel Initialization -->
     <script>

@@ -59,25 +59,31 @@
                             </p>
 						</div>
 						<div class="contact__two-form">
-							<form action="#">
+							<form action="https://api.web3forms.com/submit" method="POST" id="contact-form">
+								<input type="hidden" name="access_key" value="d62e9473-13d3-4a7c-8c04-113d18e3bbab">
+								<input type="hidden" name="subject" value="New Contact Form Submission - ITD Services">
+								<input type="hidden" name="from_name" value="ITD Services Contact Form">
+								<input type="hidden" name="cc" value="ashish@itdservices.in">
+								<input type="checkbox" name="botcheck" id="" style="display: none;">
+								
 								<div class="row gy-4 mb-4">
 									<div class="col-xl-6">
-										<input type="text" placeholder="Your Name">
+										<input type="text" name="name" placeholder="Your Name" required>
 									</div>
 
 									<div class="col-xl-6">
-										<input type="email" placeholder="Your E-mail">
+										<input type="email" name="email" placeholder="Your E-mail" required>
 									</div>	
 
 									<div class="col-xl-6">
-										<input type="tel" placeholder="Phone Number">
+										<input type="tel" name="phone" placeholder="Phone Number" required>
 									</div>
 
 									<div class="col-xl-6">
-										<input type="text" placeholder="Subject">
+										<input type="text" name="subject_custom" placeholder="Subject" required>
 									</div>
 								</div>
-								<textarea placeholder="Your Message"></textarea>
+								<textarea name="message" placeholder="Your Message" required></textarea>
 								<button type="submit" class="btn-two">
 									Submit Now
 									<i class="fas fa-chevron-right"></i>

@@ -674,22 +674,29 @@
                     <div class="banner__one-form">
                         <div class="banner-form-wrapper">
                             <h3>Get a Free Consultation</h3>
-                            <form class="banner-contact-form" action="#" method="POST">
+                            <form class="banner-contact-form" action="https://api.web3forms.com/submit" method="POST" id="banner-contact-form-saudi">
+                                <input type="hidden" name="access_key" value="d62e9473-13d3-4a7c-8c04-113d18e3bbab">
+                                <input type="hidden" name="subject" value="Free Consultation Request - Saudi Arabia Page">
+                                <input type="hidden" name="from_name" value="ITD Services - Saudi Arabia">
+                                <input type="hidden" name="location" value="Saudi Arabia">
+                                <input type="hidden" name="cc" value="ashish@itdservices.in">
+                                <input type="checkbox" name="botcheck" id="botcheck-saudi" style="display: none;" tabindex="-1" autocomplete="off">
+                                
                                 <div class="form-group">
                                     <label for="full_name">Full Name <span class="required">*</span></label>
-                                    <input type="text" id="full_name" name="full_name" required placeholder="Enter your full name">
+                                    <input type="text" id="full_name" name="name" required placeholder="Enter your full name" minlength="2">
                                 </div>
                                 <div class="form-group">
                                     <label for="company_name">Company Name <span class="required">*</span></label>
-                                    <input type="text" id="company_name" name="company_name" required placeholder="Enter your company name">
+                                    <input type="text" id="company_name" name="company" required placeholder="Enter your company name" minlength="2">
                                 </div>
                                 <div class="form-group">
                                     <label for="email_address">Email Address <span class="required">*</span></label>
-                                    <input type="email" id="email_address" name="email_address" required placeholder="Enter your email address">
+                                    <input type="email" id="email_address" name="email" required placeholder="Enter your email address">
                                 </div>
                                 <div class="form-group">
                                     <label for="phone_number">Phone Number <span class="required">*</span></label>
-                                    <input type="tel" id="phone_number" name="phone_number" required placeholder="Enter your phone number">
+                                    <input type="tel" id="phone_number" name="phone" required placeholder="Enter your phone number" pattern="[0-9\s\-\+\(\)]{10,}">
                                 </div>
                                 <div class="form-group">
                                     <button type="submit" class="btn-form-submit">Submit Request <i class="fas fa-arrow-right"></i></button>
