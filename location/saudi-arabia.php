@@ -169,31 +169,14 @@
             font-family: var(--body-font);
         }
         
-        .banner__one-content .btn-two::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: var(--text-white);
-            transition: left 0.4s ease;
-            z-index: 0;
-        }
-        
         .banner__one-content .btn-two:hover {
             background-color: transparent;
             color: var(--text-heading-color);
             border-color: var(--primary-color-1);
         }
         
-        .banner__one-content .btn-two:hover::before {
-            left: 0;
-        }
-        
         .banner__one-content .btn-two i {
             position: relative;
-            z-index: 1;
             transition: transform 0.3s ease, color 0.3s ease;
             color: inherit;
         }
@@ -201,11 +184,6 @@
         .banner__one-content .btn-two:hover i {
             transform: translateX(5px);
             color: var(--text-heading-color);
-        }
-        
-        .banner__one-content .btn-two span {
-            position: relative;
-            z-index: 1;
         }
         
         /* Decorative Elements Matching Site Style */
@@ -962,7 +940,7 @@
                     <div class="banner__one-content">
                         <span class="subtitle-one">ITD Services in Saudi Arabia
                         </span>
-                        <h2>Courier Management and Logistics Software in <br><span>Saudi Arabia</span></h2>
+                        <h2>Courier Management and Logistics Software in <span>Saudi Arabia</span></h2>
                         <p>ITD Services offers courier and logistics software in Saudi Arabia to simplify operations and improve delivery efficiency across Saudi Arabia.
                         </p>
                         <a href="../contact.php" class="btn-two">Contact Now

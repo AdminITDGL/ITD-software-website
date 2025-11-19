@@ -93,7 +93,7 @@
         
         .banner__one-content h2 span {
             color: var(--primary-color-1);
-            display: block;
+            display: inline;
         }
         
         @keyframes fadeInUp {
@@ -160,31 +160,14 @@
             font-family: var(--body-font);
         }
         
-        .banner__one-content .btn-two::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: var(--text-white);
-            transition: left 0.4s ease;
-            z-index: 0;
-        }
-        
         .banner__one-content .btn-two:hover {
             background-color: transparent;
             color: var(--text-heading-color);
             border-color: var(--primary-color-1);
         }
         
-        .banner__one-content .btn-two:hover::before {
-            left: 0;
-        }
-        
         .banner__one-content .btn-two i {
             position: relative;
-            z-index: 1;
             transition: transform 0.3s ease, color 0.3s ease;
             color: inherit;
         }
@@ -192,11 +175,6 @@
         .banner__one-content .btn-two:hover i {
             transform: translateX(5px);
             color: var(--text-heading-color);
-        }
-        
-        .banner__one-content .btn-two span {
-            position: relative;
-            z-index: 1;
         }
         
         /* Decorative Elements Matching Site Style */

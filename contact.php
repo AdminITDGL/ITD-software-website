@@ -13,6 +13,20 @@
     <title>ITD Services: Best Courier Management Software</title>
 
     <?php include('includes/header_script.php') ?>
+    
+    <style>
+        /* Email and Phone Link Styles */
+        .contact__two-single-info-content span a {
+            color: var(--color-2);
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        
+        .contact__two-single-info-content span a:hover {
+            color: var(--primary-color-1);
+            text-decoration: underline;
+        }
+    </style>
 
 <body>
 
@@ -100,9 +114,9 @@
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Email</h4>
-								<span>ashish@itdservices.in</span>
-								<span>virag@itdservices.in</span>
-								<span>keshav@itdservices.in</span>
+								<span><a href="mailto:ashish@itdservices.in">ashish@itdservices.in</a></span>
+								<span><a href="mailto:virag@itdservices.in">virag@itdservices.in</a></span>
+								<span><a href="mailto:keshav@itdservices.in">keshav@itdservices.in</a></span>
 							</div>
 						</div>
 						<div class="contact__two-single-info">
@@ -111,10 +125,9 @@
 							</div>
 							<div class="contact__two-single-info-content">
 								<h4>Contacts</h4>
-								<span>+91 9769591364
-                                </span>
-								<span>+91 7900131009</span>
-								<span>+91 9769353573</span>
+								<span><a href="tel:+919769591364">+91 9769591364</a></span>
+								<span><a href="tel:+917900131009">+91 7900131009</a></span>
+								<span><a href="tel:+919769353573">+91 9769353573</a></span>
 							</div>
 						</div>
 						<div class="contact__two-single-info">
