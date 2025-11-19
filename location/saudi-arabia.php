@@ -15,6 +15,306 @@
     <?php include('header_script.php')?>
     
     <style>
+        /* Enhanced Banner Left Content Styles - Matching Site Design */
+        .banner__one-content {
+            position: relative;
+            z-index: 3;
+            padding: 30px 0;
+            animation: fadeInLeft 0.8s ease-out;
+        }
+        
+        @keyframes fadeInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        
+        .banner__one-content .subtitle-one {
+            display: inline-block;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--primary-color-1);
+            text-transform: capitalize;
+            letter-spacing: 0.5px;
+            margin-bottom: 20px;
+            padding: 10px 24px;
+            background: rgba(14, 89, 242, 0.08);
+            border-radius: 30px;
+            border: 1px solid rgba(14, 89, 242, 0.15);
+            font-family: var(--body-font);
+            position: relative;
+            overflow: hidden;
+            animation: slideInDown 0.6s ease-out 0.2s both;
+        }
+        
+        .banner__one-content .subtitle-one::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            animation: shimmer 3s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+        
+        @keyframes slideInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .banner__one-content h2 {
+            font-size: 56px;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 25px;
+            color: var(--text-heading-color);
+            text-transform: none;
+            font-family: var(--heading-font);
+            animation: fadeInUp 0.8s ease-out 0.3s both;
+            position: relative;
+        }
+        
+        .banner__one-content h2 span {
+            color: var(--primary-color-1);
+            display: inline;
+        }
+        
+        @keyframes gradientShift {
+            0%, 100% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .banner__one-content h2::after {
+            content: '';
+            position: absolute;
+            bottom: -12px;
+            left: 0;
+            width: 100px;
+            height: 4px;
+            background: var(--primary-color-1);
+            border-radius: 2px;
+            animation: expandWidth 1s ease-out 0.8s both;
+        }
+        
+        @keyframes expandWidth {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100px;
+            }
+        }
+        
+        .banner__one-content p {
+            font-size: 18px;
+            line-height: 1.8;
+            color: var(--body-color);
+            margin-bottom: 35px;
+            max-width: 93%;
+            text-transform: none;
+            animation: fadeInUp 0.8s ease-out 0.5s both;
+            position: relative;
+            font-family: var(--body-font);
+        }
+        
+        .banner__one-content .btn-two {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 16px 35px;
+            font-size: 16px;
+            font-weight: 600;
+            background: var(--primary-color-1);
+            color: var(--text-white);
+            border: 2px solid var(--primary-color-1);
+            border-radius: 5px;
+            text-decoration: none;
+            transition: all 0.4s ease;
+            text-transform: none;
+            position: relative;
+            overflow: hidden;
+            animation: fadeInUp 0.8s ease-out 0.7s both;
+            font-family: var(--body-font);
+        }
+        
+        .banner__one-content .btn-two::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: var(--text-white);
+            transition: left 0.4s ease;
+            z-index: 0;
+        }
+        
+        .banner__one-content .btn-two:hover {
+            background-color: transparent;
+            color: var(--text-heading-color);
+            border-color: var(--primary-color-1);
+        }
+        
+        .banner__one-content .btn-two:hover::before {
+            left: 0;
+        }
+        
+        .banner__one-content .btn-two i {
+            position: relative;
+            z-index: 1;
+            transition: transform 0.3s ease, color 0.3s ease;
+            color: inherit;
+        }
+        
+        .banner__one-content .btn-two:hover i {
+            transform: translateX(5px);
+            color: var(--text-heading-color);
+        }
+        
+        .banner__one-content .btn-two span {
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* Decorative Elements Matching Site Style */
+        .banner__one-content::before {
+            content: '';
+            position: absolute;
+            top: -40px;
+            left: -40px;
+            width: 180px;
+            height: 180px;
+            background: rgba(14, 89, 242, 0.06);
+            border-radius: 50%;
+            z-index: -1;
+            animation: pulse 4s ease-in-out infinite;
+        }
+        
+        .banner__one-content::after {
+            content: '';
+            position: absolute;
+            bottom: -20px;
+            right: -20px;
+            width: 120px;
+            height: 120px;
+            background: rgba(14, 89, 242, 0.04);
+            border-radius: 50%;
+            z-index: -1;
+            animation: pulse 4s ease-in-out infinite 2s;
+        }
+        
+        @keyframes pulse {
+            0%, 100% {
+                transform: scale(1);
+                opacity: 0.6;
+            }
+            50% {
+                transform: scale(1.15);
+                opacity: 0.8;
+            }
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 1399px) {
+            .banner__one-content h2 {
+                font-size: 52px;
+            }
+            .banner__one-content p {
+                font-size: 17px;
+            }
+        }
+        
+        @media (max-width: 1199px) {
+            .banner__one-content h2 {
+                font-size: 48px;
+            }
+        }
+        
+        @media (max-width: 991px) {
+            .banner__one-content {
+                padding: 20px 0;
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            
+            .banner__one-content h2 {
+                font-size: 42px;
+                max-width: 585px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .banner__one-content h2::after {
+                left: 50%;
+                transform: translateX(-50%);
+            }
+            
+            .banner__one-content p {
+                margin: 0 auto 30px;
+                max-width: 100%;
+            }
+        }
+        
+        @media (max-width: 767px) {
+            .banner__one-content h2 {
+                font-size: 36px;
+                line-height: 1.3;
+            }
+            
+            .banner__one-content p {
+                font-size: 16px;
+            }
+            
+            .banner__one-content .subtitle-one {
+                font-size: 14px;
+                padding: 8px 20px;
+            }
+            
+            .banner__one-content .btn-two {
+                padding: 14px 30px;
+                font-size: 15px;
+            }
+        }
+        
+        @media (max-width: 535px) {
+            .banner__one-content h2 {
+                font-size: 32px;
+                line-height: 1.4;
+            }
+        }
+        
         /* Banner Form Styles */
         .banner__one-form {
             background: #ffffff;
@@ -662,7 +962,7 @@
                     <div class="banner__one-content">
                         <span class="subtitle-one">ITD Services in Saudi Arabia
                         </span>
-                        <h2>Courier Management and Logistics Software in Saudi Arabia</h2>
+                        <h2>Courier Management and Logistics Software in <br><span>Saudi Arabia</span></h2>
                         <p>ITD Services offers courier and logistics software in Saudi Arabia to simplify operations and improve delivery efficiency across Saudi Arabia.
                         </p>
                         <a href="../contact.php" class="btn-two">Contact Now
