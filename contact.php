@@ -41,17 +41,12 @@
         <div class="container">
             <div class="row justify-content-between align-items-center">
                 <div class="col-xl-6 col-lg-7">
-                    <div class="page__banner-content">
-                        <h2>Contact Us</h2>
+                    <div class="page__banner-content py-2">
+                        
                         <span><a href="index.php">Home</a>
                             <span>|</span>
                             Contact Us
                         </span>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-5">
-                    <div class="page__banner-img">
-                        <img src="./assets/img/banner/page-banner-img.webp" alt="image">
                     </div>
                 </div>
             </div>
@@ -61,16 +56,14 @@
 
     <!-- Contact Two Start -->
 
-	<div class="contact__two section-padding">
+	<div class="contact__two section-padding py-5">
 		<div class="container">
-			<div class="row gy-4 align-items-center">
+			<div class="row">
 				<div class="col-xl-6">
 					<div class="contact__two-content">
 						<div class="contact__two-title">
 							<span class="subtitle-one">Contact us</span>
-							<h2>Do you have any question? </h2>
-							<p>We’re here to assist you! Whether you need more information about our services our team is ready to help. Reach out to us through the form below.
-                            </p>
+							
 						</div>
 						<div class="contact__two-form">
 							<form action="https://api.web3forms.com/submit" method="POST" id="contact-form">

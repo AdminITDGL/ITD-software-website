@@ -305,6 +305,7 @@
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
             padding: 35px;
             margin-top: 20px;
+            margin-bottom: 20px;
         }
         
         .banner-form-wrapper h3 {
