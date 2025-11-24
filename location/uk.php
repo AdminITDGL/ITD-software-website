@@ -15,6 +15,11 @@
     <?php include('header_script.php')?>
     
     <style>
+        /* Reduce Banner Height - Remove Top and Bottom Padding */
+        .banner__one {
+            padding: 0 !important;
+        }
+        
         /* Enhanced Banner Left Content Styles - Matching Site Design */
         .banner__one-content {
             position: relative;
