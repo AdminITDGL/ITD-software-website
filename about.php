@@ -13,8 +13,13 @@
     <title>About ITD Software : Transforming E-commerce Logistics & Courier Operations</title>
 
     <?php include('includes/header_script.php') ?>
+</head>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV2DXLX4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
     <?php include('includes/header.php') ?>
 
