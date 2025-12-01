@@ -19,7 +19,7 @@
         .banner__one {
             padding: 95px 0;
             background-image: url('assets/img/banner/home-banner.jpg');
-            background-size: cover;
+            background-size: contain;
             background-position: center;
             background-repeat: no-repeat;
             position: relative;
@@ -33,7 +33,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: linear-gradient(75deg, rgba(254, 254, 254, 0.15) 52%, rgba(244, 247, 251, 0.15) 48%);
+            /* background: linear-gradient(75deg, rgba(254, 254, 254, 0.15) 52%, rgba(244, 247, 251, 0.15) 48%); */
             z-index: 1;
         }
         
@@ -60,7 +60,7 @@
         
         @media (max-width: 1399px) {
             .banner__one {
-                padding: 80px 0;
+                padding: 35px 0;
             }
         }
         
@@ -113,8 +113,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <span class="subtitle-one">Courier Management Software
                         </span>
                         <h2>Logistic Software
-                        <span>That Moves with You</span></h2>
-                        <p>Plan routes, manage deliveries, track performance & more with our services—automated tools built for modern courier businesses.
+                        <span>That Moves with <br>You</span></h2>
+                        <p>Plan routes, manage deliveries, track performance & more <br>with our services—automated tools built for modern courier businesses.
                         </p>
                         <a href="contact.php" class="btn-two">Contact Now
 							<i class="fas fa-arrow-right"></i>
