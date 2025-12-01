@@ -18,8 +18,8 @@
         /* Responsive Banner Height with Background Image */
         .banner__one {
             padding: 95px 0;
-            background-image: url('assets/img/banner/home-banner.jpg');
-            background-size: contain;
+            background-image: url('assets/img/banner/banner.svg');
+            background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
             position: relative;
