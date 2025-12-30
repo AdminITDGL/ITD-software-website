@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
-                            <span class="subtitle-one">Why Chose Us</span>
+                            <span class="subtitle-one">Why Choose Us</span>
                             <h2>Tailored IT Solutions for Courier & Logistics</h2>
                             <p>We deliver customized IT solutions through our advanced logistics and courier management software streamlining operations and driving growth.</p>
                         </div>
@@ -238,60 +238,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <div class="row align-items-center justify-content-center">
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-global-network"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Courier Management Software</h4>
-                                    <p>Optimize routes, track in real time, & automate updates for seamless courier operations.</p>
-                                </div>
-                            </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 mb-4">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-global-network"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6 xl-mb-30">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-mobile-phone-1"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>End-to-End Logistics Software</h4>
-                                    <p>Manage logistics from dispatch to delivery with a centralized software that enhances efficiency.</p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Courier Management Software</h4>
+                            <p>Optimize routes, track in real time, & automate updates for seamless courier operations.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-7">
-                    <div class="services-image-wrapper">
-                        <img src="assets/img/service/services.png" alt="image">
+                <div class="col-xl-6 col-lg-6 col-md-6 mb-4">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-mobile-phone-1"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>End-to-End Logistics Software</h4>
+                            <p>Manage logistics from dispatch to delivery with a centralized software that enhances efficiency.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-idea"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Business Intelligence & Analytics</h4>
-                                    <p>Gather actionable insights and improve customer experiences with advanced analytics.</p>
-                                </div>
-                            </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 mb-4">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-idea"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-it"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Tailored Software Solutions</h4>
-                                    <p> Get custom-built solutions designed to meet your logistics business’ needs.</p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Business Intelligence & Analytics</h4>
+                            <p>Gather actionable insights and improve customer experiences with advanced analytics.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 mb-4">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-it"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Tailored Software Solutions</h4>
+                            <p> Get custom-built solutions designed to meet your logistics business’ needs.</p>
                         </div>
                     </div>
                 </div>
