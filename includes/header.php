@@ -164,7 +164,7 @@
                                             <a href="user-role.php">User Role Management</a>
                                         </div>
                                         <div class="service-item">
-                                            <a href="label-creation.php">Barcode Generation</a>
+                                            <a href="bar_creation.php">Barcode Generation</a>
                                         </div>
                                         <div class="service-item">
                                             <a href="notification.php">Real-Time Notifications</a>
@@ -179,7 +179,7 @@
                                             <a href="customer_control.php">Customer Control management</a>
                                         </div>
                                         <div class="service-item">
-                                            <a href="bar_creation.php">Label creation</a>
+                                            <a href="label-creation.php">Label creation</a>
                                         </div>
 
                                     </div>

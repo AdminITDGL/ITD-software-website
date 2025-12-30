@@ -24,7 +24,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <?php include('includes/header.php')?>
 
     <!-- Banner Area Start -->
-    <div class="banner__one" style="background-image: url(assets/img/banner/barcode.jpg);">
+    <div class="banner__one" style="background-image: url(assets/img/banner/label.jpg);">
       
     </div>
     <!-- Banner Area End -->
