@@ -37,15 +37,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
                     <div class="about__four-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4 >8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Of Experience</span>
-                            </div>
-                        </div>
                         <div class="about__four-image-wrapper">
                             <img src="assets/img/about/about-four-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-four-2.png" alt="" class="image-2">
@@ -133,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

@@ -23,47 +23,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <?php include('includes/header.php')?>
 
-    <!-- Banner Area Start -->
-    <div class="banner__one">
-        <div class="banner-shape">
-            <div class="shape banner-shape-1"></div>
-            <div class="shape banner-shape-2"></div>
-            <div class="shape banner-shape-3"></div>
-            <div class="shape banner-shape-4"></div>
-            <img class="shape banner-shape-5" src="assets/img/shape/banner-shape.png" alt="image">
-            <div class="shape banner-shape-7"></div>
-            <div class="shape banner-shape-6"></div>
-        </div>
-        <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="banner__one-content">
-                        <span class="subtitle-one">User Role Management
-                        </span>
-                        <h2>Control Access with Smart Role 
-                        <span>Management</span></h2>
-                        <p>Define, assign, and control user roles and permissions with ease—secure, scalable, and fully customizable.
-                        </p>
-                        <a href="#" class="btn-two">Book a free demo
-							<i class="fas fa-arrow-right"></i>
-						</a>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
-                    <div class="banner__one-image">
-                        <div class="banner__one-image-wrapper">
-                            <div class="banner__one-image-wrapper-shapes animate-rotate">
-                                <div class="shape shape-1"></div>
-                                <div class="shape shape-2"></div>
-                            </div>
-                            <img src="assets/img/banner/banner-right-img.jpg" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Banner Area End -->
+    <div class="banner__one" style="background-image: url(./assets/img/banner/user.jpg);">
+       
+    </div>   
 
     <!-- Brand Area Start -->
     
@@ -75,16 +37,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-5">
                     <div class="about__one-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <i class="flaticon-consultant"></i>
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4 >8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Experience</span>
-                            </div>
-                        </div>
                         <div class="about__one-image-wrapper">
                             <img src="assets/img/about/about-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-2.png" alt="" class="image-2">
@@ -133,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
-                            <span class="subtitle-one">Why Chose Us</span>
+                            <span class="subtitle-one">Why Choose Us</span>
                             <h2>Smart & Secure User Role Management</h2>
                             <p>Enhance security and streamline operations with a User Role Management system that simplifies access control and adapts to your team's changing needs.</p>
                         </div>
@@ -186,60 +138,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <div class="row align-items-center justify-content-center">
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-global-network"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Dynamic Role Creation</h4>
-                                    <p>Real-time delivery tracking, automatic updates, and efficient routing for smooth operations.</p>
-                                </div>
-                            </div>
+                <div class="col-xl-6 col-lg-6 mb-4">
+                    <div class="single-service mb-4">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-global-network"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6 xl-mb-30">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-mobile-phone-1"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Permission-Based Access</h4>
-                                    <p>Manage logistics from dispatch to delivery with centralized software that enhances efficiency.</p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Dynamic Role Creation</h4>
+                            <p>Create and modify user roles on-the-fly to match your organization's changing requirements.</p>
+                        </div>
+                    </div>
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-mobile-phone-1"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Permission-Based Access</h4>
+                            <p>Set granular permissions so users only access what they need—improving both security and workflow.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-7">
-                    <div class="services-image-wrapper">
-                        <img src="assets/img/service/services.png" alt="image">
-                    </div>
-                </div>
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-idea"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Multi-Factor Authentication (MFA)</h4>
-                                    <p>A scalable, secure cloud solution to manage logistics operations anytime, anywhere.</p>
-                                </div>
-                            </div>
+                <div class="col-xl-6 col-lg-6 mb-4">
+                    <div class="single-service mb-4">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-idea"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-it"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Role Change Logs & Audits</h4>
-                                    <p>Gather actionable insights and improve customer experiences with advanced analytics.</p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Multi-Factor Authentication (MFA)</h4>
+                            <p>Bolster account security with multi-factor authentication for critical user and admin actions.</p>
+                        </div>
+                    </div>
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-it"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Role Change Logs & Audits</h4>
+                            <p>Track all role changes and actions for complete accountability and easy compliance audits.</p>
                         </div>
                     </div>
                 </div>
@@ -256,7 +191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

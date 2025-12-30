@@ -32,37 +32,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- About Area Start -->
     <div class="about__five section-padding" style="background-image: url(assets/img/about/about-five-bg.png);">
-
-        <!-- Brand Area Start -->
-        <div class="brand__area mb-120">
-            <div class="container">
-                <div class="row brand__area-border">
-                    <div class="col-xl-12">
-                        <div class="swiper brand__slider">
-                            <div class="swiper-wrapper">
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-1.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-2.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-3.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-4.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-5.png" alt="image">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand Area End -->
-
         <div class="container">
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
@@ -114,27 +83,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row justify-content-center text-center mb-50">
                 <div class="col-xl-6 col-lg-7 col-md-9">
-                    <span class="subtitle-one">Tracking and Delivery Start from the Hub</span>
-                    <h2>Workflow journey 
-                    </h2>
+                    <span class="subtitle-one">Work process</span>
+                    <h2>Workflow journey</h2>
                 </div>
             </div>
             <div class="work-process__three-card">
-                <div class="work-process__three-card-arrows">
-                    <img src="assets/img/work-process/work-process-arrow-1.png" alt="" class="arrow-1" style="left: 30%;">
-                    <img src="assets/img/work-process/work-process-arrow-1.png" alt="" class="arrow-3">
+                <div class="work-process__three-card-single">
+                    <h5>Package Arrival</h5>
+                    <p>Scanning begins as packages enter the hub.</p>
                 </div>
                 <div class="work-process__three-card-single">
-                    <h5>Delivery-Ready Status</h5>
-                    <p>Scanned parcels instantly reflect as “Inbound at Destination” and are marked for the next step—delivery.
-                    </p>
+                    <h5>Data Capture</h5>
+                    <p>Automated systems capture all relevant data instantly.</p>
                 </div>
-                <div class="work-process__three-card-single middle">
-                    <h5>Full System Sync</h5>
-                    <p> Data is shared across dashboards, CRMs, and tracking tools—no delays, no double entry.
-                    </p>
+                <div class="work-process__three-card-single">
+                    <h5>Status Update</h5>
+                    <p>Real-time updates provide visibility and transparency throughout the process.</p>
                 </div>
-               
             </div>
         </div>
     </div>
@@ -153,13 +118,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <p>
                         ITD Software’s Inbound Hub Scanning automates package identification, reduces errors, and provides real-time tracking, ensuring seamless and efficient courier operations.
                         </p>
-                        <div class="satisfied-customer-counter">
-                            <div class="counter-wrapper">
-                                <h3 >400</h3>
-                                <h3>+</h3>
-                            </div>
-                            <span>Satisfied Customers</span>
-                        </div>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
@@ -195,9 +153,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </h4>
                             <p>Instantly scans and records package details upon arrival, reducing manual work and improving accuracy.
                             </p>
-                            <a href="#" class="btn-three">view details
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -209,9 +164,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="services__five-single-service-content">
                             <h4>Real-Time Tracking</h4>
                             <p>Provides live status updates, ensuring full visibility of inbound shipments for better decision-making.</p>
-                            <a href="#" class="btn-three">view details
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -223,11 +175,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="services__five-single-service-content">
                             <h4>Seamless System Integration
                             </h4>
-                            <p>Effortlessly connects with your existing logistics software, enhancing operational efficiency without disruptions.
+                            <p>Effortlessly connects with your existing logistics software, efficiency without disruptions.
                             </p>
-                            <a href="#" class="btn-three">view details
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -284,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

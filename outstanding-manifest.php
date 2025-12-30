@@ -40,16 +40,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-5">
                     <div class="about__one-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <i class="flaticon-consultant"></i>
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4 >8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Experience</span>
-                            </div>
-                        </div>
                         <div class="about__one-image-wrapper">
                             <img src="assets/img/about/about-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-2.png" alt="" class="image-2">
@@ -100,7 +90,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
-                            <span class="subtitle-one">Why Chose Us</span>
+                            <span class="subtitle-one">Why Choose Us</span>
                             <h2>Built for Accuracy, Speed, and Scale</h2>
                             <p>Every manifest entry is tracked, searchable, and ready for audits. Works across locations and dispatch volumes.
                             </p>
@@ -155,63 +145,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </h2>
                 </div>
             </div>
-            <div class="row align-items-center justify-content-center">
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-global-network"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Automated Manifest Generation</h4>
-                                    <p>Instantly create and manage shipment manifests with accurate details.</p>
-                                </div>
-                            </div>
+            <div class="row justify-content-center gy-4">
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-global-network"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6 xl-mb-30">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-mobile-phone-1"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Real-Time Data Sync</h4>
-                                    <p>Ensure up-to-date tracking and error-free documentation.</p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Automated Manifest Generation</h4>
+                            <p>Instantly create and manage shipment manifests with accurate details.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-7">
-                    <div class="services-image-wrapper">
-                        <img src="assets/img/service/services.png" alt="image">
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-mobile-phone-1"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Real-Time Data Sync</h4>
+                            <p>Ensure up-to-date tracking and error-free documentation.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-idea"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Seamless System Integration</h4>
-                                    <p>Integrates with existing logistics software for a smooth workflow.
-                                    </p>
-                                </div>
-                            </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-idea"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-it"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Compliance & Accuracy</h4>
-                                    <p>Meet regulatory requirements with precise, standardized documentation.
-                                    </p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Seamless System Integration</h4>
+                            <p>Integrates with existing logistics software for a smooth workflow.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-it"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Compliance & Accuracy</h4>
+                            <p>Meet regulatory requirements with precise, standardized documentation.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -268,16 +245,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="work-process-area__one-right-img">
                         <img src="assets/img/work-process/work-process-1.png" alt="image">
                     </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2>20</h2>
-                                <h2>+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
-                    </div>
                 </div>
             </div>
         </div>
@@ -292,7 +259,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

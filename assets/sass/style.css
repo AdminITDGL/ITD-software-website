@@ -119,8 +119,9 @@ img {
 
 a {
     outline: none;
-    color: inherit;
-    text-decoration: none;
+    color: inherit !important;
+    text-decoration: none !important;
+    color: #ffffff !important;
 }
 
 a,

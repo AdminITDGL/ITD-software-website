@@ -32,37 +32,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- About Area Start -->
     <div class="about__five section-padding" style="background-image: url(assets/img/about/about-five-bg.png);">
-
-        <!-- Brand Area Start -->
-        <div class="brand__area mb-120">
-            <div class="container">
-                <div class="row brand__area-border">
-                    <div class="col-xl-12">
-                        <div class="swiper brand__slider">
-                            <div class="swiper-wrapper">
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-1.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-2.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-3.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-4.png" alt="image">
-                                </div>
-                                <div class="brand__area-item swiper-slide">
-                                    <img src="assets/img/brand/brand-5.png" alt="image">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand Area End -->
-
         <div class="container">
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
@@ -152,12 +121,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h2>Track Every Pickup Without Gaps
                         </h2>
                         <p>Track pickups in real time, cut back on calls, and reduce fuel and labor costs through better scheduling and route planning.</p>
-                        <div class="satisfied-customer-counter" style="display:block;">
-                            <span>Real-Time Updates Every status change—assigned, delayed, completed—is reflected instantly across dashboards and mobile apps.</span>
-                        </div>
-                         <div class="satisfied-customer-counter" style="display:block;">
-                            <span>Operational Savings Minimize idle time, reduce backtracking, and lower overall costs with smarter slot-based pickup planning.</span>
-                        </div>
+                        <ul class="pickup-benefits-list">
+                            <li>
+                                <strong>Real-Time Updates:</strong> Every status change—assigned, delayed, completed—is reflected instantly across dashboards and mobile apps.
+                            </li>
+                            <li>
+                                <strong>Operational Savings:</strong> Minimize idle time, reduce backtracking, and lower overall costs with smarter slot-based pickup planning.
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
@@ -193,9 +164,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </h4>
                             <p>Our system provides real-time pickup scheduling, allowing businesses and customers to book pickups instantly with automatic updates on availability, times, and changes.
                             </p>
-                            <a href="#" class="btn-three">view details
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -207,9 +175,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="services__five-single-service-content">
                             <h4>Route Optimization</h4>
                             <p>Our Pickup Scheduling service uses intelligent algorithms to optimize pickup routes, reducing fuel costs, travel time, and improving overall delivery efficiency.</p>
-                            <a href="#" class="btn-three">view details
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -222,9 +187,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Automation for Efficiency</h4>
                             <p>Automate the entire scheduling process, from booking to driver notifications, freeing up valuable time for your team and reducing human error in courier management.
                             </p>
-                            <a href="#" class="btn-three">view details
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -287,7 +249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

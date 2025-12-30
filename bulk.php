@@ -17,56 +17,16 @@
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV2DXLX4"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV2DXLX4"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 
 	<?php include('includes/header.php') ?>
 
 
-	<!-- Banner Three Area Start -->
-	<div class="banner__three">
-		<div class="swiper banner__three-slider swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events">
-			<div class="swiper-wrapper" id="swiper-wrapper-78deec40c237201f" aria-live="polite" style="transition-duration: 0ms;">
-				<div class="banner__three-single-slide swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" style="background-image: url(&quot;assets/img/banner/banner-three-2.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);" data-swiper-slide-index="1" role="group" aria-label="2 / 2">
-					<div class="banner__three-bg-shape-overlay" style="background-image: url(./assets/img/banner/banner-three-shape-overlay.png);"></div>
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-xl-10">
-								<div class="banner__three-content">
-									<span class="subtitle-one">Bulk Shipment</span>
-									<h2>Optimized Bulk Shipping for Couriers</h2>
-									<p>Upload, manage, and dispatch bulk shipments at once—fast, error-free, and fully automated</p>
-									<a href="about.php" class="btn-two">Get started
-										<i class="fas fa-arrow-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="banner__three-single-slide swiper-slide swiper-slide-visible swiper-slide-active" style="background-image: url(&quot;assets/img/banner/banner-three.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(-2024px, 0px, 0px);" data-swiper-slide-index="0" role="group" aria-label="1 / 2">
-					<div class="banner__three-bg-shape-overlay" style="background-image: url(assets/img/banner/banner-three-shape-overlay.png);"></div>
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-xl-10">
-								<<div class="banner__three-content">
-									<span class="subtitle-one">Bulk Shipment</span>
-									<h2>Optimized Bulk Shipping for Couriers</h2>
-									<p>Upload, manage, and dispatch bulk shipments at once—fast, error-free, and fully automated</p>
-									<a href="about.php" class="btn-two">Get started
-										<i class="fas fa-arrow-right"></i>
-									</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+	<div class="banner__four" style="background-image: url(assets/img/banner/bulk.jpg);">
 
-		</div>
-		<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-	</div>
 	</div>
 	<!-- Banner Three Area End -->
 
@@ -93,9 +53,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__three-single-service-content">
 							<h4>Automated Bulk Order Processing</h4>
 							<p>AI-powered automation streamlines high-volume shipments.</p>
-							<a href="#" class="btn-three">Read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -108,9 +65,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Batch Label Printing & Sorting</h4>
 							<p>Instantly print labels and automate sorting for quick dispatch.
 							</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -123,9 +77,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Time Tracking & Reporting
 							</h4>
 							<p>Track shipments live with automated updates and detailed reports.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -167,10 +118,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-xl-6 col-lg-6 col-md-9">
 					<div class="about__three-right">
 						<div class="row align-items-center">
-							<div class="about__three-right-counter">
-								<h4>8</h4>
-								<span>Years Of experience</span>
-							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
 								<div class="about__three-right-image-left-side">
 									<img src="assets/img/about/about-three.png" alt="image">

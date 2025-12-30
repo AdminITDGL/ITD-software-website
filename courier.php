@@ -121,9 +121,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__three-single-service-content">
 							<h4>Automated Dispatch Engine</h4>
 							<p> Assigns drivers based on location and capacity to speed up operations.</p>
-							<a href="#" class="btn-three">Read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -133,11 +130,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="flaticon-it-service"></i>
 						</div>
 						<div class="services__three-single-service-content">
-							<h4>Digital Proof of Delivery (POD)</h4>
+							<h4>Digital Proof of Delivery(POD)</h4>
 							<p>Collect e-signatures or photo proof, reducing disputes and paperwork.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -150,9 +144,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Returns & Reverse Logistics
                             </h4>
 							<p>Simplifies pickups with auto-scheduling and real-time tracking.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -194,10 +185,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-xl-6 col-lg-6 col-md-9">
 					<div class="about__three-right">
 						<div class="row align-items-center">
-							<div class="about__three-right-counter">
-								<h4 >8</h4>
-								<span>Years Of experience</span>								
-							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
 								<div class="about__three-right-image-left-side">
 									<img src="assets/img/about/about-three.png" alt="image">

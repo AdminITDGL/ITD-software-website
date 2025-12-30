@@ -25,42 +25,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <?php include('includes/header.php') ?>
 
 
-    <!-- Banner Area Start -->
-    <div class="banner__four" style="background-image: url(assets/img/banner/banner-four-bg.png);">
-        <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="banner__four-content">
-                        <span class="subtitle-two">Credit & Debit Note
-                        </span>
-                        <h2>Smart Note Generation for Smarter Billing
-                        </h2>
-                        <p>Streamline your financial operations with our intuitive credit and debit note generation system.</p>
-                        <div class="banner__four-content-bottom">
-                            <a href="contact.php" class="btn-two">Book a demo
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                            <div class="banner__four-content-call">
-                                <i class="flaticon-telephone-call"></i>
-                                <div class="banner__four-content-call-right">
-                                    <span>Make a call</span>
-                                    <a href="tel:9769591364">+91 9769591364</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
-                    <div class="banner__four-image">
-                        <div class="banner__four-image-wrapper">
-                            <img src="assets/img/banner/banner-four.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Banner Area End -->
+    <div class="banner__one" style="background-image: url(./assets/img/banner/credit.jpg);">
+       
+    </div>   
 
     <!-- About Area Start -->
     <div class="about__four section-padding">
@@ -68,15 +35,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
                     <div class="about__four-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4>8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Of Experience</span>
-                            </div>
-                        </div>
                         <div class="about__four-image-wrapper">
                             <img src="assets/img/about/about-four-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-four-2.png" alt="" class="image-2">
@@ -105,7 +63,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <span>Audit-Ready Documentation</span>
                             </div>
                         </div>
-                        <a href="about.php" class="btn-one">Get started
+                        <a href="contact.php" class="btn-one">Know More
                             <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -133,11 +91,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="services__four-single-service-content">
                             <h4>Custom Invoices</h4>
-                            <p> Tailor invoices for branding and client satisfaction
-                                .</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <p> Tailor invoices for branding and client satisfaction.</p>
                         </div>
                     </div>
                 </div>
@@ -149,9 +103,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="services__four-single-service-content">
                             <h4>Global Support</h4>
                             <p> Handle multiple currencies and languages effortlessly.</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -163,9 +114,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="services__four-single-service-content">
                             <h4>Auto Reminders</h4>
                             <p>Send automated payment reminders and overdue notices.</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -178,9 +126,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Detailed Reports</h4>
                             <p> detail reports on revenue, expenses, and transactions.
                             </p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -196,25 +141,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-6 col-md-10">
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
-                            <span class="subtitle-one">Why Chose Us</span>
+                            <span class="subtitle-one">Why Choose Us</span>
                             <h2>Next-Gen Features for Accuracy & Speed
                             </h2>
                             <p>From real-time note  generation to smart tax handling, our platform simplifies every step of credit & debit note creation for logistics businesses.
                             </p>
                         </div>
                         <div class="why-choose-us__three-bottom" style="display: block;">
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <h4>Automated Processing & Approval</h4>
-                                    <p>Minimize delays and human errors with intelligent, rule-based automation.</p>
-                                </div>
-                            </div>
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <h4>Compliance-First Design</h4>
-                                    <p>Stay audit-ready with accurate, regulation-compliant financial documents.</p>
-                                </div>
-                            </div>
+                            <ul class="why-choose-us__three-bottom-list" style="padding-left: 20px; margin: 0;">
+                                <li>
+                                    <strong>Automated Processing & Approval:</strong>
+                                    Minimize delays and human errors with intelligent, rule-based automation.
+                                </li>
+                                <li>
+                                    <strong>Compliance-First Design:</strong>
+                                    Stay audit-ready with accurate, regulation-compliant financial documents.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -238,7 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

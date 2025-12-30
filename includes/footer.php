@@ -33,50 +33,39 @@
                           </div>
                       </div>
                   </div>
-                  <div class="col-xl-6 col-lg-4 col-md-12">
+                  <div class="col-xl-3 col-lg-4 col-md-12">
                       <div class="footer__social-section">
                           <h4>Follow Us</h4>
                           <p>Connect with us for the latest updates and news</p>
                           <div class="footer__two-widget-social">
                               <ul>
-                                  <li><a href="https://www.facebook.com" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                                  <li><a href="https://www.twitter.com" aria-label="Twitter"><i class="fab fa-twitter"></i></a></li>
                                   <li><a href="https://www.linkedin.com" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
-                                  <li><a href="https://www.pinterest.com" aria-label="Pinterest"><i class="fab fa-pinterest-p"></i></a></li>
+                              </ul>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-xl-3 col-lg-4 col-md-12">
+                      <div class="footer__social-section">
+                          <h4>Quick Links</h4>
+                          <div class="">
+                              <ul>
+                                  <li><a href="about.php"><i class="far fa-chevron-double-right"></i>About Us</a></li>
+                                  <li><a href="blog.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>
+                                  <li><a href="contact.php"><i class="far fa-chevron-double-right"></i>Contact</a></li>
                               </ul>
                           </div>
                       </div>
                   </div>
               </div>
           </div>
-
-          <!-- Row 2: Quick Links -->
-          <div class="footer__row footer__row-two">
-              <div class="row">
-                  <div class="col-12">
-                      <div class="footer__section-title">
-                          <h4>Quick Links</h4>
-                      </div>
-                      <div class="footer__quick-links">
-                          <ul>
-                              <li><a href="about.php"><i class="far fa-chevron-double-right"></i>About Us</a></li>
-                              <li><a href="blog.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>
-                              <li><a href="contact.php"><i class="far fa-chevron-double-right"></i>Contact</a></li>
-                          </ul>
-                      </div>
-                  </div>
-              </div>
-          </div>
-
           <!-- Row 3: Services -->
-          <div class="footer__row footer__row-three">
+          <!-- <div class="footer__row footer__row-three">
               <div class="row">
                   <div class="col-12">
                       <div class="footer__section-title">
                           <h4>Our Services</h4>
                       </div>
                       <div class="footer__services-grid">
-                          <!-- 1. Core Courier Operations -->
                           <div class="footer__services-category">
                               <h5>1. Core Courier Operations</h5>
                               <ul>
@@ -90,7 +79,6 @@
                               </ul>
                           </div>
                           
-                          <!-- 2. Technology & Integration -->
                           <div class="footer__services-category">
                               <h5>2. Technology & Integration</h5>
                               <ul>
@@ -100,7 +88,6 @@
                               </ul>
                           </div>
                           
-                          <!-- 3. Business & Customer Management -->
                           <div class="footer__services-category">
                               <h5>3. Business & Customer Management</h5>
                               <ul>
@@ -109,7 +96,6 @@
                               </ul>
                           </div>
                           
-                          <!-- 4. Consulting & Partner Solutions -->
                           <div class="footer__services-category">
                               <h5>4. Consulting & Partner Solutions</h5>
                               <ul>
@@ -120,7 +106,7 @@
                       </div>
                   </div>
               </div>
-          </div>
+          </div> -->
 
           <!-- Row 4: Location -->
           <div class="footer__row footer__row-four">

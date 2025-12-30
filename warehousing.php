@@ -66,9 +66,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h4>AI-Driven Sorting & Routing</h4>
                                 <p> Automate sorting and parcel routing to minimize delays & boost speed.
                                 </p>
-                                <a href="#" class="btn-three">Read more
-                                    <i class="fas fa-chevron-right"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -81,9 +78,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h4>Live Shipment Visibility</h4>
                                 <p>Real-time tracking across hubs for improved coordination & customer satisfaction.
                                 </p>
-                                <a href="#" class="btn-three">read more
-                                    <i class="fas fa-chevron-right"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -97,9 +91,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </h4>
                                 <p>Use smart analytics to cut costs, fix inefficiencies & streamline operations.
                                 </p>
-                                <a href="#" class="btn-three">read more
-                                    <i class="fas fa-chevron-right"></i>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -144,10 +135,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-xl-6 col-lg-6 col-md-9">
                         <div class="about__three-right">
                             <div class="row align-items-center">
-                                <div class="about__three-right-counter">
-                                    <h4 >8</h4>
-                                    <span>Years Of experience</span>
-                                </div>
                                 <div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
                                     <div class="about__three-right-image-left-side">
                                         <img src="assets/img/about/about-three.png" alt="image">

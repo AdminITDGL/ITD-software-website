@@ -25,43 +25,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <?php include('includes/header.php') ?>
 
 
-    <!-- Banner Area Start -->
-    <div class="banner__four" style="background-image: url(assets/img/banner/banner-four-bg.png);">
-        <div class="container">
-            <div class="row align-items-center gy-4 justify-content-center">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="banner__four-content">
-                        <span class="subtitle-two">Ticket Management
-                        </span>
-                        <h2>Efficient Ticket Management for Logistics
-                        </h2>
-                        <p>Track, assign, and resolve client & operations issues faster with our smart, centralized ticketing solution.
-                        </p>
-                        <div class="banner__four-content-bottom">
-                            <a href="contact.php" class="btn-two">Book a demo.
-                                <i class="fas fa-arrow-right"></i>
-                            </a>
-                            <div class="banner__four-content-call">
-                                <i class="flaticon-telephone-call"></i>
-                                <div class="banner__four-content-call-right">
-                                    <span>Make a call</span>
-                                    <a href="tel:9769591364">+91 9769591364</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-9">
-                    <div class="banner__four-image">
-                        <div class="banner__four-image-wrapper">
-                            <img src="assets/img/banner/banner-four.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="banner__one" style="background-image: url(./assets/img/banner/ticket.jpg);">
     </div>
-    <!-- Banner Area End -->
 
     <!-- About Area Start -->
     <div class="about__four section-padding">
@@ -69,15 +34,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
                     <div class="about__four-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4>8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Of Experience</span>
-                            </div>
-                        </div>
                         <div class="about__four-image-wrapper">
                             <img src="assets/img/about/about-four-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-four-2.png" alt="" class="image-2">
@@ -127,9 +83,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row justify-content-center text-center mb-50">
                 <div class="col-xl-6 col-lg-7 col-md-9">
-                    <span class="subtitle-one">What We Do</span>
-                    <h2>Comprehensive Ticketing Solutions
-                    </h2>
+                    <span class="subtitle-one">What we do</span>
+                    <h2>Comprehensive Ticketing Solutions</h2>
                 </div>
             </div>
             <div class="row gy-4 justify-content-center">
@@ -139,13 +94,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="flaticon-software-development"></i>
                         </div>
                         <div class="services__four-single-service-content">
-                            <h4>Customizable Ticket Routing
-                            </h4>
-                            <p>Tailor ticket workflows for efficient prioritization and routing.
-                            </p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <h4>Customizable Ticket Routing</h4>
+                            <p>Tailor ticket workflows for efficient prioritization and routing.</p>
+                            <a href="#" class="read-more-link">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -155,12 +106,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="flaticon-cyber-security"></i>
                         </div>
                         <div class="services__four-single-service-content">
-                            <h4>AI-Driven Dispatching & Optimization</h4>
-                            <p>Leverage AI to automate job assignments and optimize routes, minimizing delays and reducing operational costs.
-                            </p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <h4>Cross-Functional Collaboration</h4>
+                            <p>Enable faster resolutions with seamless team collaboration.</p>
+                            <a href="#" class="read-more-link">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -170,13 +118,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="flaticon-data-scientist"></i>
                         </div>
                         <div class="services__four-single-service-content">
-                            <h4>Instant Communication & Updates
-                            </h4>
-                            <p>Keep drivers and dispatchers in sync with instant messaging, notifications, and updates, ensuring smooth operations.
-                            </p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <h4>Multi-Channel Support</h4>
+                            <p>Handle tickets via email, chat, and calls for consistent service.</p>
+                            <a href="#" class="read-more-link">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -186,11 +130,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="flaticon-mobile-app"></i>
                         </div>
                         <div class="services__four-single-service-content">
-                            <h4>Secure Proof of Delivery</h4>
-                            <p>Enhance trust with electronic signatures, photo verifications, and digital logs for a secure and verified delivery process.</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <h4>Performance Analytics</h4>
+                            <p>Improve response times with data-driven insights.</p>
+                            <a href="#" class="read-more-link">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -206,35 +148,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-6 col-md-10">
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
-                            <span class="subtitle-one">Why Chose Us</span>
+                            <span class="subtitle-one">Why Choose Us</span>
                             <h2>Efficient, Data-Driven Issue Handling
                             </h2>
                             <p>Optimize courier support with customizable workflows and analytics that empower your teams to resolve tickets quickly and effectively.
                             </p>
                         </div>
                         <div class="why-choose-us__three-bottom">
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <h4>Customizable Ticket Workflows
-                                    </h4>
-                                    <p>Align issue-handling processes with your specific business operations for faster resolutions.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="why-choose-us__three-bottom">
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <h4>Performance Analytics Dashboard
-                                    </h4>
-                                    <p>Track metrics like response time and resolution rate to continually improve service.</p>
-                                </div>
-                            </div>
+                            <ul class="why-choose-us__three-bottom-list">
+                                <li>
+                                    <i class="flaticon-web-research"></i>
+                                    <strong>Customizable Ticket Workflows:</strong> Align issue-handling processes with your specific business operations for faster resolutions.
+                                </li>
+                                <li>
+                                    <i class="flaticon-analytics"></i>
+                                    <strong>Performance Analytics Dashboard:</strong> Track metrics like response time and resolution rate to continually improve service.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-10">
                     <div class="why-choose-us__three-image">
-                        <img src="assets/img/why-choose-us/why-choose-2.png" alt="" class="why-choose-us__three-floating-image animate-y-axis-slider">
                         <img src="assets/img/why-choose-us/why-choose.png" alt="image">
                     </div>
                 </div>
@@ -251,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

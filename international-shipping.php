@@ -26,50 +26,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 	<!-- Banner Three Area Start -->
-	<div class="banner__three">
-		<div class="swiper banner__three-slider swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events">
-			<div class="swiper-wrapper" id="swiper-wrapper-78deec40c237201f" aria-live="polite" style="transition-duration: 0ms;">
-				<div class="banner__three-single-slide swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" style="background-image: url(&quot;assets/img/banner/banner-three-2.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(0px, 0px, 0px);" data-swiper-slide-index="1" role="group" aria-label="2 / 2">
-					<div class="banner__three-bg-shape-overlay" style="background-image: url(./assets/img/banner/banner-three-shape-overlay.png);"></div>
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-xl-10">
-								<div class="banner__three-content">
-									<span class="subtitle-one">International Shipping </span>
-									<h2>Smart Tools for Global Shipping
-									</h2>
-									<p>Manage cross-border shipping, documentation, tracking, billing & more—faster, smarter, and fully automated.</p>
-									<a href="about.php" class="btn-two">Get started
-										<i class="fas fa-arrow-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="banner__three-single-slide swiper-slide swiper-slide-visible swiper-slide-active" style="background-image: url(&quot;assets/img/banner/banner-three.png&quot;); width: 2024px; transition-duration: 0ms; opacity: 1; transform: translate3d(-2024px, 0px, 0px);" data-swiper-slide-index="0" role="group" aria-label="1 / 2">
-					<div class="banner__three-bg-shape-overlay" style="background-image: url(assets/img/banner/banner-three-shape-overlay.png);"></div>
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-xl-10">
-								<div class="banner__three-content">
-									<span class="subtitle-one">International Shipping </span>
-									<h2>Smart Tools for Global Shipping
-                                    </h2>
-									<p>Manage cross-border shipping, documentation, tracking, billing & more—faster, smarter, and fully automated.</p>
-									<a href="about.php" class="btn-two">Get started 
-										<i class="fas fa-arrow-right"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-			<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-		</div>
-	</div>
+	<div class="banner__four" style="background-image: url(assets/img/banner/shipping_services.jpg);">
+      
+    </div>
 	<!-- Banner Three Area End -->
 
 	<!-- Service Three Area Start -->
@@ -95,9 +54,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__three-single-service-content">
 							<h4>Multi-Carrier Integration</h4>
 							<p>Connect with global carriers for flexible, cost-effective shipping.</p>
-							<a href="api-integration.php" class="btn-three">Read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -110,9 +66,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Automated Customs Clearance</h4>
 							<p> Simplify clearance with real-time updates and auto documentation.
 							</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -126,9 +79,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</h4>
 							<p>Get live updates for full shipment visibility.
 							</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -171,10 +121,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-xl-6 col-lg-6 col-md-9">
 					<div class="about__three-right">
 						<div class="row align-items-center">
-							<div class="about__three-right-counter">
-								<h4>8</h4>
-								<span>Years Of experience</span>
-							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
 								<div class="about__three-right-image-left-side">
 									<img src="assets/img/about/about-three.png" alt="image">

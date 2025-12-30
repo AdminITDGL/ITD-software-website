@@ -66,15 +66,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row align-items-center flex-wrap-reverse gy-4">
 				<div class="col-xl-6 col-lg-8">
 					<div class="about__four-image">
-						<div class="experience-bar animate-y-axis-slider">
-							<div class="experience-bar-right">
-								<div class="experience-bar-counter">
-									<h4>8</h4>
-									<span>+</span>
-								</div>
-								<span>Years Of Experience</span>
-							</div>
-						</div>
 						<div class="about__four-image-wrapper">
 							<img src="assets/img/about/about-four-1.png" alt="" class="image-1">
 							<img src="assets/img/about/about-four-2.png" alt="" class="image-2">
@@ -130,9 +121,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__four-single-service-content">
 							<h4>Real-Time Parcel Tracking</h4>
 							<p>Track every shipment with live GPS for full delivery transparency.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -144,9 +132,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__four-single-service-content">
 							<h4>Smart Route Optimization</h4>
 							<p>Plan the most efficient paths and reduce delays or fuel costs.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -158,9 +143,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__four-single-service-content">
 							<h4>Route Optimization</h4>
 							<p>Optimize delivery paths to reduce time and costs.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -172,9 +154,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__four-single-service-content">
 							<h4>Driver and Fleet Management</h4>
 							<p> Monitor drivers and vehicles for timely deliveries.</p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>    
 					</div>
 				</div>
@@ -190,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-xl-6 col-lg-6 col-md-10">
 					<div class="why-choose-us__three-left">
 						<div class="why-choose-us__three-title">
-							<span class="subtitle-one">Why Chose Us</span>
+							<span class="subtitle-one">Why Choose Us</span>
 							<h2>Scalable Tech with Security & Flexibility
                             </h2>
 							<p>From startups to enterprise, our courier operations system adapts to your workflow—securely and intelligently.
@@ -220,7 +199,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-xl-5 offset-xl-1 col-lg-6 col-md-10">
 					<div class="why-choose-us__three-image">
-						<img src="assets/img/why-choose-us/why-choose-2.png" alt="" class="why-choose-us__three-floating-image animate-y-axis-slider">
 						<img src="assets/img/why-choose-us/why-choose.png" alt="image">
 					</div>
 				</div>
@@ -445,7 +423,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

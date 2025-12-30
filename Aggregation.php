@@ -26,12 +26,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Banner Area Start -->
     <div class="banner__one" style="background-image: url(./assets/img/banner/courier-aggrigation-service.jpg);">
-       
+
     </div>
     <!-- Banner Area End -->
 
     <!-- Brand Area Start -->
-    
+
     <!-- Brand Area End -->
 
     <!-- About Area Start -->
@@ -40,16 +40,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-5">
                     <div class="about__one-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <i class="flaticon-consultant"></i>
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4 >8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Experience</span>
-                            </div>
-                        </div>
                         <div class="about__one-image-wrapper">
                             <img src="assets/img/about/about-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-2.png" alt="" class="image-2">
@@ -59,32 +49,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="about__one-content">
                         <span class="subtitle-one">About us</span>
-                        <h2>All Couriers. One Smart System.
-                        </h2>
-                        <p>Connect, compare, and control your deliveries with our AI-powered Courier Aggregation Service. Allocate carriers, track all parcels, and simplify operations from one powerful dashboard.
-                        </p>
+                        <h2>Innovating Courier Aggregation Services</h2>
+                        <p>We specialize in courier aggregation services, offering businesses a centralized platform to integrate multiple carriers. With our expertise in logistics software development, we help courier businesses automate workflows, enhance tracking, and reduce operational costs.</p>
                         <div class="about__one-content-service">
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Unified Carrier Management
-                                </span>
+                                <span>Seamless Multi-Carrier Integration</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Smart Order Assignment
-                                </span>
+                                <span>AI-Driven Workflow Automation</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Live Multi-Network Tracking</span>
+                                <span>Scalable & Customizable Solutions</span>
                             </div>
                             <div class="service">
                                 <i class="far fa-check-circle"></i>
-                                <span>Real-Time Tracking & Insights
-                                </span>
+                                <span>Real-Time Tracking & Insights</span>
                             </div>
                         </div>
-                        <a href="about.php" class="btn-one">Discover More
+                        <a href="about.php" class="btn-one">Know more
 							<i class="fas fa-arrow-right"></i>
 						</a>
                     </div>
@@ -101,12 +86,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
-                            <span class="subtitle-one">Why Chose Us</span>
-                            <h2>
-                                Aggregate Couriers. Accelerate Business.
-                            </h2>
-                            <p>We make shipping simple by unifying courier networks, boosting visibility, and eliminating manual courier selections or errors.
-                            </p>
+                            <span class="subtitle-one">Why choose us?</span>
+                            <h2>Smart Courier Aggregation for Seamless Logistics</h2>
+                            <p>Optimize your shipping process with our Courier Aggregation Service, integrating multiple carriers, automating order allocation, and providing real-time tracking for seamless logistics.</p>
                         </div>
                         <div class="why-choose-us__one-quality">
                             <div class="why-choose-us__one-quality-single">
@@ -114,9 +96,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <i class="flaticon-machine-repair"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>AI-Based Allocation</h4>
-                                    <p>Get smart courier selection every time with automated logic.
-                                    </p>
+                                    <h4>All-in-One Carrier Integration</h4>
+                                    <p>Manage multiple shipping providers through a single Courier Aggregation Service platform, ensuring efficiency and cost savings.</p>
                                 </div>
                             </div>
                             <div class="why-choose-us__one-quality-single">
@@ -124,9 +105,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <i class="flaticon-web-research"></i>
                                 </div>
                                 <div class="why-choose-us__one-quality-single-content">
-                                    <h4>Scalable Integration</h4>
-                                    <p> Easily expand to more carriers or geographies with zero downtime.
-                                    </p>
+                                    <h4>AI-Driven Order Allocation</h4>
+                                    <p>Automatically assign shipments to the most cost-effective and reliable courier, optimizing delivery speed and reducing operational hassle.</p>
                                 </div>
                             </div>
                         </div>
@@ -152,71 +132,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="row justify-content-center text-center">
                 <div class="col-xl-7 col-lg-7 col-md-9 services__one-title">
-                    <span class="subtitle-one">Core Features</span>
-                    <h2>Optimize Logistics with Courier Aggregation Service
-                    </h2>
+                    <span class="subtitle-one">Core features</span>
+                    <h2>Optimize Logistics with Courier Aggregation Service</h2>
                 </div>
             </div>
-            <div class="row align-items-center justify-content-center">
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-global-network"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Centralized Courier Management</h4>
-                                    <p>Manage all courier partners and deliveries from one unified platform.
-                                    </p>
-                                </div>
-                            </div>
+            <div class="row justify-content-center gy-4">
+                <!-- First Feature -->
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-global-network"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6 xl-mb-30">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-mobile-phone-1"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Automated Rate Comparison</h4>
-                                    <p>Instantly find the most cost-effective and fastest shipping option.
-                                    </p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Centralized Courier Management</h4>
+                            <p>Manage all courier partners and deliveries from one unified platform.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-7">
-                    <div class="services-image-wrapper">
-                        <img src="assets/img/service/services.png" alt="image">
+                <!-- Second Feature -->
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-mobile-phone-1"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Automated Rate Comparison</h4>
+                            <p>Instantly find the most cost-effective and fastest shipping option.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-idea"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Smart Route Optimization</h4>
-                                    <p>AI-driven planning to reduce delivery time and enhance efficiency.
-                                    </p>
-                                </div>
-                            </div>
+                <!-- Third Feature -->
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-idea"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-it"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Comprehensive Analytics & Insights
-                                    </h4>
-                                    <p>Track shipment performance, costs, and operational efficiency.
-                                    </p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Smart Route Optimization</h4>
+                            <p>AI-driven planning to reduce delivery time and enhance efficiency.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fourth Feature -->
+                <div class="col-xl-6 col-lg-6 col-md-12 mb-4">
+                    <div class="single-service d-flex align-items-start">
+                        <div class="services__one-single-service-icon me-3">
+                            <i class="flaticon-it"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Comprehensive Analytics & Insights</h4>
+                            <p>Track shipment performance, costs, and operational efficiency.</p>
                         </div>
                     </div>
                 </div>
@@ -226,20 +191,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Services Area End -->
 
     <!-- Work process Area Start -->
-    <!-- <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
+    <div class="work-process-area__one section-padding" style="background-image: url(assets/img/work-process/work-process-bg.png);">
         <div class="container">
             <div class="row align-items-end work-process-area__one-title">
                 <div class="col-xl-7 col-lg-7">
                     <div class="work-process-area__one-content-left">
-                        <span class="subtitle-one">Work Process</span>
-                        <h2>Effortless Courier Aggregation workflow
-                        </h2>
+                        <span class="subtitle-one">Work process</span>
+                        <h2>Effortless Courier Aggregation workflow</h2>
                     </div>
                 </div>
                 <div class="col-xl-4 offset-xl-1 col-lg-4 offset-lg-1">
                     <div class="work-process-area__one-content-right">
-                        <p>Courier Aggregation Service integrates all your couriers on one platform, optimizing delivery with AI-driven allocation and real-time tracking for faster, cost-effective logistics.
-                        </p>
+                        <p>Courier Aggregation Service integrates all your couriers on one platform, optimizing delivery with AI-driven allocation and real-time tracking for faster, cost-effective logistics.</p>
                     </div>
                 </div>
             </div>
@@ -248,27 +211,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="work-process-area__one-single-work">
                         <span>01</span>
                         <div class="work-process-area__one-single-work-content">
-                            <h4>Unified Carrier Selection & Setup
-                            </h4>
-                            <p>seamless Courier Aggregation Service, you can manage multiple shipping providers effortlessly, simplifying your operations.
-                            </p>
+                            <h4>Unified Carrier Selection & Setup</h4>
+                            <p>With our seamless Courier Aggregation Service, you can manage multiple shipping providers effortlessly, simplifying your operations.</p>
                         </div>
                     </div>
                     <div class="work-process-area__one-single-work">
                         <span>02</span>
                         <div class="work-process-area__one-single-work-content">
-                            <h4>AI-Driven Smart Order Allocation
-                            </h4>
-                            <p>AI-driven order allocation not only saves you money but also enhances customer satisfaction by ensuring timely deliveries.
-                            </p>
+                            <h4>AI-Driven Smart Order Allocation</h4>
+                            <p>AI-driven order allocation not only saves you money but also enhances customer satisfaction by ensuring timely deliveries.</p>
                         </div>
                     </div>
                     <div class="work-process-area__one-single-work">
                         <span>03</span>
                         <div class="work-process-area__one-single-work-content">
-                            <h4> Real-Time Shipment Tracking & Updates</h4>
-                            <p>Stay on top of your shipments with real-time tracking across different courier networks. With live updates, you’ll never lose sight of a package.
-                            </p>
+                            <h4>Real-Time Shipment Tracking & Updates</h4>
+                            <p>Stay on top of your shipments with real-time tracking across different courier networks. With live updates, you’ll never lose sight of a package.</p>
                         </div>
                     </div>
                 </div>
@@ -288,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- Work process Area End -->
 
     <!-- FAQ Area Start -->
@@ -299,7 +257,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

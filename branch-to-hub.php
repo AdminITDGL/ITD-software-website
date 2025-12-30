@@ -40,16 +40,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-5">
                     <div class="about__one-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <i class="flaticon-consultant"></i>
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4 >8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Experience</span>
-                            </div>
-                        </div>
                         <div class="about__one-image-wrapper">
                             <img src="assets/img/about/about-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-2.png" alt="" class="image-2">
@@ -101,7 +91,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-7 col-md-9">
                     <div class="why-choose-us__one-left">
                         <div class="why-choose-us__one-title">
-                            <span class="subtitle-one">Why Chose Us</span>
+                            <span class="subtitle-one">Why Choose Us</span>
                             <h2>Logistics That Move as Fast as You Do
                             </h2>
                             <p>From pickup to handover, your teams can view, update, and manage all branch-to-hub movement in one place—fully trackable.
@@ -154,68 +144,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row justify-content-center text-center">
                 <div class="col-xl-7 col-lg-7 col-md-9 services__one-title">
                     <span class="subtitle-one">Core Features</span>
-                    <h2>Effortless Branch-to-Hub Transfers in 3 Steps
-                    </h2>
+                    <h2>Effortless Branch-to-Hub Transfers in 3 Steps</h2>
                 </div>
             </div>
-            <div class="row align-items-center justify-content-center">
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-global-network"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Automated Transfer Processing</h4>
-                                    <p>Minimize manual input with system-driven transfer management</p>
-                                </div>
-                            </div>
+            <!-- Two-row grid, no central image -->
+            <div class="row justify-content-center gy-4">
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-global-network"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6 xl-mb-30">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-mobile-phone-1"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Real-Time Visibility</h4>
-                                    <p> Track shipments from branch to hub with live status updates.
-                                    </p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Automated Transfer Processing</h4>
+                            <p>Minimize manual input with system-driven transfer management</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-7">
-                    <div class="services-image-wrapper">
-                        <img src="assets/img/service/services.png" alt="image">
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-mobile-phone-1"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Real-Time Visibility</h4>
+                            <p>Track shipments from branch to hub with live status updates.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-3">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-idea"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Optimized Routing & Scheduling</h4>
-                                    <p>Smart algorithms ensure cost-effective and timely deliveries.
-                                    </p>
-                                </div>
-                            </div>
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-idea"></i>
                         </div>
-                        <div class="col-xl-12 col-md-6">
-                            <div class="single-service">
-                                <div class="services__one-single-service-icon">
-                                    <i class="flaticon-it"></i>
-                                </div>
-                                <div class="services__one-single-service-content">
-                                    <h4>Seamless System Integration</h4>
-                                    <p>Easily connects with existing logistics software for smooth operations.
-                                    </p>
-                                </div>
-                            </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Optimized Routing & Scheduling</h4>
+                            <p>Smart algorithms ensure cost-effective and timely deliveries.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="single-service">
+                        <div class="services__one-single-service-icon">
+                            <i class="flaticon-it"></i>
+                        </div>
+                        <div class="services__one-single-service-content">
+                            <h4>Seamless System Integration</h4>
+                            <p>Easily connects with existing logistics software for smooth operations.</p>
                         </div>
                     </div>
                 </div>
@@ -298,7 +272,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">
@@ -315,50 +289,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 				<div class="col-xl-6">
 					<div class="faq-collapse">
+
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card active">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can transfers be auto-scheduled based on parcel volume?</h6>
+									<h6>What is Branch to Hub Transfer Management</h6>
 									<i class="fas fa-minus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content active">
-									<p>Yes, the system can trigger transfers automatically when parcel count or weight reaches a predefined threshold.</p>
+									<p>
+										It is a system that manages and tracks the movement of shipments from branch locations to central hubs in an organized and automated way.
+									</p>
 								</div>
 							</div>
 						</div>
+						
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>How are delays or transit issues flagged?</h6>
+									<h6>How does real time tracking help</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
 								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Any deviation in schedule or missing scan triggers a real-time alert visible to both the source branch and the hub.</p>
+									<p>
+										Real time tracking gives full visibility of shipments, reduces errors, and helps teams respond quickly if there is any delay or issue.
+									</p>
 								</div>
 							</div>
 						</div>
+
 						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6>Can I monitor the live location of transfer vehicles?</h6>
+									<h6>Can this system work with existing software</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
-								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>If GPS is integrated, the platform displays real-time vehicle tracking during branch-to-hub movement.</p>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>
+										Yes, the solution easily integrates with existing logistics and courier management systems without disturbing current operations.
+									</p>
 								</div>
 							</div>
 						</div>
-                        <div class="faq-collapse-item">
+
+						<div class="faq-collapse-item">
 							<div class="faq-collapse-item-card">
 								<div class="faq-collapse-item-card-header">
-									<h6 Are transfer manifests generated automatically?</h6>
+									<h6>Is the solution suitable for growing businesses</h6>
 									<i class="fas fa-plus-circle"></i>
 								</div>
-								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Yes, as parcels are scanned for dispatch, a transfer manifest is auto-generated and shared with the hub.</p>
+								<div class="faq-collapse-item-card-header-content display-none">
+									<p>
+										Yes, it is scalable and can adapt as your business grows, handling higher shipment volumes smoothly.
+									</p>
 								</div>
 							</div>
 						</div>
+
 					</div>	
 				</div>
 			</div>

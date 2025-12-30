@@ -56,16 +56,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
                     <div class="about__one-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <i class="flaticon-consultant"></i>
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4 >8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Experience</span>
-                            </div>
-                        </div>
                         <div class="about__one-image-wrapper">
                             <img src="assets/img/about/about-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-2.png" alt="" class="image-2">
@@ -156,15 +146,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6">
                     <div class="work-process-area__one-right-img">
                         <img src="assets/img/work-process/work-process-1.png" alt="image">
-                    </div>
-                    <div class="work-process-area__one-right-counter-img">
-                        <div class="img-counter">
-                            <div class="counter-only">
-                                <h2>8+</h2>
-                            </div>
-                            <span>years of experiences</span>
-                        </div>
-                        <img src="assets/img/work-process/work-process-2.png" alt="image">
                     </div>
                 </div>
             </div>

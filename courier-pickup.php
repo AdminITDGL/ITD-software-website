@@ -59,36 +59,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- About Area Start -->
 	<div class="about__five section-padding" style="background-image: url(assets/img/about/about-five-bg.png);">
 
-		<!-- Brand Area Start -->
-		<div class="brand__area mb-120">
-			<div class="container">
-				<div class="row brand__area-border">
-					<div class="col-xl-12">
-						<div class="swiper brand__slider">
-							<div class="swiper-wrapper">
-								<div class="brand__area-item swiper-slide">
-									<img src="assets/img/brand/brand-1.png" alt="image">
-								</div>
-								<div class="brand__area-item swiper-slide">
-									<img src="assets/img/brand/brand-2.png" alt="image">
-								</div>
-								<div class="brand__area-item swiper-slide">
-									<img src="assets/img/brand/brand-3.png" alt="image">
-								</div>
-								<div class="brand__area-item swiper-slide">
-									<img src="assets/img/brand/brand-4.png" alt="image">
-								</div>
-								<div class="brand__area-item swiper-slide">
-									<img src="assets/img/brand/brand-5.png" alt="image">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Brand Area End -->	
-
 		<div class="container">
 			<div class="row align-items-center flex-wrap-reverse gy-4">
 				<div class="col-xl-6 col-lg-8">
@@ -213,9 +183,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Automated Pickup Scheduling</h4>
 							<p>This allows efficiency for customers and businesses to schedule pickups easily.
                             </p>
-							<a href="#" class="btn-three">view details
-								<i class="fas fa-arrow-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -226,10 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="services__five-single-service-content">
 							<h4>Pickup Tracking</h4>
-							<p>Pickup Tracking enhances transparency to customers by providing live updates on courier pickup status.</p>
-							<a href="#" class="btn-three">view details
-								<i class="fas fa-arrow-right"></i>
-							</a>
+							<p>Pickup Tracking to customers by providing live updates on courier pickup.</p>
 						</div>
 					</div>
 				</div>
@@ -241,9 +205,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__five-single-service-content">
 							<h4>Route Optimization for Pickups</h4>
 							<p>Reduces costs and delivery times by using AI-driven route planning.</p>
-							<a href="#" class="btn-three">view details
-								<i class="fas fa-arrow-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -265,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-xl-5 col-lg-7 col-md-9">
 					<div class="why-choose-us__four-left">
 						<div class="why-choose-us__four-title">
-							<span class="subtitle-one">Why Chose Us</span>
+							<span class="subtitle-one">Why Choose Us</span>
 							<h2>Efficiency & Trust in Every Pickup</h2>
 							<p>We ensure you to Experience fast, reliable, and efficient courier pickups with our smart and seamless management system
                             </p>
@@ -299,7 +260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

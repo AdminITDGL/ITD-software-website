@@ -37,15 +37,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row align-items-center flex-wrap-reverse gy-4">
                 <div class="col-xl-6 col-lg-8">
                     <div class="about__four-image">
-                        <div class="experience-bar animate-y-axis-slider">
-                            <div class="experience-bar-right">
-                                <div class="experience-bar-counter">
-                                    <h4>8</h4>
-                                    <span>+</span>
-                                </div>
-                                <span>Years Of Experience</span>
-                            </div>
-                        </div>
                         <div class="about__four-image-wrapper">
                             <img src="assets/img/about/about-four-1.png" alt="" class="image-1">
                             <img src="assets/img/about/about-four-2.png" alt="" class="image-2">
@@ -75,7 +66,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </span>
                             </div>
                         </div>
-                        <a href="about.php" class="btn-one">Get started
+                        <a href="contact.php" class="btn-one">Know More
                             <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -102,11 +93,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <i class="flaticon-software-development"></i>
                         </div>
                         <div class="services__four-single-service-content">
+                            <h4>Custom Invoices</h4>
+                            <p>Tailor invoices for branding and client satisfaction.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6">
+                    <div class="services__four-single-service">
+                        <div class="services__four-single-service-icon">
+                            <i class="flaticon-mobile-app"></i>
+                        </div>
+                        <div class="services__four-single-service-content">
                             <h4>Global Support</h4>
-                            <p>Manage multiple currencies, tax settings & languages for seamless international billing.</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <p>Handle multiple currencies and languages effortlessly.</p>
                         </div>
                     </div>
                 </div>
@@ -117,25 +116,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="services__four-single-service-content">
                             <h4>Auto Reminders</h4>
-                            <p>Send scheduled payment reminders to reduce delays & improve cash flow.</p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <p>Send automated payment reminders, overdue notices.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="services__four-single-service">
                         <div class="services__four-single-service-icon">
-                            <i class="flaticon-mobile-app"></i>
+                            <i class="flaticon-data-scientist"></i>
                         </div>
                         <div class="services__four-single-service-content">
                             <h4>Detailed Reports</h4>
-                            <p> detail  reports on revenue, expenses, and transactions.
-                            </p>
-                            <a href="#" class="btn-three">read more
-                                <i class="fas fa-chevron-right"></i>
-                            </a>
+                            <p>Detailed reports on revenue, expenses, and transactions.</p>
                         </div>
                     </div>
                 </div>
@@ -151,30 +143,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-xl-6 col-lg-6 col-md-10">
                     <div class="why-choose-us__three-left">
                         <div class="why-choose-us__three-title">
-                            <span class="subtitle-one">Why Chose Us</span>
-                            <h2>Smarter Billing. Stronger Control.
-                            </h2>
-                            <p>Gain full visibility and control over your courier finances with centralized systems, real-time tracking, and detailed financial insights.
+                            <span class="subtitle-one">Why Choose Us</span>
+                            <h2>Next-Level Customized Billing &amp; Invoicing</h2>
+                            <p>
+                                Our Customized Billing &amp; Invoicing solution handles every aspect of your courier company’s billing process, from generating invoices to tracking payments.
                             </p>
-                        </div>
-                        <div class="why-choose-us__three-bottom">
-                            <div class="why-choose-us__three-bottom-card">
-                                <div class="why-choose-us__three-bottom-card-content">
-                                    <i class="flaticon-web-research"></i>
-                                    <h4>Orders Processed Successfully</h4>
-                                </div>
-                                <div class="why-choose-us__three-bottom-card-counter">
-                                    <h4 >250</h4>
-                                    <h4>k+</h4>
-                                </div>
-                            </div>
-                            
+                            <ul>
+                                <li><strong>1. Boost Efficiency with Automation</strong><br>
+                                    Our platform automates billing workflows, reducing manual effort and ensuring faster, more accurate invoicing.
+                                </li>
+                                <li><strong>2. End-to-End System Integration</strong><br>
+                                    Easily integrate with your current operations to unify all processes and maintain real-time updates across systems, making your business more cohesive.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-10">
                     <div class="why-choose-us__three-image">
-                        <img src="assets/img/why-choose-us/why-choose-2.png" alt="" class="why-choose-us__three-floating-image animate-y-axis-slider">
                         <img src="assets/img/why-choose-us/why-choose.png" alt="image">
                     </div>
                 </div>
@@ -191,7 +177,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="faq__two-title">
 						<span class="subtitle-one">Ask Question</span>
 						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company  providing man or objective insights, identifying areas for improv  streamlining processes, developing strategies for grow</p>
+						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
 					</div>
 					<div class="award">
 						<div class="award-wrapper">

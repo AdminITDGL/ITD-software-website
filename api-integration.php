@@ -71,9 +71,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="services__three-single-service-content">
 							<h4>Global Software Compatibility:</h4>
 							<p>Integrates easily with courier software, CRMs, ERPs, and e-commerce platforms.</p>
-							<a href="#" class="btn-three">Read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -86,9 +83,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Advanced Security Measures</h4>
 							<p>Uses encryption, token-based authentication, and access controls.
                             </p>
-							<a href="#" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -101,9 +95,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h4>Fast Implementation
                             </h4>
 							<p>Completed in a few days or weeks based on complexity, with full support from our team.</p>
-							<a href="about.php" class="btn-three">read more
-								<i class="fas fa-chevron-right"></i>
-							</a>
 						</div>
 					</div>
 				</div>
@@ -145,10 +136,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="col-xl-6 col-lg-6 col-md-9">
 					<div class="about__three-right">
 						<div class="row align-items-center">
-							<div class="about__three-right-counter">
-								<h4 >8</h4>
-								<span>Years Of experience</span>								
-							</div>
 							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6">
 								<div class="about__three-right-image-left-side">
 									<img src="assets/img/about/about-three.png" alt="image">
