@@ -3172,8 +3172,8 @@ p {
     font-size: 18px;
     margin-right: 27px;
     text-transform: lowercase;
-    color: var(--text-heading-color);
-    color: var(--text-white);
+    color: var(--text-heading-color) !important;
+    color: var(--text-white) !important;
 }
 
 .top__bar-left a i {
