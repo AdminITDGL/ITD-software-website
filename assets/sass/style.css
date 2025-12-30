@@ -11425,7 +11425,7 @@ p {
 }
 
 .footer__contact-details a {
-    color: var(--text-white);
+    color: var(--text-white) !important;
     font-size: 18px;
     font-weight: 600;
     display: block;

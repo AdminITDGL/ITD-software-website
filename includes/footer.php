@@ -7,7 +7,7 @@
               <div class="row align-items-center gy-4">
                   <div class="col-xl-3 col-lg-4 col-md-6">
                       <div class="footer__logo-info">
-                          <a href="index.php"><img src="assets/img/logo-2.png" alt="ITD Software"></a>
+                          <a href="index.php"><img src="assets/img/logo-3.png" alt="ITD Software"></a>
                           <p>Deliver faster. Manage better. Track smarter. ITD Services offers comprehensive courier and logistics software solutions.</p>
                       </div>
                   </div>
@@ -47,7 +47,7 @@
                   <div class="col-xl-3 col-lg-4 col-md-12">
                       <div class="footer__social-section">
                           <h4>Quick Links</h4>
-                          <div class="">
+                          <div class="footer__contact-details">
                               <ul>
                                   <li><a href="about.php"><i class="far fa-chevron-double-right"></i>About Us</a></li>
                                   <li><a href="blog.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>

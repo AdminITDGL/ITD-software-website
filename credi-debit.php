@@ -163,7 +163,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 col-md-10">
                     <div class="why-choose-us__three-image">
-                        <img src="assets/img/why-choose-us/why-choose-2.png" alt="" class="why-choose-us__three-floating-image animate-y-axis-slider">
                         <img src="assets/img/why-choose-us/why-choose.png" alt="image">
                     </div>
                 </div>
