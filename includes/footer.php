@@ -39,7 +39,7 @@
                           <p>Connect with us for the latest updates and news</p>
                           <div class="footer__two-widget-social">
                               <ul>
-                                  <li><a href="https://www.linkedin.com" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
+                                  <li><a href="https://www.linkedin.com/company/itd-services-pvt-ltd/" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a></li>
                               </ul>
                           </div>
                       </div>
