@@ -945,7 +945,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h2>Courier Management and Logistics Software in <span>India</span></h2>
                         <p>ITD provides simple courier and logistics software that helps manage fast and smooth delivery operations across India.
                         </p>
-                        <a href="../contact.php" class="btn-two">Contact Now
+                        <p><span class="highlighted-two text-bold">Reduce RTO by 25% with our AI-powered courier tracking software.</span></p>
+                        <a href="https://wa.me/919769591364" target="_blank" class="btn-two">Talk to an Expert
 							<i class="fas fa-arrow-right"></i>
 						</a>
                     </div>
@@ -967,10 +968,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <input type="text" id="full_name" name="name" required placeholder="Enter your full name" minlength="2">
                                 </div>
                                 <div class="form-group">
-                                    <label for="company_name">Company Name <span class="required">*</span></label>
-                                    <input type="text" id="company_name" name="company" required placeholder="Enter your company name" minlength="2">
-                                </div>
-                                <div class="form-group">
                                     <label for="email_address">Email Address <span class="required">*</span></label>
                                     <input type="email" id="email_address" name="email" required placeholder="Enter your email address">
                                 </div>
@@ -979,7 +976,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <input type="tel" id="phone_number" name="phone" required placeholder="Enter your phone number" pattern="[0-9\s\-\+\(\)]{10,}">
                                 </div>
                                 <div class="form-group">
-                                    <button type="submit" class="btn-form-submit">Submit Request <i class="fas fa-arrow-right"></i></button>
+                                    <button type="submit" class="btn-form-submit">Get a Free Demo <i class="fas fa-arrow-right"></i></button>
                                 </div>
                             </form>
                         </div>

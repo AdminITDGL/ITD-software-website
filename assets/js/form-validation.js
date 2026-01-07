@@ -328,7 +328,6 @@
         // Name validation - check by name attribute or id containing "name"
         const fieldName = field.getAttribute('name') || field.getAttribute('id') || '';
         const isNameField = fieldName.toLowerCase().includes('name') && 
-                           !fieldName.toLowerCase().includes('company') &&
                            !fieldName.toLowerCase().includes('subject');
         
         if (isNameField && fieldType === 'text' && value) {
@@ -352,7 +351,7 @@
             }
         }
 
-        // Text validation (company, subject - not name)
+        // Text validation (subject - not name)
         if (fieldType === 'text' && value && !isNameField) {
             const minLength = field.getAttribute('minlength');
             if (minLength && parseInt(minLength) > 0) {
@@ -871,7 +870,6 @@
                 const fieldName = field.getAttribute('name') || field.getAttribute('id') || '';
                 const isNameField = fieldType === 'text' && 
                                   fieldName.toLowerCase().includes('name') && 
-                                  !fieldName.toLowerCase().includes('company') &&
                                   !fieldName.toLowerCase().includes('subject');
                 const isPhoneField = fieldType === 'tel' || 
                                    (fieldType === 'text' && fieldName.toLowerCase().includes('phone'));
