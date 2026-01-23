@@ -79,7 +79,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Because Web3Forms free tier blocks server-side submissions, post from the browser.
         $web3Payload = [
-            'access_key'    => 'd62e9473-13d3-4a7c-8c04-113d18e3bbab',
+            'access_key'    => 'b409ebca-4b48-47dc-bdb3-2dd579ba4d92',
             'subject'       => 'New Contact Form Submission - ITD Services',
             'from_name'     => 'ITD Services Contact Form',
             'to'            => 'support@itdservices.in',
