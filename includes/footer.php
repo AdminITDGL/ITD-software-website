@@ -159,6 +159,13 @@
                                   </div>
                                   <span>Bahrain</span>
                               </a>
+                              <a href="location/courier-logistics-software.php." class="footer__location-link">
+                                  <div class="footer__location-icon">
+                                      <i class="flaticon-location"></i>
+                                  </div>
+                                  <span>Courier Logistics Software</span>
+                              </a>
+                              
                           </div>
                       </div>
                   </div>

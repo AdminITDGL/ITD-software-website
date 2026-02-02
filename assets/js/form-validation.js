@@ -496,7 +496,8 @@
                     'UK': 'thank-you-uk.php',
                     'Qatar': 'thank-you-qatar.php',
                     'Bahrain': 'thank-you-bahrain.php',
-                    'Saudi Arabia': 'thank-you-saudi-arabia.php'
+                    'Saudi Arabia': 'thank-you-saudi-arabia.php',
+                    'Courier Logistics Software': 'thank-you-courier-logistics-software.php'
                 };
                 
                 // Determine redirect path
