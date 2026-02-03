@@ -63,7 +63,7 @@
                         $('.trusted-clients__item').addClass('animate-fade-in');
                     }
                 }
-            });            
+            });                
             if (typeof $.fn.appear !== 'undefined') {
                 $('.trusted-clients__item').appear(function() {
                     $(this).addClass('animate-fade-in');
@@ -73,6 +73,41 @@
                 });
             }
         })(jQuery);
+    </script>
+    <script>
+        var provenProcessSwiper = new Swiper(".proven-process-swiper", {                    
+            loop: true,
+            speed: 1500,
+            slidesPerView: 1,
+            spaceBetween: 0,
+            autoplay: {
+                delay: 1000,
+                disableOnInteraction: false,
+                pauseOnMouseEnter: true,
+            },
+            pagination: {
+                el: ".proven-process-pagination",
+                clickable: true
+            },
+            navigation: {
+                nextEl: ".proven-process-next",
+                prevEl: ".proven-process-prev"
+            },
+            breakpoints: {
+                1200: {
+                    slidesPerView: 4
+                },
+                992: {
+                    slidesPerView: 3
+                },
+                768: {
+                    slidesPerView: 2
+                },
+                0: {
+                    slidesPerView: 1
+                }
+            },
+        });
     </script>
 </body>
 

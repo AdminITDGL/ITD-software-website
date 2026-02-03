@@ -1217,7 +1217,7 @@
 
     <!-- Banner Area Start -->
     <div class="banner__one">
-        <div class="banner-shape">
+        <div class="banner-shape d-none d-lg-block">
             <div class="shape banner-shape-1"></div>
             <div class="shape banner-shape-2"></div>
             <div class="shape banner-shape-3"></div>
@@ -1377,52 +1377,62 @@
                     </div>
                 </div>
             </div>
-            <div class="why-choose-section__grid">
-                <div class="why-choose-section__item animate-y-axis-slider">
-                    <div class="why-choose-section__item-icon">
-                        <i class="flaticon-global-network"></i>
-                    </div>
-                    <div class="why-choose-section__item-content">
-                        <h4>All-Inclusive Logistics & Courier Technology</h4>
-                        <p>From pickup scheduling to delivery tracking, billing, and customer notifications - manage your full logistics workflow from one platform.</p>
-                    </div>
-                </div>
-                <div class="why-choose-section__item animate-y-axis-slider">
-                    <div class="why-choose-section__item-icon">
-                        <i class="flaticon-mobile-phone-1"></i>
-                    </div>
-                    <div class="why-choose-section__item-content">
-                        <h4>Smart, Scalable & Customizable</h4>
-                        <p>Solutions built to grow with your business - customizable software designed specifically for courier, logistics, and eCommerce delivery operations.</p>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="what-we-offer__item animate-y-axis-slider">
+                        <div class="what-we-offer__item-icon">
+                            <i class="flaticon-global-network"></i>
+                        </div>
+                        <div class="what-we-offer__item-content">
+                            <h4>All-Inclusive Logistics & Courier Technology</h4>
+                            <p>From pickup scheduling to delivery tracking, billing, and customer notifications - manage your full logistics workflow from one platform.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="why-choose-section__item animate-y-axis-slider">
-                    <div class="why-choose-section__item-icon">
-                        <i class="flaticon-web-research"></i>
+                <!-- <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="what-we-offer__item animate-y-axis-slider">
+                        <div class="what-we-offer__item-icon">
+                            <i class="flaticon-mobile-phone-1"></i>
+                        </div>
+                        <div class="what-we-offer__item-content">
+                            <h4>Smart, Scalable & Customizable</h4>
+                            <p>Solutions built to grow with your business - customizable software designed specifically for courier, logistics, and eCommerce delivery operations.</p>
+                        </div>
                     </div>
-                    <div class="why-choose-section__item-content">
-                        <h4>Advanced Tracking & Analytics</h4>
-                        <p>Real-time shipment tracking, automated updates, advanced analytics, and centralized control help reduce delays and improve customer experience.</p>
-                    </div>
-                </div>
-                <div class="why-choose-section__item animate-y-axis-slider">
-                    <div class="why-choose-section__item-icon">
-                        <i class="flaticon-good-feedback"></i>
-                    </div>
-                    <div class="why-choose-section__item-content">
-                        <h4>Customized Billing & Invoicing</h4>
-                        <p>Flexible billing solutions tailored to your business needs - automate invoices, manage client-wise pricing, taxes, COD, and generate accurate reports with ease, all from one centralized system.</p>
-                    </div>
-                </div>
-                <div class="why-choose-section__item animate-y-axis-slider">
-                    <div class="why-choose-section__item-icon">
-                        <i class="flaticon-idea"></i>
-                    </div>
-                    <div class="why-choose-section__item-content">
-                        <h4>Seamless & Customizable Label Creation</h4>
-                        <p>Automatically create carrier-compliant shipping labels and barcodes with custom branding, reducing errors and speeding up dispatch.</p>
+                </div> -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="what-we-offer__item animate-y-axis-slider">
+                        <div class="what-we-offer__item-icon">
+                            <i class="flaticon-web-research"></i>
+                        </div>
+                        <div class="what-we-offer__item-content">
+                            <h4>Advanced Tracking & Analytics</h4>
+                            <p>Real-time shipment tracking, automated updates, advanced analytics, and centralized control help reduce delays and improve customer experience.</p>
+                        </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="what-we-offer__item animate-y-axis-slider">
+                        <div class="what-we-offer__item-icon">
+                            <i class="flaticon-good-feedback"></i>
+                        </div>
+                        <div class="what-we-offer__item-content">
+                            <h4>Customized Billing & Invoicing</h4>
+                            <p>Flexible billing solutions tailored to your business needs - automate invoices, manage client-wise pricing, taxes, COD, and generate accurate reports with ease, all from one centralized system.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="what-we-offer__item animate-y-axis-slider">
+                        <div class="what-we-offer__item-icon">
+                            <i class="flaticon-idea"></i>
+                        </div>
+                        <div class="what-we-offer__item-content">
+                            <h4>Seamless & Customizable Label Creation</h4>
+                            <p>Automatically create carrier-compliant shipping labels and barcodes with custom branding, reducing errors and speeding up dispatch.</p>
+                        </div>
+                    </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -1628,15 +1638,21 @@
     <!-- Proven Process Area Start -->
     <style>
         .process-track {
-            padding: 40px 0
+            padding: 40px 68px;
+            position: relative;
+            overflow: visible
         }
 
-        .process-row {
+        .proven-process-swiper {
+            overflow: hidden;
+            padding: 20px 0
+        }
+
+        .proven-process-swiper .swiper-slide {
             display: flex;
-            align-items: center;
             justify-content: center;
-            flex-wrap: nowrap;
-            gap: 15px
+            align-items: center;
+            height: auto
         }
 
         .process-hexagon {
@@ -1750,6 +1766,14 @@
             color: #fff;
         }
 
+        .process-slide-inner {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            width: 100%
+        }
+
         .process-connector {
             text-align: center;
             color: var(--primary-color-1);
@@ -1757,6 +1781,68 @@
             opacity: .6;
             flex-shrink: 0;
             margin: 0 5px
+        }
+
+        .proven-process-swiper .process-slide-last .process-connector {
+            display: none
+        }
+
+        .proven-process-prev,
+        .proven-process-next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--primary-color-1);
+            width: 48px;
+            height: 48px;
+            background: #fff;
+            border-radius: 50%;
+            box-shadow: 0 2px 15px rgba(0,0,0,.12);
+            transition: all .3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+            cursor: pointer;
+            margin-top: 10px
+        }
+
+        .proven-process-prev {
+            left: 15px;
+            right: auto
+        }
+
+        .proven-process-next {
+            right: 15px;
+            left: auto
+        }
+
+        .proven-process-prev::after,
+        .proven-process-next::after {
+            content: none
+        }
+
+        .proven-process-prev i,
+        .proven-process-next i {
+            font-size: 18px
+        }
+
+        .proven-process-prev:hover,
+        .proven-process-next:hover {
+            background: var(--primary-color-1);
+            color: #fff
+        }
+
+        .proven-process-pagination .swiper-pagination-bullet {
+            background: var(--primary-color-1);
+            opacity: .4;
+            width: 10px;
+            height: 10px
+        }
+
+        .proven-process-pagination .swiper-pagination-bullet-active {
+            opacity: 1;
+            transform: scale(1.2)
         }
 
         @media (max-width:1199px) {
@@ -1780,14 +1866,11 @@
 
         @media (max-width:991px) {
             .process-track {
-                overflow-x: auto;
-                padding: 30px 0
+                padding: 30px 58px
             }
 
-            .process-row {
-                min-width: 1100px;
-                justify-content: flex-start
-            }
+            .proven-process-prev { left: 12px }
+            .proven-process-next { right: 12px }
 
             .process-hexagon {
                 width: 150px;
@@ -1811,15 +1894,21 @@
                 font-size: 11px
             }
 
-            .process-connector {
-                font-size: 20px
-            }
         }
 
         @media (max-width:767px) {
-            .process-row {
-                min-width: 1000px
+            .process-track {
+                padding: 30px 52px
             }
+
+            .proven-process-prev,
+            .proven-process-next {
+                width: 42px;
+                height: 42px
+            }
+
+            .proven-process-prev { left: 10px }
+            .proven-process-next { right: 10px }
 
             .process-hexagon {
                 width: 140px;
@@ -1838,10 +1927,6 @@
             .hexagon-content p {
                 font-size: 10px
             }
-
-            .process-connector {
-                font-size: 18px
-            }
         }
     </style>
     <div class="proven-process__area section-padding">
@@ -1856,62 +1941,89 @@
                 </div>
             </div>
             <div class="process-track">
-                <div class="process-row">
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">01</div><i class="fas fa-search"></i>
-                            <h5>Understand Your Needs</h5>
-                            <!-- <p>Requirement analysis & strategy</p> -->
+                <div class="swiper-button-prev proven-process-prev"><i class="fas fa-arrow-left"></i></div>
+                <div class="swiper-button-next proven-process-next"><i class="fas fa-arrow-right"></i></div>
+                <div class="swiper proven-process-swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">01</div><i class="fas fa-search"></i>
+                                        <h5>Understand Your Needs</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
+                                        <h5>Develop & Integrate</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">03</div><i class="fas fa-code"></i>
+                                        <h5>Data-Driven Insights</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">04</div><i class="fas fa-bug"></i>
+                                        <h5>Automation & Efficiency</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">05</div><i class="fas fa-rocket"></i>
+                                        <h5>Support & Scale</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">06</div><i class="fas fa-headset"></i>
+                                        <h5>Future-Proof Solutions</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="process-slide-inner">
+                                <div class="process-hexagon">
+                                    <div class="hexagon-content">
+                                        <div class="step-number">07</div><i class="fas fa-headset"></i>
+                                        <h5>User-Friendly Experience</h5>
+                                    </div>
+                                </div>
+                                <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
+                            </div>
                         </div>
                     </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">02</div><i class="fas fa-pencil-ruler"></i>
-                            <h5>Develop & Integrate</h5>
-                            <!-- <p>UI/UX & wireframes</p> -->
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">03</div><i class="fas fa-code"></i>
-                            <h5>Data-Driven Insights</h5>
-                            <!-- <p>Agile development</p> -->
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">04</div><i class="fas fa-bug"></i>
-                            <h5>Automation & Efficiency</h5>
-                            <!-- <p>QA & security</p> -->
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">05</div><i class="fas fa-rocket"></i>
-                            <h5>Support & Scale</h5>
-                            <!-- <p>Deployment</p> -->
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">06</div><i class="fas fa-headset"></i>
-                            <h5>Future-Proof Solutions</h5>
-                            <!-- <p>Maintenance & growth</p> -->
-                        </div>
-                    </div>
-                    <div class="process-connector"><i class="fas fa-arrow-right"></i></div>
-                    <div class="process-hexagon">
-                        <div class="hexagon-content">
-                            <div class="step-number">07</div><i class="fas fa-headset"></i>
-                            <h5>User-Friendly Experience</h5>
-                            <!-- <p>Maintenance & growth</p> -->
-                        </div>
-                    </div>
+                    <div class="swiper-pagination proven-process-pagination"></div>
                 </div>
             </div>
         </div>
