@@ -12,8 +12,8 @@
     <!-- Title of Site -->
     <title>ITD Services: Best Courier Management Software</title>
 
-    <?php include('includes/header_script.php')?>
-    
+    <?php include('includes/header_script.php') ?>
+
     <style>
         /* Responsive Banner Height with Background Image */
         .banner__one {
@@ -25,7 +25,7 @@
             position: relative;
             min-height: 600px;
         }
-        
+
         .banner__one::before {
             content: '';
             position: absolute;
@@ -36,58 +36,62 @@
             /* background: linear-gradient(75deg, rgba(254, 254, 254, 0.15) 52%, rgba(244, 247, 251, 0.15) 48%); */
             z-index: 1;
         }
-        
+
         /* Ensure text is readable with darker background */
         .banner__one-content h2,
         .banner__one-content p {
             text-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
-        
-        .banner__one > * {
+
+        .banner__one>* {
             position: relative;
             z-index: 2;
         }
-        
+
         .banner__one-content {
             z-index: 3;
             text-align: left;
         }
-        
+
         /* Hide banner shapes */
         .banner__one .banner-shape {
             display: none;
         }
-        
+
         @media (max-width: 1399px) {
             .banner__one {
                 padding: 35px 0;
             }
         }
-        
+
         @media (max-width: 1199px) {
             .banner__one {
                 padding: 70px 0;
             }
         }
-        
+
         @media (max-width: 991px) {
             .banner__one {
                 padding: 60px 0;
             }
+
+            .banner__one {
+                background-image: unset;
+            }
         }
-        
+
         @media (max-width: 767px) {
             .banner__one {
                 padding: 50px 0;
             }
         }
-        
+
         @media (max-width: 575px) {
             .banner__one {
                 padding: 40px 0;
             }
         }
-        
+
         @media (max-width: 480px) {
             .banner__one {
                 padding: 35px 0;
@@ -98,11 +102,11 @@
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV2DXLX4"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV2DXLX4"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
-    <?php include('includes/header.php')?>
+    <?php include('includes/header.php') ?>
 
     <!-- Banner Area Start -->
     <div class="banner__one">
@@ -113,12 +117,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <span class="subtitle-one">Courier Management Software
                         </span>
                         <h2>Logistic Software
-                        <span>That Moves with <br>You</span></h2>
+                            <span>That Moves with <br>You</span>
+                        </h2>
                         <p>Plan routes, manage deliveries, track performance & more <br>with our services—automated tools built for modern courier businesses.
                         </p>
                         <a href="contact.php" class="btn-two">Contact Now
-							<i class="fas fa-arrow-right"></i>
-						</a>
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -127,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Banner Area End -->
 
     <!-- Brand Area Start -->
-    
+
     <!-- Brand Area End -->
 
     <!-- About Area Start -->
@@ -168,8 +173,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <a href="about.php" class="btn-one">Discover More
-							<i class="fas fa-arrow-right"></i>
-						</a>
+                            <i class="fas fa-arrow-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -343,79 +348,79 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- FAQ Area Start -->
     <div class="faq__two section-padding">
-		<div class="container">
-			<div class="row gy-4 align-items-center">
-				<div class="col-xl-6">
-					<div class="faq__two-title">
-						<span class="subtitle-one">Ask Question</span>
-						<h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
-						<p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
-					</div>
-					<div class="award">
-						<div class="award-wrapper">
-							<div class="award-icon">
-								<i class="fas fa-award"></i>
-							</div>
-							<div class="award-count">
-								<h3>20+</h3>
-							</div>
-							<span>Winning award</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-xl-6">
-					<div class="faq-collapse">
-						<div class="faq-collapse-item">
-							<div class="faq-collapse-item-card active">
-								<div class="faq-collapse-item-card-header">
-									<h6>Is your courier software suitable for small businesses as well as large enterprises?</h6>
-									<i class="fas fa-minus-circle"></i>
-								</div>
-								<div class="faq-collapse-item-card-header-content active">
-									<p>Yes, our courier management software is scalable and modular, making it ideal for businesses of all sizes—from local delivery startups to large-scale logistics enterprises.</p>
-								</div>
-							</div>
-						</div>
-						<div class="faq-collapse-item">
-							<div class="faq-collapse-item-card">
-								<div class="faq-collapse-item-card-header">
-									<h6>Can the software integrate with our existing tools like CRMs, ERPs, or ecommerce platforms?</h6>
-									<i class="fas fa-plus-circle"></i>
-								</div>
-								<div class="faq-collapse-item-card-header-content display-none">
-									<p>Absolutely. We offer custom API integrations that ensure seamless connectivity with your current systems, including CRMs, ERPs, eCommerce platforms, and accounting tools.</p>
-								</div>
-							</div>
-						</div>
-						<div class="faq-collapse-item">
-							<div class="faq-collapse-item-card">
-								<div class="faq-collapse-item-card-header">
-									<h6>How quickly can the software be implemented in our operations?</h6>
-									<i class="fas fa-plus-circle"></i>
-								</div>
-								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Implementation timelines vary based on complexity, but most clients are up and running within a few days to a few weeks, thanks to our streamlined deployment and dedicated onboarding support.</p>
-								</div>
-							</div>
-						</div>
+        <div class="container">
+            <div class="row gy-4 align-items-center">
+                <div class="col-xl-6">
+                    <div class="faq__two-title">
+                        <span class="subtitle-one">Ask Question</span>
+                        <h2>Unraveling IT <span class="highlighted-two">Complexities</span> FAQs</h2>
+                        <p>Business consulting services can benefit your company by providing many objective insights, identifying areas for improvement, streamlining processes, and developing strategies for growth.</p>
+                    </div>
+                    <div class="award">
+                        <div class="award-wrapper">
+                            <div class="award-icon">
+                                <i class="fas fa-award"></i>
+                            </div>
+                            <div class="award-count">
+                                <h3>20+</h3>
+                            </div>
+                            <span>Winning award</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="faq-collapse">
                         <div class="faq-collapse-item">
-							<div class="faq-collapse-item-card">
-								<div class="faq-collapse-item-card-header">
-									<h6>Do you offer real-time tracking and automated customer notifications?</h6>
-									<i class="fas fa-plus-circle"></i>
-								</div>
-								<div class="faq-collapse-item-card-header-content display-none">         
-									<p>Yes, our software provides live shipment tracking along with automated SMS, email, and app notifications, keeping both your team and customers updated at every step.</p>
-								</div>
-							</div>
-						</div>
-					</div>	
-				</div>
-			</div>
-		</div>
-	</div>
+                            <div class="faq-collapse-item-card active">
+                                <div class="faq-collapse-item-card-header">
+                                    <h6>Is your courier software suitable for small businesses as well as large enterprises?</h6>
+                                    <i class="fas fa-minus-circle"></i>
+                                </div>
+                                <div class="faq-collapse-item-card-header-content active">
+                                    <p>Yes, our courier management software is scalable and modular, making it ideal for businesses of all sizes—from local delivery startups to large-scale logistics enterprises.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="faq-collapse-item">
+                            <div class="faq-collapse-item-card">
+                                <div class="faq-collapse-item-card-header">
+                                    <h6>Can the software integrate with our existing tools like CRMs, ERPs, or ecommerce platforms?</h6>
+                                    <i class="fas fa-plus-circle"></i>
+                                </div>
+                                <div class="faq-collapse-item-card-header-content display-none">
+                                    <p>Absolutely. We offer custom API integrations that ensure seamless connectivity with your current systems, including CRMs, ERPs, eCommerce platforms, and accounting tools.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="faq-collapse-item">
+                            <div class="faq-collapse-item-card">
+                                <div class="faq-collapse-item-card-header">
+                                    <h6>How quickly can the software be implemented in our operations?</h6>
+                                    <i class="fas fa-plus-circle"></i>
+                                </div>
+                                <div class="faq-collapse-item-card-header-content display-none">
+                                    <p>Implementation timelines vary based on complexity, but most clients are up and running within a few days to a few weeks, thanks to our streamlined deployment and dedicated onboarding support.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="faq-collapse-item">
+                            <div class="faq-collapse-item-card">
+                                <div class="faq-collapse-item-card-header">
+                                    <h6>Do you offer real-time tracking and automated customer notifications?</h6>
+                                    <i class="fas fa-plus-circle"></i>
+                                </div>
+                                <div class="faq-collapse-item-card-header-content display-none">
+                                    <p>Yes, our software provides live shipment tracking along with automated SMS, email, and app notifications, keeping both your team and customers updated at every step.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- FAQ Area End -->
 
 
-<?php include('includes/footer.php')?>
-<?php include('includes/footer_script.php')?>
+    <?php include('includes/footer.php') ?>
+    <?php include('includes/footer_script.php') ?>

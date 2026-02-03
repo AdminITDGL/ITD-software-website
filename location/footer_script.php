@@ -31,57 +31,39 @@
     <script src="../assets/js/form-validation.js"></script>
     <!-- W3Forms Handler JS (Legacy) -->
     <script src="../assets/js/w3forms-handler.js"></script>
-    
-    <!-- Trusted Clients Carousel Initialization -->
     <script>
         (function($) {
             "use strict";
-            
-            // Initialize Trusted Clients Swiper Carousel
             var trustedClientsSwiper = new Swiper(".trusted-clients__slider", {
                 loop: true,
                 speed: 1500,
-                spaceBetween: 30,
+                slidesPerView: 4,
+                spaceBetween: 0,
                 autoplay: {
-                    delay: 3000,
+                    delay: 1000,
                     disableOnInteraction: false,
                     pauseOnMouseEnter: true,
                 },
                 breakpoints: {
-                    0: {
-                        slidesPerView: 2,
-                        spaceBetween: 15,
-                    },
-                    576: {
-                        slidesPerView: 3,
-                        spaceBetween: 20,
-                    },
-                    768: {
-                        slidesPerView: 4,
-                        spaceBetween: 25,
+                    1200: {
+                        slidesPerView: 4
                     },
                     992: {
-                        slidesPerView: 4,
-                        spaceBetween: 30,
+                        slidesPerView: 3
                     },
-                    1200: {
-                        slidesPerView: 4,
-                        spaceBetween: 30,
+                    768: {
+                        slidesPerView: 2
                     },
-                    1400: {
-                        slidesPerView: 4,
-                        spaceBetween: 30,
-                    },
+                    0: {
+                        slidesPerView: 1
+                    }
                 },
                 on: {
                     init: function() {
-                        // Add animation class when carousel initializes
                         $('.trusted-clients__item').addClass('animate-fade-in');
                     }
                 }
-            });
-            
-            // Animate items on scroll
+            });            
             if (typeof $.fn.appear !== 'undefined') {
                 $('.trusted-clients__item').appear(function() {
                     $(this).addClass('animate-fade-in');
