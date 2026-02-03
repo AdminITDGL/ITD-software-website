@@ -1349,10 +1349,10 @@
                     <div class="stats__item-number">1Cr+</div>
                     <div class="stats__item-label">Orders Completed</div>
                 </div>
-                <div class="stats__item animate-y-axis-slider">
+                <!-- <div class="stats__item animate-y-axis-slider">
                     <div class="stats__item-number">20+</div>
                     <div class="stats__item-label">Industry Experts</div>
-                </div>
+                </div> -->
                 <div class="stats__item animate-y-axis-slider">
                     <div class="stats__item-number">95%</div>
                     <div class="stats__item-label">Accurate Orders</div>
@@ -1797,7 +1797,7 @@
             height: 48px;
             background: #fff;
             border-radius: 50%;
-            box-shadow: 0 2px 15px rgba(0,0,0,.12);
+            box-shadow: 0 2px 15px rgba(0, 0, 0, .12);
             transition: all .3s;
             display: flex;
             align-items: center;
@@ -1869,8 +1869,13 @@
                 padding: 30px 58px
             }
 
-            .proven-process-prev { left: 12px }
-            .proven-process-next { right: 12px }
+            .proven-process-prev {
+                left: 12px
+            }
+
+            .proven-process-next {
+                right: 12px
+            }
 
             .process-hexagon {
                 width: 150px;
@@ -1907,8 +1912,13 @@
                 height: 42px
             }
 
-            .proven-process-prev { left: 10px }
-            .proven-process-next { right: 10px }
+            .proven-process-prev {
+                left: 10px
+            }
+
+            .proven-process-next {
+                right: 10px
+            }
 
             .process-hexagon {
                 width: 140px;
@@ -1926,6 +1936,12 @@
 
             .hexagon-content p {
                 font-size: 10px
+            }
+
+            .step-number {
+                position: absolute;
+                top: -15px;
+                right: 0px;
             }
         }
     </style>
