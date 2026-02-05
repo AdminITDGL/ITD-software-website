@@ -179,7 +179,7 @@
               <div class="row justify-content-between align-items-center copyright__one-container-area">
                   <div class="col-xl-7 col-lg-9">
                       <div class="copyright__one-left">
-                          <p>© ITD SOFTWARE SERVICES PRIVATE LIMITED 2025 | All Rights Reserved</p>
+                          <p>© ITD SOFTWARE SERVICES PRIVATE LIMITED <script>document.write(new Date().getFullYear())</script> | All Rights Reserved</p>
                       </div>
                   </div>
                   <div class="col-xl-5 col-lg-3">
