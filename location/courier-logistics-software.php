@@ -2,6 +2,31 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) - Google Ads -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-17749048184');
+    </script>
+
+    <!-- Calls From Website Conversion Snippet -->
+    <script>
+      gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+      });
+    </script>
+
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B05LLRNDKK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-B05LLRNDKK');
+    </script>
+    
     <!-- Start Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
