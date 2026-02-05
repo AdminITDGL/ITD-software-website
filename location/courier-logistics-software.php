@@ -1196,7 +1196,6 @@
             padding: 18px 40px;
             font-size: 18px;
             font-weight: 600;
-            background: #ffffff;
             color: var(--primary-color-1);
             border: 2px solid #ffffff;
             border-radius: 5px;
