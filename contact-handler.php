@@ -97,6 +97,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <!DOCTYPE html>
         <html lang="en">
         <head>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-B05LLRNDKK"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-B05LLRNDKK');
+            </script>
+            <script>
+            gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+                'phone_conversion_number': '97695 91364'
+            });
+            </script>
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'AW-17749048184');
+            </script>
+
+
             <meta charset="UTF-8">
             <title>Submitting...</title>
         </head>
