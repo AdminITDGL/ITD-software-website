@@ -13,7 +13,14 @@
     <title>ITD Services Dubai: Best Courier Management Software</title>
 
     <?php include('header_script.php')?>
-    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-17749048184');
+    </script>
     <style>
         /* Reduce Banner Height - Remove Top and Bottom Padding */
         .banner__one {

@@ -13,6 +13,16 @@
     <title> Customer Portal Access | ITD Software Services – Secure & Seamless Digital Solutions</title>
 
     <?php include('includes/header_script.php')?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-17749048184');
+    </script>
+
 </head>
 
 <body>

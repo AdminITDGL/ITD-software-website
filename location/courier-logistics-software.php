@@ -32,7 +32,14 @@
         gtag('js', new Date());
         gtag('config', 'G-B05LLRNDKK');
     </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'AW-17749048184');
+    </script>
     <!-- Start Meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
