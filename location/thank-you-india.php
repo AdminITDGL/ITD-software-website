@@ -1,25 +1,25 @@
 <?php
-// Start session
-session_start();
+// // Start session
+// session_start();
 
-// Check if form was submitted (session token exists)
-// Allow access if session token is set and valid (within last 5 minutes)
-$allowed = false;
-if (isset($_SESSION['form_submitted']) && $_SESSION['form_submitted'] === true) {
-    // Check if submission was recent (within 5 minutes)
-    if (isset($_SESSION['form_submit_time']) && (time() - $_SESSION['form_submit_time']) < 300) {
-        $allowed = true;
-        // Clear the session to prevent refresh access
-        unset($_SESSION['form_submitted']);
-        unset($_SESSION['form_submit_time']);
-    }
-}
+// // Check if form was submitted (session token exists)
+// // Allow access if session token is set and valid (within last 5 minutes)
+// $allowed = false;
+// if (isset($_SESSION['form_submitted']) && $_SESSION['form_submitted'] === true) {
+//     // Check if submission was recent (within 5 minutes)
+//     if (isset($_SESSION['form_submit_time']) && (time() - $_SESSION['form_submit_time']) < 300) {
+//         $allowed = true;
+//         // Clear the session to prevent refresh access
+//         unset($_SESSION['form_submitted']);
+//         unset($_SESSION['form_submit_time']);
+//     }
+// }
 
-// If not allowed, redirect to home page
-if (!$allowed) {
-    header('Location: ../index.php');
-    exit();
-}
+// // If not allowed, redirect to home page
+// if (!$allowed) {
+//     header('Location: ../index.php');
+//     exit();
+// }
 ?>
 <!DOCTYPE html>
 <html lang="en">

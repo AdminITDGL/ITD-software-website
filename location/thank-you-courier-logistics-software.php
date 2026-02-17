@@ -1,18 +1,18 @@
-<?php
-session_start();
-$allowed = false;
-if (isset($_SESSION['form_submitted']) && $_SESSION['form_submitted'] === true) {
-    if (isset($_SESSION['form_submit_time']) && (time() - $_SESSION['form_submit_time']) < 300) {
-        $allowed = true;
-        unset($_SESSION['form_submitted']);
-        unset($_SESSION['form_submit_time']);
-    }
-}
-if (!$allowed) {
-    header('Location: ../index.php');
-    exit();
-}
-?>
+<!-- <?php
+// session_start();
+// $allowed = false;
+// if (isset($_SESSION['form_submitted']) && $_SESSION['form_submitted'] === true) {
+//     if (isset($_SESSION['form_submit_time']) && (time() - $_SESSION['form_submit_time']) < 300) {
+//         $allowed = true;
+//         unset($_SESSION['form_submitted']);
+//         unset($_SESSION['form_submit_time']);
+//     }
+// }
+// if (!$allowed) {
+//     header('Location: ../index.php');
+//     exit();
+// }
+?> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
