@@ -36,6 +36,16 @@
     <title>Thank You - ITD Services India</title>
 
     <?php include('header_script.php')?>
+    <!-- Event snippet for Courier Logistics - Thank You conversion page -->
+    <script>
+    gtag('event', 'conversion', {'send_to': 'AW-17749048184/Gp7CCICQo_IbEPj2s49C'});
+    </script>
+    <script>
+    gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+    });
+    </script>
+
     
     <style>
         /* Thank You Page Styles */

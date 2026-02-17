@@ -13,6 +13,21 @@
     <title>Top Features Every Courier Management Software Should Have</title>
 
     <?php include('includes/header_script.php') ?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-17749048184');
+    </script>
+    <script>
+    gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+    });
+    </script>
+
     <style>
         .container {
             margin: 20px auto;

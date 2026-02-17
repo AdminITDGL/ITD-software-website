@@ -54,6 +54,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Thank You - ITD Services USA</title>
     <?php include('header_script.php')?>
+    <script>
+    gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+    });
+    </script>
     <style>
         .thank-you__area {
             min-height: 100vh;

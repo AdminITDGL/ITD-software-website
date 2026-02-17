@@ -51,6 +51,12 @@
     <title>Custom Courier Software | Courier & Logistics Management Software - ITD Software</title>
 
     <?php include('header_script.php') ?>
+    <script>
+    gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+    });
+    </script>
+
 
     <style>
         /* Reduce Banner Height - Remove Top and Bottom Padding */

@@ -14,6 +14,21 @@
     </title>
 
     <?php include('includes/header_script.php')?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17749048184"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-17749048184');
+    </script>
+    <script>
+    gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+    });
+    </script>
+
 </head>
 
 <body>
@@ -23,6 +38,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
     <?php include('includes/header.php')?>
+
 
     <!-- Banner Area Start -->
     <div class="banner__one" style="background-image: url(./assets/img/banner/notification-service.jpg);">

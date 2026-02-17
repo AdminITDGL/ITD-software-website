@@ -22,6 +22,11 @@
 
     gtag('config', 'AW-17749048184');
     </script>
+    <script>
+    gtag('config', 'AW-17749048184/BjTkCLWQw8YbEPj2s49C', {
+        'phone_conversion_number': '97695 91364'
+    });
+    </script>
 
 </head>
 
