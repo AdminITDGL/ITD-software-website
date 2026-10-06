@@ -9,3 +9,17 @@ Thumbs.db
 
 # Claude scratch
 .claude/tmp/
+
+# Server-only files: empty placeholders in git, real versions live on the
+# server. Untracked so deploys never overwrite them.
+SETUP-EMAIL.md
+WHATSAPP_SETUP_CHECKLIST.md
+email-config.php
+form-security.php
+send-cc-email-reliable.php
+send-cc-email.php
+send-email-smtp.php
+submit-form.php
+test-email.php
+test-form.php
+webhook-email-handler.php

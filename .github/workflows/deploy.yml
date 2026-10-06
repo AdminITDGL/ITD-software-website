@@ -1,0 +1,82 @@
+# -----------------------------------------------------------------------------
+# Push-to-deploy for https://itdservices.in  (same pattern as SUMMARISE-WEBSITE)
+# -----------------------------------------------------------------------------
+# Every push to `main` SSHs into the droplet as `deploy` and syncs the live
+# web root to the latest commit. Files only — PHP, nginx and server config
+# are never touched.
+#
+# Git metadata lives OUTSIDE the web root (~/repos/itdservices.git) so
+# /.git is never publicly downloadable.
+#
+# Requires four repo secrets (same values as SUMMARISE-WEBSITE):
+#   SSH_HOST, SSH_USER, SSH_PORT, SSH_PRIVATE_KEY
+# Optional: ITD_WEB_ROOT — live folder path; auto-detected from nginx if unset.
+# -----------------------------------------------------------------------------
+
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+concurrency:
+  group: deploy-itdservices
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Push to itdservices.in
+    runs-on: ubuntu-latest
+    steps:
+      - name: SSH → sync live web root
+        uses: appleboy/ssh-action@v1.2.0
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ITD_WEB_ROOT: ${{ secrets.ITD_WEB_ROOT }}
+        with:
+          host:     ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          port:     ${{ secrets.SSH_PORT }}
+          key:      ${{ secrets.SSH_PRIVATE_KEY }}
+          envs: GH_TOKEN,GH_REPO,ITD_WEB_ROOT
+          script_stop: true
+          command_timeout: 5m
+          script: |
+            set -e
+            ROOT="${ITD_WEB_ROOT}"
+            if [ -z "$ROOT" ]; then
+              ROOT=$(grep -h -A40 -E "server_name[^;]*itdservices\.in" /etc/nginx/sites-enabled/* 2>/dev/null \
+                     | grep -m1 -oP '^\s*root\s+\K[^;]+' || true)
+            fi
+            if [ -z "$ROOT" ] || [ ! -d "$ROOT" ]; then
+              echo "✗ Could not find the itdservices.in web root. Set the ITD_WEB_ROOT secret."; exit 1
+            fi
+            echo "▸ Web root: $ROOT"
+
+            GD="$HOME/repos/itdservices.git"
+            URL="https://x-access-token:${GH_TOKEN}@github.com/${GH_REPO}.git"
+            G="git --git-dir=$GD --work-tree=$ROOT"
+
+            if [ ! -d "$GD" ]; then
+              # First run: back up live site, connect it to git, change NO files.
+              mkdir -p "$HOME/backups" "$HOME/repos"
+              BK="$HOME/backups/itdservices-$(date +%F-%H%M).tgz"
+              tar czf "$BK" -C "$ROOT" .
+              echo "▸ Backup of live site: $BK"
+              git init -q --bare "$GD"
+              git --git-dir="$GD" config core.bare false
+              $G fetch -q "$URL" main
+              $G reset -q --mixed FETCH_HEAD
+              echo "▸ FIRST RUN — connected, no live files changed."
+              echo "▸ Files that differ between live site and GitHub (M = modified, D = missing on live, ?? = live-only):"
+              $G status --short | head -150
+              echo "✓ Next push to main will deploy."
+              exit 0
+            fi
+
+            $G fetch -q "$URL" main
+            $G reset -q --hard FETCH_HEAD
+            echo "▸ Live now at: $($G log -1 --format='%h %s')"
+            echo "✓ Deploy complete"
