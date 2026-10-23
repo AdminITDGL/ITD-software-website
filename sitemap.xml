@@ -5,6 +5,9 @@
       
     </url>
     <url>
+        <loc>https://itdservices.in/privacy.php</loc>
+    </url>
+    <url>
         <loc>https://itdservices.in/index.php</loc>
         <priority>1.0</priority>
     </url>

@@ -52,6 +52,7 @@
                                   <li><a href="about.php"><i class="far fa-chevron-double-right"></i>About Us</a></li>
                                   <li><a href="blog.php"><i class="far fa-chevron-double-right"></i>Blog</a></li>
                                   <li><a href="contact.php"><i class="far fa-chevron-double-right"></i>Contact</a></li>
+                                  <li><a href="privacy.php"><i class="far fa-chevron-double-right"></i>Privacy Policy</a></li>
                               </ul>
                           </div>
                       </div>
@@ -184,7 +185,7 @@
                   </div>
                   <div class="col-xl-5 col-lg-3">
                       <div class="copyright__one-right">
-                          <a href="about.php">Privacy Policy</a>
+                          <a href="privacy.php">Privacy Policy</a>
                           <a href="contact.php">Contact Us</a>
                       </div>
                   </div>
